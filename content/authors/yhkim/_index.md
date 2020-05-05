@@ -14,10 +14,10 @@ role:
 
 Organizations/Affiliations:
 organizations:
-- name: Pacific Institute for the Mathematical Sciences
-  url: "https://pims.math.ca"
 - name: University of British Columbia
   url: "https://ubc.ca"
+- name: Pacific Institute for the Mathematical Sciences
+  url: "https://pims.math.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio:

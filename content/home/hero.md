@@ -53,4 +53,4 @@ hero_media = "avatar.png"
 
 The Kantorovich Initiative is a research and teaching project looking at Optimal Transportation and its applications.
 
-The interdisciplinary Group was convened by [Soumik Pal (UW)](https://sites.math.washington.edu/~soumik/), [Brendan Pass (UA)](https://sites.ualberta.ca/~pass/) and [Young-Heon Kim (UBC)](https://www.math.ubc.ca/~yhkim/), with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
+The interdisciplinary Group was convened by [Soumik Pal (UW)](/authors/soumik/), [Brendan Pass (UA)](/authors/pass/) and [Young-Heon Kim (UBC)](/authors/yhkim/), with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).

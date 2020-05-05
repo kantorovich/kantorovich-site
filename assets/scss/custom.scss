@@ -1,3 +1,9 @@
 .home-section#sponsors {
     background-color: lightblue;
 }
+
+.home-section.dark a:not(.btn):not(.hero-cta-alt) {
+    text-decoration: none;
+    font-style: oblique;
+    color: antiquewhite;
+}

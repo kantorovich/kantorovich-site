@@ -14,10 +14,10 @@ role:
 
 Organizations/Affiliations:
 organizations:
-- name: Pacific Institute for the Mathematical Sciences
-  url: "https://pims.math.ca"
 - name: University of Alberta
   url: "https://ualberta.ca"
+- name: Pacific Institute for the Mathematical Sciences
+  url: "https://pims.math.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
