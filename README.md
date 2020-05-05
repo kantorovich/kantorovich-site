@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56b1c5a3-d883-4c20-bc4c-79fc31f7b4cb/deploy-status)](https://app.netlify.com/sites/condescending-hodgkin-9b0faa/deploys)
 
 The kantorovich.org site is running a version of the Academic Hugo Theme/system. This post provides an overview on how to contribute to the site and how the site can be used to support the research organization. (This content also appears in the README.md file.)
 
