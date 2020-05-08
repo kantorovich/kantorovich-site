@@ -20,8 +20,8 @@ hero_media = "avatar.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#6C757D"
+  gradient_end = "#4F4F50"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
