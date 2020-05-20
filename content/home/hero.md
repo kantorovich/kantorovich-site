@@ -17,11 +17,11 @@ hero_media = "avatar.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "white"
   
   # Background gradient.
-  gradient_start = "#6C757D"
-  gradient_end = "#4F4F50"
+  #gradient_start = "#
+  #gradient_end = "#4F4F50"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -53,4 +53,4 @@ hero_media = "avatar.png"
 
 The Kantorovich Initiative is a research and teaching project looking at Optimal Transportation and its applications.
 
-The interdisciplinary Group was convened by [Soumik Pal (UW)](/authors/soumik/), [Brendan Pass (UA)](/authors/pass/) and [Young-Heon Kim (UBC)](/authors/yhkim/), with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
+The group was convened by [Soumik Pal (UW)](/authors/soumik/), [Brendan Pass (UA)](/authors/pass/) and [Young-Heon Kim (UBC)](/authors/yhkim/), with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
