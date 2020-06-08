@@ -21,4 +21,4 @@ processing, comparing and interpolating between data sets in statistics,
 matching partners in economics, aligning electrons in chemical physics...) and
 is currently an extremely active research area.
 
-![Kantorovich logo](/static/img/avatar.png)
+![Kantorovich logo](/img/avatar.png)
