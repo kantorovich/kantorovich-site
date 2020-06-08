@@ -6,6 +6,7 @@ date: 2020-05-19T10:32:42-07:00
 
 What is optimal transport (OT)? At its heart it is a simple optimization problem. 
 
+[Linear space programing](https://en.wikipedia.org/wiki/Linear_programming)
 
 This course has two main objectives: first, to introduce a wide range of students
 to the exciting and broadly applicable research area of optimal transport, and
