@@ -50,7 +50,6 @@ hero_media = "avatar.png"
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
-
-The Kantorovich Initiative is a research and teaching project looking at Optimal Transportation and its applications.
+The Kanotorovich Initiative is dedicated towards research and dissemination of modern OT mathematics towards a wide audience of researchers, students, industry, policy makers and the general public.
 
 The group was convened by [Soumik Pal (UW)](/authors/soumik/), [Brendan Pass (UA)](/authors/pass/) and [Young-Heon Kim (UBC)](/authors/yhkim/), with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
