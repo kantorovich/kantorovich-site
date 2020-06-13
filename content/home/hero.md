@@ -50,6 +50,6 @@ hero_media = "avatar.png"
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
-The Kanotorovich Initiative is dedicated towards research and dissemination of modern OT mathematics towards a wide audience of researchers, students, industry, policy makers and the general public.
+The Kanotorovich Initiative is dedicated towards research and dissemination of modern mathematics of optimal transport towards a wide audience of researchers, students, industry, policy makers and the general public.
 
 The group was convened by [Soumik Pal (University of Washington, Seattle)](/authors/soumik/), [Brendan Pass (University of Alberta)](/authors/pass/) and [Young-Heon Kim (University of British Columbia)](/authors/yhkim/), with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
