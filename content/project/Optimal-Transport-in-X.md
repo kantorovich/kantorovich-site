@@ -1,5 +1,5 @@
 ---
-title: Optimal Transport + X
+title: OT + X
 summary: Online courses in Optimal Transport + Economics, Fall 2020
 date: 2020-05-19T10:32:42-07:00
 ---
