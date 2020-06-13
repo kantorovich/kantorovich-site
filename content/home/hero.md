@@ -52,4 +52,4 @@ hero_media = "avatar.png"
 +++
 The Kanotorovich Initiative is dedicated towards research and dissemination of modern mathematics of optimal transport towards a wide audience of researchers, students, industry, policy makers and the general public.
 
-The group was convened by [Soumik Pal (University of Washington, Seattle)](/authors/soumik/), [Brendan Pass (University of Alberta)](/authors/pass/) and [Young-Heon Kim (University of British Columbia)](/authors/yhkim/), with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
+The group was convened by [Young-Heon Kim (University of British Columbia)](/authors/yhkim/), [Soumik Pal (University of Washington)](/authors/soumik/) and [Brendan Pass (University of Alberta)](/authors/pass/), with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
