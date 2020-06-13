@@ -8,7 +8,7 @@ The Kantorovich Initiative plans to offer regular online courses on Optimal Tran
 'X' is chosen from the many disciplines in which optimal transport (OT) places an important role, including economics and finance, data science/statistics, computation, biology, etc. These courses will have two main objectives: first, to introduce a wide range of students to the exciting and broadly applicable research area of optimal transport, and second, to explore more closely its applications in a particular field, which will vary from year to year (represented by 'X' in the title). 
  
 In **Fall 2020 OT+Economics** will be taught by [Brendan Pass](https://sites.ualberta.ca/~pass/) from University of Alberta. There will be additional guest lectures by experts in applications of OT in economics and finance.
-Please e-mail Prof. Pass at pass@ualberta.ca for details regarding registration. 
+Please e-mail Prof. Pass at <pass@ualberta.ca> for details regarding registration. 
 
 The first part of the course surveys the basic theory of optimal transport. Topics to be covered include: 
 - formulation of the problem 
