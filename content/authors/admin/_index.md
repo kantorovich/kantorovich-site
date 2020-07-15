@@ -1,6 +1,6 @@
 ---
 # Display name
-name: The Kantorovich Initiative
+title: The Kantorovich Initiative
 
 # Username (this should match the folder name)
 authors:
