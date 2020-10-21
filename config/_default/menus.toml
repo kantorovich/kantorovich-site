@@ -34,7 +34,7 @@
   weight = 70
 
 [[main]]
-  name = "List"
+  name = "Subscribe"
   url  = "#mailinglist"
   weight = 80
 
