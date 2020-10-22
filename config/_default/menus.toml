@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#hero"
   weight = 10
 
 [[main]]
@@ -28,15 +28,21 @@
  url = "#publications"
  weight = 50
 
-# [[main]]
-#  name = "Sponsors"
-#  url = "#sponsors"
-#  weight = 60
-
 [[main]]
   name = "Team"
   url = "#people"
   weight = 70
+
+[[main]]
+  name = "Subscribe"
+  url  = "#mailinglist"
+  weight = 80
+
+[[main]]
+ name = "Sponsors"
+ url = "#sponsors"
+ weight = 90
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
