@@ -5,8 +5,7 @@ title: "Asymptotics of Entropy Regularized Optimal Transport via Chaos Decomposi
 event: Probability Seminar
 location: "Online (zoom)"
 registration_info: |
-  Connection details will be sent via the [mailing
-  list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc)
+  Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
   name: Lang Liu
   institution: University of Washington
@@ -32,7 +31,7 @@ summary: ""
 authors: 
 tags: []
 categories: []
-date: 2020-10-23T14:30:00-08:00
+date: 2020-11-23T14:30:00-08:00
 lastmod: 2020-11-09T19:21:51-08:00
 featured: false
 draft: false
