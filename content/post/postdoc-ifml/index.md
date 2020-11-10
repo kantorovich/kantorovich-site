@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Postdoc positions at UW-NSF Institute for Foundations of Machine
+title: "Postdoc positions at UW-NSF AI Institute for Foundations of Machine
 Learning"
 subtitle: ""
 summary: ""
@@ -32,7 +32,7 @@ projects: []
 The UW-NSF AI Institute for Foundations of Machine Learning postdoc positions
 are now available. Interested applicant should apply
 [here](https://ml.utexas.edu/postdoctoral-positions) and cc Soumik Pal
-(soumikpal@gmail.com) and Sewoong Oh (sewoong@cs.washington.edu).  An interest
+(soumikpal@gmail.com), Sewoong Oh (sewoong@cs.washington.edu) and Zaid Harchaoui (zaid@uw.edu).  An interest
 in working with UW PIs should clearly appear in their application package so
 that the application is directed towards the UW pool.
 

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Asymptotics of Entropy Regularized Optimal Transport via Chamos Decomposition"
+title: "Asymptotics of Entropy Regularized Optimal Transport via Chaos Decomposition"
 event: Probability Seminar
 location: "Online (zoom)"
 registration_info: |
