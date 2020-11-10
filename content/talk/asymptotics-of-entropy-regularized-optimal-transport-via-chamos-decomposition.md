@@ -4,8 +4,9 @@
 title: "Asymptotics of Entropy Regularized Optimal Transport via Chamos Decomposition"
 event: Probability Seminar
 location: "Online (zoom)"
-registration_info: Connection details will be sent via the [mailing
-list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc)
+registration_info: |
+  Connection details will be sent via the [mailing
+  list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc).
 speaker:
   name: Lang Liu
   institution: University of Washington
