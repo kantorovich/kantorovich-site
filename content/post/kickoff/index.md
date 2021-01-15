@@ -1,7 +1,8 @@
 ---
 title: "PIHOT Kickoff Event"
 subtitle: ""
-summary: ""
+summary: "The kickoff event for PIHOT will take place on Jan 29-30th, 2021.
+Please see below for a tentative schedule and connection instructions."
 authors: ["soumik"]
 tags: ['event']
 categories: ['events']
@@ -26,17 +27,21 @@ The kickoff event for PIHOT will take place Jan 29-30, 2021. Here is a tentative
 schedule for the event
 
 ## Friday: 8am (PST)
-  * 8-9: Yann Brenier, CNRS, DMA-ENS, France
-  * 9-10 Gabriel Peyré, CNRS, ENS, France
-  * 10--10:30: Introduction of the team members (2)
-  * 10:30–11:30: Break
-  * 11:30--1pm: Introduction of the team members (8)
-  * 1--2: Break
-  * 2-3: talk: Maryam Kamgarpour, UBC ECE
-  * 3-4: Introduction of the team members (5)
-  * 4-5: talk. Dave Schneider, U. Saskatchewan, Global Institute for Food Security
+  * `8:00-9:00` Yann Brenier, _CNRS, DMA-ENS, France_
+  * `9:00-10:00` Gabriel Peyré, _CNRS, ENS, France_
+  * `10:00-10:30` Introduction of the team members (2)
+  * `10:30–11:30` _Break_
+  * `11:30-1:00` Introduction of the team members (8)
+  * `1:00-2:00` _Break_
+  * `2:00-3:00` Maryam Kamgarpour, _UBC ECE_
+  * `3:00-4:00` Introduction of the team members (5)
+  * `16:00-17:00` Dave Schneider, _U. Saskatchewan, Global Institute for Food Security_
 
 ## Saturday: 9am (PST):
-  * 9-10: talk. Danica Sutherland, UBC CS
-  * 10-11: talk: Stefan Steinerberger, UW math
-  * 11-12: talk. Yanqin Fan, UW Econ
+  * `9:00-10:00` Danica Sutherland, _UBC CS_
+  * `10:00-11:00` Stefan Steinerberger, _UW Math_
+  * `11:00-12:00` Yanqin Fan, _UW Econ_
+
+Connection details for the meeting will be provided via our [mailing
+list](/#mailinglist). Please make sure you have subscribed to the list for
+information on this event and others.
