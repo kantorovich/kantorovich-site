@@ -39,8 +39,8 @@ schedule for the event
 
 ## Saturday: 9am (PST):
   * `9:00-10:00` Danica Sutherland, _UBC CS_
-  * `10:00-11:00` Stefan Steinerberger, _UW Math_
-  * `11:00-12:00` Yanqin Fan, _UW Econ_
+  * `10:00-11:00` [Optimal Coffee shops, Numerical Integration and Kantorovich-Rubinstein duality](/talk/__Stefan Steinerberger__, _UW Math_
+  * `11:00-12:00` [Vector Copulas and Vector Sklar Theorem](/talk/kickoff_fan/) __Yanqin Fan__, _UW Econ_
 
 Connection details for the meeting will be provided via our [mailing
 list](/#mailinglist). Please make sure you have subscribed to the list for
