@@ -33,7 +33,7 @@ schedule for the event
   * `10:30–11:30` _Break_
   * `11:30-1:00` Introduction of the team members (8)
   * `1:00-2:00` _Break_
-  * `2:00-3:00` [Bandit learning of Nash equilibria in monotone games](/talk/kickoff_kamgarpour/) Maryam Kamgarpour, _UBC ECE_
+  * `2:00-3:00` [Bandit learning of Nash equilibria in monotone games](/talk/kickoff_kamgarpour/) __Maryam Kamgarpour__, _UBC ECE_
   * `3:00-4:00` Introduction of the team members (5)
   * `16:00-17:00` Dave Schneider, _U. Saskatchewan, Global Institute for Food Security_
 
