@@ -12,12 +12,12 @@ speaker:
   institution: CNRS, DMA-ENS, 45 rue d'Ulm, Paris, France
 abstract: |
   The initial value problem for many
-important PDEs (Burgers, Euler, Hamilton-Jacobi, Navier-Stokes equations,
-systems of conservation laws with convex entropy, etc...)
-can be often reduced to a convex minimization problem that can be seen as
-a generalized optimal transport problem involving matrix-valued density
-fields. The time boundary conditions enjoy a backward-forward structure
-of "ballistic" type, just as in mean-field game theory.
+  important PDEs (Burgers, Euler, Hamilton-Jacobi, Navier-Stokes equations,
+  systems of conservation laws with convex entropy, etc...)
+  can be often reduced to a convex minimization problem that can be seen as
+  a generalized optimal transport problem involving matrix-valued density
+  fields. The time boundary conditions enjoy a backward-forward structure
+  of "ballistic" type, just as in mean-field game theory.
 summary: ""
 authors: 
 tags: []
