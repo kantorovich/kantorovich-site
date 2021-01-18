@@ -33,14 +33,14 @@ schedule for the event
   * `10:30–11:30` _Break_
   * `11:30-1:00` Introduction of the team members (8)
   * `1:00-2:00` _Break_
-  * `2:00-3:00` [Bandit learning of Nash equilibria in monotone games](/talk/kickoff_kamgarpour/) __Maryam Kamgarpour__, _UBC ECE_
+  * `2:00-3:00` [Bandit learning of Nash equilibria in monotone games](/talk/kickoff_kamgarpour/), __Maryam Kamgarpour__, _UBC ECE_
   * `3:00-4:00` Introduction of the team members (5)
   * `16:00-17:00` Dave Schneider, _U. Saskatchewan, Global Institute for Food Security_
 
 ## Saturday: 9am (PST):
   * `9:00-10:00` Danica Sutherland, _UBC CS_
-  * `10:00-11:00` [Optimal Coffee shops, Numerical Integration and Kantorovich-Rubinstein duality](/talk/__Stefan Steinerberger__, _UW Math_
-  * `11:00-12:00` [Vector Copulas and Vector Sklar Theorem](/talk/kickoff_fan/) __Yanqin Fan__, _UW Econ_
+  * `10:00-11:00` [Optimal Coffee shops, Numerical Integration and Kantorovich-Rubinstein duality](/talk/steinerberger), __Stefan Steinerberger__, _UW Math_
+  * `11:00-12:00` [Vector Copulas and Vector Sklar Theorem](/talk/kickoff_fan/), __Yanqin Fan__, _UW Econ_
 
 Connection details for the meeting will be provided via our [mailing
 list](/#mailinglist). Please make sure you have subscribed to the list for
