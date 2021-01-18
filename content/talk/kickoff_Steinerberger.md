@@ -14,7 +14,7 @@ abstract: |
 downtown area have to walk the least amount to get their morning coffee.  
 That's a classical problem in Optimal Transport, minimizing the Wasserstein 
 distance between the sum of 7 Dirac measures and the (coffee-drinking) 
-population density. But in reality, things are trickier: if the 7 coffee shops go well, 
+population density. But in reality things are trickier. If the 7 coffee shops go well, 
 you want to open an 8th and a 9th and you want to remain optimal in this respect 
 (and the first 7 are already fixed). We find optimal rates for this problem in W_2 
 in all dimensions. Analytic Number Theory makes an appearance and, in fact, 
