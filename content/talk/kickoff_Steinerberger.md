@@ -10,7 +10,7 @@ speaker:
   name:  Stefan Steinerberger
   institution: University of Washington (Math)
 abstract: |
-   Suppose you want to open up 7 coffee shops so that people in the
+  Suppose you want to open up 7 coffee shops so that people in the
 downtown area have to walk the least amount to get their morning coffee.  
 That's a classical problem in Optimal Transport, minimizing the Wasserstein 
 distance between the sum of 7 Dirac measures and the (coffee-drinking) 
