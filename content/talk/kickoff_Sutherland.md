@@ -10,7 +10,7 @@ speaker:
   name: Danica Sutherland
   institution: University of British Columbia, CS
 abstract: |
-Optimal transport, while widespread and effective, is not the only game in town for comparing high-dimensional distributions. This talk will cover a set of related distances based on kernel methods, in particular the maximum mean discrepancy, and especially their use with learned kernels defined by deep networks. This set of distance metrics allows for effective use in a variety of applications; we will cover foundational properties and develop variants useful for distinguishing distributions, training generative models, and other machine learning applications. 
+ Optimal transport, while widespread and effective, is not the only game in town for comparing high-dimensional distributions. This talk will cover a set of related distances based on kernel methods, in particular the maximum mean discrepancy, and especially their use with learned kernels defined by deep networks. This set of distance metrics allows for effective use in a variety of applications; we will cover foundational properties and develop variants useful for distinguishing distributions, training generative models, and other machine learning applications. 
 
 summary: ""
 authors: 
