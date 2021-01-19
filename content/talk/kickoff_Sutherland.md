@@ -1,37 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Asymptotics of Entropy Regularized Optimal Transport via Chaos Decomposition"
+title: "Deep kernel-based distances between distributions"
 event: Probability Seminar
 location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
-  name: Lang Liu
-  institution: University of Washington
+  name: Danica Sutherland
+  institution: University of British Columbia, CS
 abstract: |
-  Consider the problem of finding the optimal coupling (or matching) between two
-  i.i.d. samples from respective two densities on Euclidean spaces. For both
-  computational efficiency and smoothness, this discrete problem is usually
-  regularized by an entropy term. We introduce a modification to the commonly used
-  discrete entropic regularization [Cuturi ('13)] so that the optimal coupling of
-  the regularized problem can be viewed as the static Schroedinger bridge given a
-  finite number of particles. We show that this discrete Schroedinger bridge
-  converges weakly to its continuum counterpart as the sample size goes to
-  infinity. The proofs are based on a change of measure argument equipped with a
-  novel contiguity result on the sequence of laws of the pair of empirical
-  measures. We derive a functional CLT and second order Gaussian chaos limits when
-  the limiting Gaussian is degenerate. This is achieved by a new chaos
-  decomposition for paired samples using Markov operators. This idea generalizes
-  the Hoeffding decomposition from the classical U-statistics theory, where the
-  samples are assumed to be independent. This talk is based on joint work with
-  Zaid Harchaoui and Soumik Pal. 
+Optimal transport, while widespread and effective, is not the only game in town for comparing high-dimensional distributions. This talk will cover a set of related distances based on kernel methods, in particular the maximum mean discrepancy, and especially their use with learned kernels defined by deep networks. This set of distance metrics allows for effective use in a variety of applications; we will cover foundational properties and develop variants useful for distinguishing distributions, training generative models, and other machine learning applications. 
 
 summary: ""
 authors: 
 tags: []
 categories: []
-date: 2020-11-23T14:30:00-08:00
+date: 2020-01-29T14:30:00-08:00
 publishDate: 2020-11-09T14:30:00-08:00
 lastmod: 2020-11-09T19:21:51-08:00
 featured: false
