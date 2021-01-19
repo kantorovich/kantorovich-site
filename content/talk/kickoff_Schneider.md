@@ -1,39 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Asymptotics of Entropy Regularized Optimal Transport via Chaos Decomposition"
+title: "Kac goes to work: Stochastic processes as probes of the architecture of plant root systems"
 event: Probability Seminar
 location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
-  name: Lang Liu
-  institution: University of Washington
+  name: David Schneider
+  institution: University of Saskatchewan (School of Environment and Sustainability)
 abstract: |
-  Consider the problem of finding the optimal coupling (or matching) between two
-  i.i.d. samples from respective two densities on Euclidean spaces. For both
-  computational efficiency and smoothness, this discrete problem is usually
-  regularized by an entropy term. We introduce a modification to the commonly used
-  discrete entropic regularization [Cuturi ('13)] so that the optimal coupling of
-  the regularized problem can be viewed as the static Schroedinger bridge given a
-  finite number of particles. We show that this discrete Schroedinger bridge
-  converges weakly to its continuum counterpart as the sample size goes to
-  infinity. The proofs are based on a change of measure argument equipped with a
-  novel contiguity result on the sequence of laws of the pair of empirical
-  measures. We derive a functional CLT and second order Gaussian chaos limits when
-  the limiting Gaussian is degenerate. This is achieved by a new chaos
-  decomposition for paired samples using Markov operators. This idea generalizes
-  the Hoeffding decomposition from the classical U-statistics theory, where the
-  samples are assumed to be independent. This talk is based on joint work with
-  Zaid Harchaoui and Soumik Pal. 
+The past decade has seen a rapid development of data-driven plant breeding strategies based on the two significant technological developments.  First, the use of high throughput DNA sequencing technology to identify millions of genetic markers on that characterize the available genetic diversity captured by the thousands of available accessions in each major crop species.   Second, the development of high throughput imaging platforms for estimating quantitative traits associated with easily accessible above-ground structures such as shoots, leaves and flowers.  These data-driven breeding strategies are widely viewed as the basis for rapid development of crops capable of providing stable yields in the face of global climate change.  Roots and other below-ground structures are much more difficult to study yet play essential roles in adaptation to climate change including as uptake of water and nutrients.  Estimation of quantitative traits from images remains a significant technical and scientific bottleneck for both above and below-ground structures.  The focus of this talk, inspired by the analytical results of Kac, van den Berg and many others in the area of spectral geometry, is to describe a computational and statistical methodology that employs stochastic processes as quantitative measurement tools suitable for characterizing images of multi-scale dendritic structures such as plant root systems.  The substrate for statistical analyses in Wasserstein space are hitting distributions obtained by simulation.  The practical utility of this approach is demonstrated using 2D images of sorghum roots of different genetic backgrounds and grown in different environments.
 
 summary: ""
 authors: 
 tags: []
 categories: []
-date: 2021-01-29T16:00:00-08:00
-publishDate: 2021-01-19T15:24:00-08:00
-lastmod: 2021-01-19T15:24:00-08:00
+date: 2020-11-23T14:30:00-08:00
+publishDate: 2020-11-09T14:30:00-08:00
+lastmod: 2020-11-09T19:21:51-08:00
 featured: false
 draft: false
 
