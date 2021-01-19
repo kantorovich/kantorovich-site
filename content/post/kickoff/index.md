@@ -29,12 +29,12 @@ schedule for the event
 ## Friday: 8am (PST)
   * `8:00-9:00` [Initial value problems viewed as generalized optimal transport problems with matrix-valued density fields](/talk/kickoff_brenier/), __Yann Brenier__, _CNRS, DMA-ENS, France_
   * `9:00-10:00` [Scaling Optimal Transport for High dimensional Learning](/talk/kickoff_peyre/), __Gabriel Peyré__, _CNRS, ENS, France_
-  * `10:00-10:30` Introduction of the team members (2)
+  * `10:00-10:30` Introduction of the team members
   * `10:30–11:30` _Break_
-  * `11:30-1:00` Introduction of the team members (8)
+  * `11:30-1:00` Introduction of the team members
   * `1:00-2:00` _Break_
   * `2:00-3:00` [Bandit learning of Nash equilibria in monotone games](/talk/kickoff_kamgarpour/), __Maryam Kamgarpour__, _UBC ECE_
-  * `3:00-4:00` Introduction of the team members (5)
+  * `3:00-4:00` Introduction of the team members
   * `4:00-5:00` [Asymptotics of Entropy Regularized Optimal Transport via Chaos Decomposition](/talk/kickoff_schneider/) __Dave Schneider__, _U. Saskatchewan, Global Institute for Food Security_
 
 ## Saturday: 9am (PST):
