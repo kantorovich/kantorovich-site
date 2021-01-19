@@ -23,7 +23,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The kickoff event for PIHOT will take place Jan 29-30, 2021. Here is a tentative
+The kickoff event for PIHOT (the Pacific Inderdisciplinary hub on Optimal Transport) will take place Jan 29-30, 2021. Here is a tentative
 schedule for the event
 
 ## Friday: 8am (PST)
