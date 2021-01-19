@@ -45,3 +45,11 @@ schedule for the event
 Connection details for the meeting will be provided via our [mailing
 list](/#mailinglist). Please make sure you have subscribed to the list for
 information on this event and others.
+
+
+<div class="row">
+<div class="col-lg-5 sponsor">
+    <a href="https://www.pims.math.ca" target="_blank"><img src="img/pims-logo.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
+</div>
+<div class="col-lg-2">&nbsp;</div>
+</div>
