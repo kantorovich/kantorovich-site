@@ -1,39 +1,35 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Asymptotics of Entropy Regularized Optimal Transport via Chaos Decomposition"
+title: "Optimal Coffee shops, Numerical Integration and Kantorovich-Rubinstein duality"
 event: Probability Seminar
 location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
-  name: Lang Liu
-  institution: University of Washington
+  name: Stefan Steinerberger
+  institution: University of Washington (Math)
 abstract: |
-  Consider the problem of finding the optimal coupling (or matching) between two
-  i.i.d. samples from respective two densities on Euclidean spaces. For both
-  computational efficiency and smoothness, this discrete problem is usually
-  regularized by an entropy term. We introduce a modification to the commonly used
-  discrete entropic regularization [Cuturi ('13)] so that the optimal coupling of
-  the regularized problem can be viewed as the static Schroedinger bridge given a
-  finite number of particles. We show that this discrete Schroedinger bridge
-  converges weakly to its continuum counterpart as the sample size goes to
-  infinity. The proofs are based on a change of measure argument equipped with a
-  novel contiguity result on the sequence of laws of the pair of empirical
-  measures. We derive a functional CLT and second order Gaussian chaos limits when
-  the limiting Gaussian is degenerate. This is achieved by a new chaos
-  decomposition for paired samples using Markov operators. This idea generalizes
-  the Hoeffding decomposition from the classical U-statistics theory, where the
-  samples are assumed to be independent. This talk is based on joint work with
-  Zaid Harchaoui and Soumik Pal. 
+  Suppose you want to open up 7 coffee shops so that people in the
+  downtown area have to walk the least amount to get their morning coffee.  
+  That's a classical problem in Optimal Transport, minimizing the Wasserstein 
+  distance between the sum of 7 Dirac measures and the (coffee-drinking) 
+  population density. But in reality things are trickier. If the 7 coffee shops go well, 
+  you want to open an 8th and a 9th and you want to remain optimal in this respect 
+  (and the first 7 are already fixed). We find optimal rates for this problem in $W_2$ 
+  in all dimensions. Analytic Number Theory makes an appearance and, in fact, 
+  Optimal Transport can tell us something new about $\sqrt{2}$.  All of this is also 
+  related to the question of approximating an integral by sampling in a number of 
+  points and a conjectured extension of the Kantorovich-Rubinstein duality regarding
+  the $W_1$ distance and testing of two measures against Lipschitz functions. 
 
 summary: ""
 authors: 
 tags: []
 categories: []
-date: 2020-11-23T14:30:00-08:00
-publishDate: 2020-11-09T14:30:00-08:00
-lastmod: 2020-11-09T19:21:51-08:00
+date: 2021-01-30T10:00:00-08:00
+publishDate: 2021-01-18T15:45:00-08:00
+lastmod: 2021-01-18T15:45:00-08:00
 featured: false
 draft: false
 

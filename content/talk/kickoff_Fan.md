@@ -1,39 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Asymptotics of Entropy Regularized Optimal Transport via Chaos Decomposition"
+title: "Vector Copulas and Vector Sklar Theorem"
 event: Probability Seminar
 location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
-  name: Lang Liu
-  institution: University of Washington
+  name: Yanqin Fan
+  institution: University of Washington (Econ)
 abstract: |
-  Consider the problem of finding the optimal coupling (or matching) between two
-  i.i.d. samples from respective two densities on Euclidean spaces. For both
-  computational efficiency and smoothness, this discrete problem is usually
-  regularized by an entropy term. We introduce a modification to the commonly used
-  discrete entropic regularization [Cuturi ('13)] so that the optimal coupling of
-  the regularized problem can be viewed as the static Schroedinger bridge given a
-  finite number of particles. We show that this discrete Schroedinger bridge
-  converges weakly to its continuum counterpart as the sample size goes to
-  infinity. The proofs are based on a change of measure argument equipped with a
-  novel contiguity result on the sequence of laws of the pair of empirical
-  measures. We derive a functional CLT and second order Gaussian chaos limits when
-  the limiting Gaussian is degenerate. This is achieved by a new chaos
-  decomposition for paired samples using Markov operators. This idea generalizes
-  the Hoeffding decomposition from the classical U-statistics theory, where the
-  samples are assumed to be independent. This talk is based on joint work with
-  Zaid Harchaoui and Soumik Pal. 
+   This talk introduces vector copulas and establishes a vector version of Sklar's theorem. The latter provides a theoretical justification for the use of vector copulas to characterize nonlinear or rank dependence between a finite number of random vectors (robust to within vector dependence), and to construct multivariate distributions with any given non-overlapping multivariate marginals. We construct Elliptical, Archimedean, and Kendall families of vector copulas and present algorithms to generate data from them. We introduce a concordance ordering for two random vectors with given within-dependence structures and generalize Spearman's rho to random vectors. Finally, we construct empirical vector copulas and show their consistency under mild conditions. 
 
 summary: ""
 authors: 
 tags: []
 categories: []
-date: 2020-11-23T14:30:00-08:00
-publishDate: 2020-11-09T14:30:00-08:00
-lastmod: 2020-11-09T19:21:51-08:00
+date: 2021-01-30T11:00:00-08:00
+publishDate: 2021-01-18T15:46:00-08:00
+lastmod: 2021-01-18T15:46:00-08:00
 featured: false
 draft: false
 
