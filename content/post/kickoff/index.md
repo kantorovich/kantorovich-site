@@ -35,7 +35,7 @@ schedule for the event
   * `1:00-2:00` _Break_
   * `2:00-3:00` [Bandit learning of Nash equilibria in monotone games](/talk/kickoff_kamgarpour/), __Maryam Kamgarpour__, _UBC ECE_
   * `3:00-4:00` Introduction of the team members
-  * `4:00-5:00` [Asymptotics of Entropy Regularized Optimal Transport via Chaos Decomposition](/talk/kickoff_schneider/) __Dave Schneider__, _U. Saskatchewan, Global Institute for Food Security_
+  * `4:00-5:00` [Kac goes to work: Stochastic processes as probes of the architecture of plant root systems](/talk/kickoff_schneider/) __Dave Schneider__, _U. Saskatchewan, Global Institute for Food Security_
 
 ## Saturday: 9am (PST):
   * `9:00-10:00` [Deep kernel-based distances between distributions](/talk/kickoff_sutherland/), __Danica Sutherland__, _UBC CS_
