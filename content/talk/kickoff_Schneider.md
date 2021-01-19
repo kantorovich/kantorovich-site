@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Kac goes to work: Stochastic processes as probes of the architecture of plant root systems"
+title: "Asymptotics of Entropy Regularized Optimal Transport via Chaos Decomposition"
 event: Probability Seminar
 location: "Online (zoom)"
 registration_info: |
