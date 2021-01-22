@@ -1,7 +1,7 @@
 ---
 title: "PIHOT Kickoff Event"
 subtitle: ""
-summary: "The kickoff event for PIHOT (the Pacific Inderdisciplinary hub on Optimal Transport) will take place on Jan 29-30th, 2021.
+summary: "The kickoff event for PIHOT (the Pacific Interdisciplinary hub on Optimal Transport) will take place on Jan 29-30th, 2021.
 Please see below for a tentative schedule and connection instructions."
 authors: ["soumik"]
 tags: ['event']
