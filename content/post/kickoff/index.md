@@ -1,7 +1,7 @@
 ---
 title: "PIHOT Kickoff Event"
 subtitle: ""
-summary: "The kickoff event for PIHOT (the Pacific Interdisciplinary hub on Optimal Transport) will take place on Jan 29-30th, 2021.
+summary: "The kickoff event for PIHOT (the Pacific Interdisciplinary Hub on Optimal Transport) will take place on Jan 29-30th, 2021.
 Please see below for a tentative schedule and connection instructions."
 authors: ["soumik"]
 tags: ['event']
@@ -23,7 +23,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The kickoff event for the Pacific Interdisciplinary hub on Optimal Transport (PIHOT) [collaborative research group](https://www.pims.math.ca/collaborative-research-groups/pihot) will take place Jan 29-30, 2021. Here is a tentative
+The kickoff event for the Pacific Interdisciplinary Hub on Optimal Transport (PIHOT) [collaborative research group](https://www.pims.math.ca/collaborative-research-groups/pihot) will take place Jan 29-30, 2021. Here is a tentative
 schedule for the event
 
 ## Friday: 8am (PST)
