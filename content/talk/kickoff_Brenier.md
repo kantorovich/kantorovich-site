@@ -4,6 +4,7 @@
 title: "Initial value problems viewed as generalized optimal transport problems 
 with matrix-valued density fields"
 event: PIHOT kick-off event
+date_format: "Jan 2006"
 location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
@@ -42,4 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+url_video: https://mathtube.org/lecture/video/initial-value-problems-viewed-generalized-optimal-transport-problems-matrix-valued
+slides: ""
 ---

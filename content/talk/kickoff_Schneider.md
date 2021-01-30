@@ -36,4 +36,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+url_video: https://mathtube.org/lecture/video/kac-goes-work-stochastic-processes-probes-architecture-plant-root-systems
+slides: ""
 ---
