@@ -38,5 +38,5 @@ image:
 projects: []
 
 url_video: https://mathtube.org/lecture/video/deep-kernel-based-distances-between-distributions
-slides: ""
+url_slides: ""
 ---

@@ -38,5 +38,5 @@ image:
 projects: []
 
 url_video: https://mathtube.org/lecture/video/vector-copulas-and-vector-sklar-theorem
-slides:
+url_slides:
 ---

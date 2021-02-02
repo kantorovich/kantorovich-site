@@ -37,5 +37,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video: https://mathtube.org/lecture/video/scaling-optimal-transport-high-dimensional-learning
-slides: ""
+url_slides: ""
 ---

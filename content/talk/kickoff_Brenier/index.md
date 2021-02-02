@@ -45,5 +45,5 @@ image:
 projects: []
 
 url_video: https://mathtube.org/lecture/video/initial-value-problems-viewed-generalized-optimal-transport-problems-matrix-valued
-slides: ""
+url_slides: ""
 ---

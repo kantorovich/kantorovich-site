@@ -49,5 +49,5 @@ image:
 projects: []
 
 url_video: https://mathtube.org/lecture/video/optimal-coffee-shops-numerical-integration-and-kantorovich-rubinstein-duality
-slides: ""
+url_slides: ""
 ---

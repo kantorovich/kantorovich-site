@@ -37,5 +37,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video: https://mathtube.org/lecture/video/kac-goes-work-stochastic-processes-probes-architecture-plant-root-systems
-slides: ""
+url_slides: ""
 ---
