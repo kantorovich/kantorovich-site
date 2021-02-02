@@ -37,5 +37,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video: https://mathtube.org/lecture/video/bandit-learning-nash-equilibria-monotone-games
-url_slides: ""
+url_slides: "Kamgarpur-2021-1-29.pdf"
 ---
