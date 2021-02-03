@@ -47,3 +47,4 @@ projects: []
 url_video: https://mathtube.org/lecture/video/initial-value-problems-viewed-generalized-optimal-transport-problems-matrix-valued
 url_slides: "Brenier-2020-1-29.pdf"
 ---
+<iframe src="https://mathtube.org/lecture/video/initial-value-problems-viewed-generalized-optimal-transport-problems-matrix-valued" width="640"></iframe>
