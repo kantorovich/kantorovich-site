@@ -1,31 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Asymptotics of Entropy Regularized Optimal Transport via Chaos Decomposition"
-event: Probability Seminar
+title: "Stochastic Optimal Transport, Control Theory, and PDEs"
+event: KI Seminar
 location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
-  name: Lang Liu
-  institution: University of Washington
-abstract: |
-  Consider the problem of finding the optimal coupling (or matching) between two
-  i.i.d. samples from respective two densities on Euclidean spaces. For both
-  computational efficiency and smoothness, this discrete problem is usually
-  regularized by an entropy term. We introduce a modification to the commonly used
-  discrete entropic regularization [Cuturi ('13)] so that the optimal coupling of
-  the regularized problem can be viewed as the static Schroedinger bridge given a
-  finite number of particles. We show that this discrete Schroedinger bridge
-  converges weakly to its continuum counterpart as the sample size goes to
-  infinity. The proofs are based on a change of measure argument equipped with a
-  novel contiguity result on the sequence of laws of the pair of empirical
-  measures. We derive a functional CLT and second order Gaussian chaos limits when
-  the limiting Gaussian is degenerate. This is achieved by a new chaos
-  decomposition for paired samples using Markov operators. This idea generalizes
-  the Hoeffding decomposition from the classical U-statistics theory, where the
-  samples are assumed to be independent. This talk is based on joint work with
-  Zaid Harchaoui and Soumik Pal. 
+  name: 
+  institution: University of British Columbia
+abstract: Aaron Palmer
+The optimal transport problem provides a fundamental and quantitative way to measure the distance between probability distributions.  Recently, it has been successfully used to analyze the evolutionary dynamics in physics and biology. Motivated by questions of pricing in financial mathematics and control of distributed agents, stochastic variants of optimal transport have been developed.  Over the past few years, my postdoc supervisors at the University of British Columbia (Nassif Ghoussoub and Young-Heon Kim) and I have developed a robust method to analyze these problems using convex duality, stochastic optimal control theory, and partial differential equation analysis.
+
+This talk will focus on these variants of optimal transport, their applications, and our methods of analysis.  Particular attention will be paid to the connections with mean field games and to a new direction of research that incorporates the practical limitation of partial information.
 
 summary: ""
 authors: 
