@@ -7,12 +7,24 @@ location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
-  name: 
+  name: Aaron Palmer
   institution: University of British Columbia
-abstract: Aaron Palmer
-The optimal transport problem provides a fundamental and quantitative way to measure the distance between probability distributions.  Recently, it has been successfully used to analyze the evolutionary dynamics in physics and biology. Motivated by questions of pricing in financial mathematics and control of distributed agents, stochastic variants of optimal transport have been developed.  Over the past few years, my postdoc supervisors at the University of British Columbia (Nassif Ghoussoub and Young-Heon Kim) and I have developed a robust method to analyze these problems using convex duality, stochastic optimal control theory, and partial differential equation analysis.
-
-This talk will focus on these variants of optimal transport, their applications, and our methods of analysis.  Particular attention will be paid to the connections with mean field games and to a new direction of research that incorporates the practical limitation of partial information.
+abstract: |
+  The optimal transport problem provides a fundamental and quantitative way to
+  measure the distance between probability distributions.  Recently, it has been
+  successfully used to analyze the evolutionary dynamics in physics and biology.
+  Motivated by questions of pricing in financial mathematics and control of
+  distributed agents, stochastic variants of optimal transport have been
+  developed.  Over the past few years, my postdoc supervisors at the University of
+  British Columbia (Nassif Ghoussoub and Young-Heon Kim) and I have developed a
+  robust method to analyze these problems using convex duality, stochastic optimal
+  control theory, and partial differential equation analysis.
+  
+  
+  This talk will focus on these variants of optimal transport, their applications,
+  and our methods of analysis.  Particular attention will be paid to the
+  connections with mean field games and to a new direction of research that
+  incorporates the practical limitation of partial information.
 
 summary: ""
 authors: 
