@@ -1,15 +1,25 @@
 ---
 title: "PIHOT Kickoff Event" 
 subtitle: ""
+location: online
+
 summary: |
   The kickoff event for PIHOT (the Pacific Interdisciplinary hub on Optimal
   Transport) will take place on Jan 29-30th, 2021.  Please see below for a
   tentative schedule and connection instructions.
+
 authors: ["soumik"]
+
 tags: ['event']
 categories: ['events']
-date: 2021-01-09T20:14:18-08:00
+
+date: 2021-01-09T08:00:00-08:00
+date_end: 2021-01-10T12:00:00-08:00
+all_day: true
+
+publishDate: 2021-01-09T20:14:18-08:00
 lastmod: 2021-01-09T20:14:18-08:00
+
 featured: false
 draft: false
 
@@ -23,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["pihot"]
 ---
 The kickoff event for the Pacific Interdisciplinary hub on Optimal Transport
 (PIHOT) [collaborative research

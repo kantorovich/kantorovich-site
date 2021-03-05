@@ -1,15 +1,28 @@
 ---
 title: "Entropic Regularization of Optimal Transport and Applications (Online)"
+event:
+event_url: https://www.birs.ca/events/2021/5-day-workshops/21w5120)
+location: "[online/BIRS](https://www.birs.ca/events/2021/5-day-workshops/21w5120)"
 subtitle: ""
+
 summary: |
   The Banff International Research Station will host the "Entropic
   Regularization of Optimal Transport and Applications" workshop in Banff from
   June 20 to June 25, 2021.
-authors: ["soumik"]
-tags: ['event']
-categories: ['events']
+
+abstract:
+
+authors: ["soumik", "pass"]
+
+date: 2021-06-20T09:00:00-07:00
+date_end: 2021-06-25T17:00:00-07:00
+all_day: true
+
+categories: []
+
 date: 2021-03-05T09:03:15-08:00
 lastmod: 2021-03-05T09:04:18-08:00
+
 featured: false
 draft: false
 
@@ -23,15 +36,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["pihot"]
 ---
-* **Event:** Entropic Regularization of Optimal Transport and Applications
-* **Date:** 2021-06-20 -- 2021-06-25
-* **Location:** Online/Banff International Research Station (BIRS)
-* **Organizers:**
-  * [Soumik Pal](/authors/soumik/) (University of Washington)
-  * [Aaron Palmer](http://www.math.ubc.ca/~azp/) (University of British Columbia)
-  * [Brendan Pass](/authors/pass/) (University of Alberta)
+### Description
 
 The mathematics of optimal transport (OT) has grown to become a unifying theme
 in many scientific disciplines, from solving purely mathematical problems of
@@ -62,5 +69,9 @@ home field. Special consideration is being given towards training younger
 researchers and students by exposing them to different aspects of theory and
 giving them opportunities for possible cross-disciplinary collaborations.
 
-See also: [BIRS event webpage for this event (21w5120)](http://www.birs.ca/events/2021/5-day-workshops/21w5120)
+
+### Organizers
+  * [Soumik Pal](/authors/soumik/) (University of Washington)
+  * [Aaron Palmer](http://www.math.ubc.ca/~azp/) (University of British Columbia)
+  * [Brendan Pass](/authors/pass/) (University of Alberta)
 
