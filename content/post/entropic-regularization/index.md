@@ -30,7 +30,7 @@ projects: []
 * **Location:** Online/Banff International Research Station (BIRS)
 * **Organizers:**
   * [Soumik Pal](/authors/soumik/) (University of Washington)
-  * Aaron Palmer (University of British Columbia)
+  * [Aaron Palmer](http://www.math.ubc.ca/~azp/) (University of British Columbia)
   * [Brendan Pass](/authors/pass/) (University of Alberta)
 
 The mathematics of optimal transport (OT) has grown to become a unifying theme
