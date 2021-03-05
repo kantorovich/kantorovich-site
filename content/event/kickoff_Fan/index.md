@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Vector Copulas and Vector Sklar Theorem"
-event: PIHOT kick-off event
+event: PIHOT Kickoff
+event_url: /event/kickoff/
 location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
@@ -40,3 +41,4 @@ projects: []
 url_video: https://mathtube.org/lecture/video/vector-copulas-and-vector-sklar-theorem
 url_slides:
 ---
+{{< pihotCRG >}}

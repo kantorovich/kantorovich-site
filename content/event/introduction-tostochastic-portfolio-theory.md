@@ -23,8 +23,8 @@ abstract: |
 
 summary: ""
 authors: 
-tags: []
-categories: []
+tags: ['event']
+categories: ['seminar']
 date: 2020-11-16T10:30:00-07:00
 publishDate: 2020-11-09T14:30:00-07:00
 lastmod: 2020-11-09T19:21:51-07:00

@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Bandit learning of Nash equilibria in monotone games"
-event: PIHOT kick-off event
+event: PIHOT Kickoff
+event_url: /event/kickoff/
 location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
@@ -39,3 +40,4 @@ projects: []
 url_video: https://mathtube.org/lecture/video/bandit-learning-nash-equilibria-monotone-games
 url_slides: "Kamgarpur-2021-1-29.pdf"
 ---
+{{< pihotCRG >}}

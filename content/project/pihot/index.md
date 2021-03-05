@@ -1,5 +1,5 @@
 ---
-title: The Pacific Interdisciplinary Hub on Optimal Transport PIMS CRG
+title: The Pacific Interdisciplinary Hub on Optimal Transport - PIMS CRG
 subtitle: |
   A Collaborative Research Group (CRG) of the Pacific Institute for the
   Mathematical Sciences (PIMS).

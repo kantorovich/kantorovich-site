@@ -29,8 +29,12 @@ abstract: |
 
 summary: ""
 authors: 
-tags: []
-categories: []
+tags: 
+  - 'seminar'
+  - 'probability'
+categories:
+  - event
+
 date: 2020-11-23T14:30:00-08:00
 publishDate: 2020-11-09T14:30:00-08:00
 lastmod: 2020-11-09T19:21:51-08:00

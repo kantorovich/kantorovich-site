@@ -26,12 +26,13 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "event"
     publication_type = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-    
+
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
