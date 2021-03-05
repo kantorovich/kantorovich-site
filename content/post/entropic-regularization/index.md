@@ -25,6 +25,14 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+* **Event:** Entropic Regularization of Optimal Transport and Applications
+* **Date:** 2021-06-20 -- 2021-06-25
+* **Location:** Online/Banff International Research Station (BIRS)
+* **Organizers:**
+  * [Soumik Pal](/authors/soumik/) (University of Washington)
+  * Aaron Palmer (University of British Columbia)
+  * [Brendan Pass](/authors/pass/) (University of Alberta)
+
 The mathematics of optimal transport (OT) has grown to become a unifying theme
 in many scientific disciplines, from solving purely mathematical problems of
 analysis, geometry, and partial differential equations to developing
@@ -53,16 +61,6 @@ groups working on entropic regularizations of OT problems, irrespective of their
 home field. Special consideration is being given towards training younger
 researchers and students by exposing them to different aspects of theory and
 giving them opportunities for possible cross-disciplinary collaborations.
-
-The Banff International Research Station for Mathematical Innovation and
-Discovery (BIRS) is a collaborative Canada-US-Mexico venture that provides an
-environment for creative interaction as well as the exchange of ideas,
-knowledge, and methods within the Mathematical Sciences, with related
-disciplines and with industry. The research station is located at The Banff
-Centre in Alberta and is supported by Canada's Natural Science and Engineering
-Research Council (NSERC), the U.S. National Science Foundation (NSF), Alberta's
-Advanced Education and Technology, and Mexico's Consejo Nacional de Ciencia y
-Tecnología (CONACYT).
 
 See also: [BIRS event webpage for this event (21w5120)](http://www.birs.ca/events/2021/5-day-workshops/21w5120)
 
