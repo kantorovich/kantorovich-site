@@ -28,8 +28,8 @@ abstract: |
 
 summary: ""
 authors: 
-tags: []
-categories: []
+tags: ['']
+categories: ['event']
 date: 2021-02-25T10:00:00-08:00
 publishDate: 2020-11-09T14:30:00-08:00
 lastmod: 2020-11-09T19:21:51-08:00

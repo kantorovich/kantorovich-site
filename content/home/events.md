@@ -7,12 +7,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Events"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "event"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -26,12 +26,13 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "event"
     publication_type = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-    
+
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List

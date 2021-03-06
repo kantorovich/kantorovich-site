@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 title = ""
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
+# Hero image (optional). Enter filename of an image in the page folder
 hero_media = "avatar.png"
 
 [design.background]

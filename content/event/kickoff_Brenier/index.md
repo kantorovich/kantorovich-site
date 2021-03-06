@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Initial value problems viewed as generalized optimal transport problems 
-with matrix-valued density fields"
-event: PIHOT kick-off event
+title: "Initial value problems viewed as generalized optimal transport problems with matrix-valued density fields"
+event: "PIHOT Kickoff"
+event_url: /event/kickoff/
 date_format: "Jan 2006"
 location: "Online (zoom)"
 registration_info: |
@@ -47,3 +47,4 @@ projects: []
 url_video: https://mathtube.org/lecture/video/initial-value-problems-viewed-generalized-optimal-transport-problems-matrix-valued
 url_slides: "Brenier-2020-1-29.pdf"
 ---
+{{< pihotCRG >}}
