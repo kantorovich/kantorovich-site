@@ -9,6 +9,7 @@ registration_info: |
 speaker:
   name: Giovanni Conforti
   institution: CMAP, Ecole Polytechnique
+  url: https://sites.google.com/site/giovanniconfort/home
 abstract: |
   The theory of large deviations provides with a way to compute asymptotically  the probability that an interacting particle system moves from a given configuration to another one over a fixed time interval. The problem of finding the most likely evolution realising the desired transition can be seen as a prototype of stochastic optimal transport problem, whose specific formulation depends on the choice of interaction mechanism. The first goal of this talk is to present some notable examples of this family of transport problems such as the Schrödinger problem and its mean field and kinetic counterparts. The second goal of the talk is to discuss some (possibly open)  questions on the ergodic behaviour of optimal solutions and how their answer relies upon a combination of tools coming from Riemannian geometry, functional inequalities and stochastic control.
   

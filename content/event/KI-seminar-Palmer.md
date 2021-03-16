@@ -9,6 +9,7 @@ registration_info: |
 speaker:
   name: Aaron Palmer
   institution: University of British Columbia
+  url: http://www.math.ubc.ca/~azp/
 abstract: |
   The optimal transport problem provides a fundamental and quantitative way to
   measure the distance between probability distributions.  Recently, it has been
