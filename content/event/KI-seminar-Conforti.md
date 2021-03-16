@@ -1,36 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Stochastic Optimal Transport, Control Theory, and PDEs"
+title: "Searching for the most likely evolution"
 event: KI Seminar
 location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
-  name: Aaron Palmer
-  institution: University of British Columbia
+  name: Giovanni Conforti
+  institution: CMAP, Ecole Polytechnique
 abstract: |
-  The optimal transport problem provides a fundamental and quantitative way to
-  measure the distance between probability distributions.  Recently, it has been
-  successfully used to analyze the evolutionary dynamics in physics and biology.
-  Motivated by questions of pricing in financial mathematics and control of
-  distributed agents, stochastic variants of optimal transport have been
-  developed.  Over the past few years, my postdoc supervisors at the University of
-  British Columbia (Nassif Ghoussoub and Young-Heon Kim) and I have developed a
-  robust method to analyze these problems using convex duality, stochastic optimal
-  control theory, and partial differential equation analysis.
+  The theory of large deviations provides with a way to compute asymptotically  the probability that an interacting particle system moves from a given configuration to another one over a fixed time interval. The problem of finding the most likely evolution realising the desired transition can be seen as a prototype of stochastic optimal transport problem, whose specific formulation depends on the choice of interaction mechanism. The first goal of this talk is to present some notable examples of this family of transport problems such as the Schrödinger problem and its mean field and kinetic counterparts. The second goal of the talk is to discuss some (possibly open)  questions on the ergodic behaviour of optimal solutions and how their answer relies upon a combination of tools coming from Riemannian geometry, functional inequalities and stochastic control.
   
   
-  This talk will focus on these variants of optimal transport, their applications,
-  and our methods of analysis.  Particular attention will be paid to the
-  connections with mean field games and to a new direction of research that
-  incorporates the practical limitation of partial information.
-
 summary: ""
 authors: 
 tags: ['']
 categories: ['event']
-date: 2021-02-25T10:00:00-08:00
+date: 2021-03-25T10:00:00-08:00
 publishDate: 2020-11-09T14:30:00-08:00
 lastmod: 2020-11-09T19:21:51-08:00
 featured: false
