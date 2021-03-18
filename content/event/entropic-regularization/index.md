@@ -21,6 +21,7 @@ all_day: true
 categories: ["event"]
 tags: ["event"]
 
+publishDate: 2021-03-15T09:00:00-07:00
 lastmod: 2021-03-05T09:04:18-08:00
 
 featured: false
