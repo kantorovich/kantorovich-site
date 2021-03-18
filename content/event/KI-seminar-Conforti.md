@@ -18,7 +18,7 @@ summary: ""
 authors: 
 tags: ['']
 categories: ['event']
-date: 2021-03-25T10:00:00-08:00
+date: 2021-03-25T10:00:00-07:00
 publishDate: 2020-11-09T14:30:00-08:00
 lastmod: 2020-11-09T19:21:51-08:00
 featured: false
