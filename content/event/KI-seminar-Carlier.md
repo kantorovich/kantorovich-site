@@ -24,8 +24,7 @@ authors:
 tags: ['']
 categories: ['event']
 date: 2021-05-06T10:00:00-07:00
-publishDate: 2021-04-27T14:30:00-08:00
-lastmod: 2020-11-09T19:21:51-08:00
+publishDate: 2021-04-25T14:30:00-08:00
 featured: false
 draft: false
 
