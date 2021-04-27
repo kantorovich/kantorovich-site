@@ -1,25 +1,26 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Searching for the most likely evolution"
+title: "Remarks on multi-marginals entropic optimal transport and Sinkhorn algorithm"
 event: KI Seminar
 location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
-  name: Giovanni Conforti
-  institution: CMAP, Ecole Polytechnique
-  url: https://sites.google.com/site/giovanniconfort/home
+  name: Guillaume Carlier
+  institution: CEREMADE, Universite Paris Dauphine
+  url: https://www.ceremade.dauphine.fr/~carlier/
 abstract: |
-  The theory of large deviations provides with a way to compute asymptotically  the probability that an interacting particle system moves from a given configuration to another one over a fixed time interval. The problem of finding the most likely evolution realising the desired transition can be seen as a prototype of stochastic optimal transport problem, whose specific formulation depends on the choice of interaction mechanism. The first goal of this talk is to present some notable examples of this family of transport problems such as the Schrödinger problem and its mean field and kinetic counterparts. The second goal of the talk is to discuss some (possibly open)  questions on the ergodic behaviour of optimal solutions and how their answer relies upon a combination of tools coming from Riemannian geometry, functional inequalities and stochastic control.
-  
+  Entropic optimal transport has received a lot of attention in recent years and has become a popular framework for computational optimal transport thanks to the Sinkhorn scaling algorithm. In this talk, I will discuss
+the multi-marginal case which arises in different applied contexts in physics, economics and machine learning. I will show in particular that the multi-marginal Schrödinger system is well posed (joint work with Maxime Laborde)
+and that the multi-marginal Sinkhorn algorithm converges linearly. 
   
 summary: ""
 authors: 
 tags: ['']
 categories: ['event']
-date: 2021-03-25T10:00:00-07:00
-publishDate: 2020-11-09T14:30:00-08:00
+date: 2021-05-06T10:00:00-07:00
+publishDate: 2021-04-27T14:30:00-08:00
 lastmod: 2020-11-09T19:21:51-08:00
 featured: false
 draft: false
