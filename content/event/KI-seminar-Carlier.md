@@ -11,9 +11,13 @@ speaker:
   institution: CEREMADE, Universite Paris Dauphine
   url: https://www.ceremade.dauphine.fr/~carlier/
 abstract: |
-Entropic optimal transport has received a lot of attention in recent years and has become a popular framework for computational optimal transport thanks to the Sinkhorn scaling algorithm. In this talk, I will discuss
-the multi-marginal case which arises in different applied contexts in physics, economics and machine learning. I will show in particular that the multi-marginal Schrödinger system is well posed (joint work with Maxime Laborde)
-and that the multi-marginal Sinkhorn algorithm converges linearly. 
+  Entropic optimal transport has received a lot of attention in recent years and
+  has become a popular framework for computational optimal transport thanks to
+  the Sinkhorn scaling algorithm. In this talk, I will discuss the
+  multi-marginal case which arises in different applied contexts in physics,
+  economics and machine learning. I will show in particular that the
+  multi-marginal Schrödinger system is well posed (joint work with Maxime
+  Laborde) and that the multi-marginal Sinkhorn algorithm converges linearly. 
   
 summary: ""
 authors: 
