@@ -42,5 +42,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video: 
+url_video: https://mathtube.org/lecture/video/remarks-multi-marginals-entropic-optimal-transport-and-sinkhorn-algorithm
+url_slides: "Kantorovich-Initiative-multimarginals.pdf"
 ---
