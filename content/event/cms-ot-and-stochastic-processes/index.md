@@ -30,7 +30,7 @@ abstract: |
   stem cell reprogramming.
 
   There will be two main speakers of this minicourse, Hugo Lavenant and Geoffrey
-  Schiebinger (both UBC).
+  Schiebinger.
 
   No knowledge of biology or optimal transport will be required. Familiarity
   with elementary concepts in probability theory and optimization might be
@@ -38,8 +38,8 @@ abstract: |
 
 authors: ["pass", "yhkim"]
 
-date: 2021-06-04T11:00:00-04:00
-date_end: 2021-06-04T14:00:00-04:00
+date: 2021-06-04T08:00:00-07:00
+date_end: 2021-06-04T11:00:00-07:00
 all_day: false
 
 categories: ["event"]
@@ -63,6 +63,16 @@ image:
 #   Otherwise, set `projects = []`.
 #projects: ["pihot"]
 ---
+
+### Event Details
+
+This mini-course will be held Friday, June 4th 11am-2pm (EDT)/8am-11am (PTD) and
+registration is open to anyone, you do not have to be registered for the CMS
+summer meeting to register for the mini-course.  Please see the event [event
+website](https://summer21.cms.math.ca/index.php/mini-courses/) for more
+information.
+
+
 ### Organizers
   * [Hugo Lavenant](https://hugolav.github.io/) (Bocconi University, Milan)
   * [Geoffrey Schiebinger](https://www.math.ubc.ca/~geoff/) (University of
