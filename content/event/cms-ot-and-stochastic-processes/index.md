@@ -38,15 +38,15 @@ abstract: |
 
 authors: ["pass", "yhkim"]
 
-date: 2021-06-04T11:00:00-04:00
-date_end: 2021-06-04T14:00:00-04:00
+date: 2021-06-04T08:00:00-07:00
+date_end: 2021-06-04T11:00:00-07:00
 all_day: false
 
 categories: ["event"]
 tags: ["event"]
 
-publishDate: 2021-03-15T09:00:00-07:00
-lastmod: 2021-03-05T09:04:18-08:00
+publishDate: 2021-06-01T09:00:00+07:00
+lastmod: 2021-06-01T09:04:18+07:00
 
 featured: false
 draft: false
