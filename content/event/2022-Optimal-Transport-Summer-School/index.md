@@ -1,5 +1,5 @@
 ---
-title: "2022 Optimal Transport Summer School" 
+title: "Optimal Transport Summer School 2022" 
 event: "2022 Optimal Transport Summer School" 
 subtitle: ""
 location: University of Washington, Seattle
