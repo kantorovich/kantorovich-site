@@ -41,7 +41,7 @@ In the summer of 2022, we will be hosting a summer school in Optimal Transport
 at the University of Washington. Registration details and a detailed schedule
 will be available here soon.
 
-## Speakers
+## Main Speakers
   * Felix Otto (Max Planck Institute, Germany)
   * Inwon Kim (UCLA, USA)
   * Maria Colombo (EPFL, Switzerland)
