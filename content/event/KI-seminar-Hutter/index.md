@@ -29,7 +29,7 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -38,4 +38,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video: https://mathtube.org/lecture/video/finite-sample-rates-optimal-transport-estimation-problems
+url_slides: slides.pdf
 ---
