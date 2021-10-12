@@ -17,9 +17,9 @@ summary: ""
 authors: 
 tags: ['']
 categories: ['event']
-date: 2021-09-30T10:00:00-08:00
-publishDate: 2020-11-09T14:30:00-08:00
-lastmod: 2020-11-09T19:21:51-08:00
+date: 2021-09-30T10:00:00-07:00
+publishDate: 2021-09-20T11:30:00-07:00
+lastmod: 2020-09-20T11:30:00-07:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -37,5 +37,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video: https://mathtube.org/lecture/video/stochastic-optimal-transport-control-theory-and-pdes
+url_video: https://mathtube.org/lecture/video/finite-sample-rates-optimal-transport-estimation-problems
+url_slides: slides.pdf
 ---
