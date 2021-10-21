@@ -30,7 +30,7 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -38,5 +38,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video:
+url_video: https://mathtube.org/lecture/video/conditional-sampling-block-triangular-transport-maps
+url_slides: Bamdad_KI.pdf
 ---
