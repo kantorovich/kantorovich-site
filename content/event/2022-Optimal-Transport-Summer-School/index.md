@@ -50,4 +50,13 @@ will be available here soon.
   * Geoffrey Schiebinger (UBC, Canada)
   * Gabriel Peyré (ENS, France).
 
+## Registration
+Registration for this event is [now available via
+PIMS](https://www.pims.math.ca/scientific-event/220619-pinssot). Discounted
+rates are available for Graduate Students and Postdoctoral Scholars. Please see
+the [PIMS Event page](https://www.pims.math.ca/scientific-event/220619-pinssot)
+for more details on accommodation and COVID vaccination guidelines. **The deadline for
+registration is 4pm (Pacific), April 15th, 2022**.
+
+
 {{< pihotCRG >}}
