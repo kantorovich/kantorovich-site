@@ -55,8 +55,11 @@ Registration for this event is [now available via
 PIMS](https://www.pims.math.ca/scientific-event/220619-pinssot). Discounted
 rates are available for Graduate Students and Postdoctoral Scholars. Please see
 the [PIMS Event page](https://www.pims.math.ca/scientific-event/220619-pinssot)
-for more details on accommodation and COVID vaccination guidelines. **The deadline for
-registration is 4pm (Pacific), April 15th, 2022**.
+for more details on accommodation and COVID vaccination guidelines. Junior
+participants may apply for accommodation by completing [this
+form](https://ubc.ca1.qualtrics.com/jfe/form/SV_38HIoKjDdteuPGe) by **4pm
+(Pacific), February 15th, 2022**. *The deadline for registration is **4pm
+(Pacific), April 15th, 2022**.*
 
 
 {{< pihotCRG >}}
