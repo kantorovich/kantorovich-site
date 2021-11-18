@@ -1,6 +1,6 @@
 ---
-title: "Optimal Transport Summer School 2022" 
-event: "2022 Optimal Transport Summer School" 
+title: "PIMS- IFDS- NSF Summer School on Optimal Transport"
+event: "PIMS- IFDS- NSF Summer School on Optimal Transport"
 subtitle: ""
 location: University of Washington, Seattle
 
