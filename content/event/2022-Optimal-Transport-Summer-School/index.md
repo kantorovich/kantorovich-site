@@ -1,16 +1,31 @@
 ---
-title: "Optimal Transport Summer School 2022" 
-event: "2022 Optimal Transport Summer School" 
+title: "PIMS- IFDS- NSF Summer School on Optimal Transport"
+event: "PIMS- IFDS- NSF Summer School on Optimal Transport"
 subtitle: ""
 location: University of Washington, Seattle
 
 summary: |
-  In summer of 2022, we will be hosting a summer school in Optimal Transport at
-  the University of Washington
+ The common theme of this summer school is the mathematics of Monge-Kantorovich
+ optimal transport (OT). The stunning mathematical development of OT has
+ recently permeated into several fields of applications. Our speakers, chosen
+ from the fields of analysis, biology, data science, economics, and probability,
+ are leaders in their respective fields whose work intimately involves OT. Our
+ goal is to expose talented students and junior researchers to the exciting and
+ manifold research opportunities arising from OT and its applications, through
+ attending lectures and interacting with the speakers as well as their peer
+ participants. We strongly encourage participation by a diverse audience and
+ welcome attendees from traditionally underrepresented socio-economic and
+ cultural groups.
+
+ As the school is planned at the beginning of the summer season in Seattle, the
+ participants can also enjoy the natural beauty of the Pacific Northwest and
+ feel the energy of one of leading tech metropolises in the United States and
+ around the world.
+
 authors: ["soumik"]
 
 tags: ['event']
-categories: ['event']
+categories: ['summer-school']
 
 date: 2022-06-19T08:00:00-08:00
 date_end: 2022-07-01T17:00:00-08:00
@@ -37,9 +52,22 @@ projects: ["pihot"]
 
 ## Summer School in Optimal Transport
 
-In the summer of 2022, we will be hosting a summer school in Optimal Transport
-at the University of Washington. Registration details and a detailed schedule
-will be available here soon.
+The common theme of this summer school is the mathematics of Monge-Kantorovich
+optimal transport (OT). The stunning mathematical development of OT has recently
+permeated into several fields of applications. Our speakers, chosen from the
+fields of analysis, biology, data science, economics, and probability, are
+leaders in their respective fields whose work intimately involves OT. Our goal
+is to expose talented students and junior researchers to the exciting and
+manifold research opportunities arising from OT and its applications, through
+attending lectures and interacting with the speakers as well as their peer
+participants. We strongly encourage participation by a diverse audience and
+welcome attendees from traditionally underrepresented socio-economic and
+cultural groups.
+
+As the school is planned at the beginning of the summer season in Seattle, the
+participants can also enjoy the natural beauty of the Pacific Northwest and feel
+the energy of one of leading tech metropolises in the United States and around
+the world.
 
 ## Main Speakers
   * Felix Otto (Max Planck Institute, Germany)
