@@ -6,11 +6,14 @@ location: University of Washington, Seattle
 
 summary: |
   In summer of 2022, we will be hosting a summer school in Optimal Transport at
-  the University of Washington
+  the University of Washington. This summer school will expose students and
+  junior researchers to the exciting and manifold research opportunities arising
+  from OT and its applications.
+  
 authors: ["soumik"]
 
 tags: ['event']
-categories: ['event']
+categories: ['summer-school']
 
 date: 2022-06-19T08:00:00-08:00
 date_end: 2022-07-01T17:00:00-08:00
