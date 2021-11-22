@@ -89,5 +89,14 @@ form](https://ubc.ca1.qualtrics.com/jfe/form/SV_38HIoKjDdteuPGe) by **4pm
 (Pacific), February 15th, 2022**. *The deadline for registration is **4pm
 (Pacific), April 15th, 2022**.*
 
+## COVID-19
+PIMS and the University of Washington will implement guidelines set by the
+Washington State Health Department. As such, at the time of the meeting
+commencement, individuals attending the summer school will be required to either
+show a negative Covid test taken within 72 hours, or, show proof of full
+vaccination. Participants will be requested to show government issued ID in
+addition to the above documents. Masks and other requirements will be determined
+according to the University of Washington COVID policies as outlined in
+https://hr.uw.edu/returntowork/onsite-work-requirements/.
 
 {{< pihotCRG >}}
