@@ -70,14 +70,14 @@ the energy of one of leading tech metropolises in the United States and around
 the world.
 
 ## Main Speakers
-  * Felix Otto (Max Planck Institute, Germany)
-  * Inwon Kim (UCLA, USA)
   * Maria Colombo (EPFL, Switzerland)
-  * Jan Maas (IST, Austria)
   * Alfred Galichon (NYU, USA)
-  * Geoffrey Schiebinger (UBC, Canada)
+  * Inwon Kim (UCLA, USA)
+  * Jan Maas (IST, Austria)
+  * Felix Otto (Max Planck Institute, Germany)
   * Gabriel Peyré (ENS, France).
-
+  * Geoffrey Schiebinger (UBC, Canada)
+  
 ## Registration
 Registration for this event is [now available via
 PIMS](https://www.pims.math.ca/scientific-event/220619-pinssot). Discounted
