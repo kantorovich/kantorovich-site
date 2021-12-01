@@ -8,13 +8,15 @@ active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "Members"
-subtitle = "the current activities of KI are being supported by the following grants and members"
+subtitle = "The current activities of KI are being supported by the following grants and members"
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Principal Investigators",
                  "Researchers",
+                 "PIMS CRG - The Pacific Interdisciplinary Hub on Optimal Transport",
+                 "NSF",
                  "Grad Students",
                  "Support",
                  "Visitors",
