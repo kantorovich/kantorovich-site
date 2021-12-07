@@ -15,7 +15,7 @@ role: Associate Professor
 Organizations/Affiliations:
 organizations:
 - name: University of Alberta
-  url: "https://ualberta.ca"
+  url: "https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html"
 - name: Pacific Institute for the Mathematical Sciences
   url: "https://pims.math.ca"
 
@@ -38,9 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/colliand
+#- icon: globe
+#  icon_pack: fas
+#  link: https://sites.ualberta.ca/~pass/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/colliand
@@ -56,6 +56,8 @@ email: "pass@ualberta.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Affiliated Faculty
+- PIHOT
+- University of Alberta
 
 ---

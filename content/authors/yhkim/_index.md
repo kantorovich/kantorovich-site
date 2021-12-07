@@ -15,7 +15,7 @@ role: Professor
 Organizations/Affiliations:
 organizations:
 - name: University of British Columbia
-  url: "https://ubc.ca"
+  url: "https://math.ubc.ca"
 - name: Pacific Institute for the Mathematical Sciences
   url: "https://pims.math.ca"
 
@@ -63,6 +63,8 @@ email: "yhkim@math.ubc.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Affiliated Faculty
+- PIHOT
+- University of British Columbia
 
 ---

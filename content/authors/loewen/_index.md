@@ -15,7 +15,7 @@ role: Professor
 Organizations/Affiliations:
 organizations:
 - name: University of British Columbia
-  url: "https://ubc.ca"
+  url: "https://math.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -55,6 +55,7 @@ email: "loew@math.ubc.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Affiliated Faculty
+- University of British Columbia
 
 ---

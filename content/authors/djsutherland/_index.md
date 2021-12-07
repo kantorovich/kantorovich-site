@@ -15,7 +15,7 @@ role: Assistant Professor
 Organizations/Affiliations:
 organizations:
 - name: University of British Columbia
-  url: "https://ubc.ca"
+  url: "https://cs.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -53,6 +53,7 @@ email: "dsuth@cs.ubc.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Affiliated Faculty
+- University of British Columbia
 
 ---

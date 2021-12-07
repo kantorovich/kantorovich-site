@@ -15,7 +15,7 @@ role: Associate Professor
 Organizations/Affiliations:
 organizations:
 - name: University of Washington
-  url: "https://washington.edu"
+  url: "https://stat.washington.edu"
 - name: eScience Institute
   url: "https://escience.washington.edu/"
 
@@ -84,6 +84,7 @@ email: "zaid@uw.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Affiliated Faculty
+- University of Washington
 
 ---
