@@ -34,7 +34,7 @@
 # weight = 50
 
 [[main]]
-  name = "Members"
+  name = "Affiliated Faculty"
   url = "#people"
   weight = 70
 
