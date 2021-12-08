@@ -6,6 +6,8 @@ title: Philip Loewen
 authors:
 - loewen
 
+weight: 115
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,8 @@ title: Lior Silberman
 authors:
 - lior
 
+weight: 185
+
 # Is this the primary user of the site?
 superuser: false
 

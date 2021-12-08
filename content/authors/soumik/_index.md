@@ -6,6 +6,8 @@ title: Soumik Pal
 authors:
 - soumikpal
 
+weight: 152
+
 # Is this the primary user of the site?
 superuser: false
 

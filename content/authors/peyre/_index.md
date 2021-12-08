@@ -6,6 +6,8 @@ title: Gabriel Peyré
 authors:
 - peyre
 
+weight: 156
+
 # Is this the primary user of the site?
 superuser: false
 

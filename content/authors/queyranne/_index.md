@@ -6,6 +6,8 @@ title: Maurice Queyranne
 authors:
 - queyranne
 
+weight: 165
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -4,6 +4,8 @@ title: Dave Schneider
 authors:
 - schneider
 
+weight: 184
+
 superuser: false
 
 role: Professor

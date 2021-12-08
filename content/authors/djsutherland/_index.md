@@ -6,6 +6,8 @@ title: Danica J. Sutherland
 authors:
 - djsutherland
 
+weight: 187
+
 # Is this the primary user of the site?
 superuser: false
 

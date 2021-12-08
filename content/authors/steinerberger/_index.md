@@ -6,6 +6,8 @@ title: Stefan Steinerberger
 authors:
 - steinerberger
 
+weight: 186
+
 # Is this the primary user of the site?
 superuser: false
 
