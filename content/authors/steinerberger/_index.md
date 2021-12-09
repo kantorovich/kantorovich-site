@@ -1,36 +1,39 @@
 ---
 # Display name
-title: Yanqin Fan
+title: Stefan Steinerberger
 
 # Username (this should match the folder name)
 authors:
-- yankin-fan
+- steinerberger
 
-weight: 243
+weight: 186
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Associate Professor
 
 Organizations/Affiliations:
 organizations:
 - name: University of Washington
-  url: "https://econ.washington.edu"
+  url: "https://math.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Econometrics
-- Nonparametric Statistics
+- Analysis
+- PDEs
+- Spectral Theory
+- Harmonic Analysis
 
 education:
   courses:
-  - course: PhD in Economics
-    institution: University of Western Ontario
-    year: 1990
+  - course: PhD in Mathematics
+    institution: Universität Bonn
+  - course: MSc
+    institution: Johannes Keppler Universität Linz
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fany88@uw.edu"
+email: "steinerb@uw.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

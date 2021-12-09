@@ -6,6 +6,8 @@ title: Soumik Pal
 authors:
 - soumikpal
 
+weight: 152
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -15,7 +17,7 @@ role: Professor
 Organizations/Affiliations:
 organizations:
 - name: University of Washington
-  url: "https://washington.edu"
+  url: "https://math.washington.edu"
 - name: Pacific Institute for the Mathematical Sciences
   url: "https://pims.math.ca"
 
@@ -58,7 +60,8 @@ email: "soumikpal@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Teaching
-- Researchers
+- Affiliated Faculty
+- PIHOT
+- University of Washington
 
 ---
