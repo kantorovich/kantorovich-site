@@ -70,7 +70,6 @@ the energy of one of leading tech metropolises in the United States and around
 the world.
 
 ## Main Speakers
-  * Maria Colombo (EPFL, Switzerland)
   * Alfred Galichon (NYU, USA)
   * Inwon Kim (UCLA, USA)
   * Jan Maas (IST, Austria)
