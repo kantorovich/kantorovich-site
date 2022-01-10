@@ -73,7 +73,7 @@ the world.
 {{< figure
   src="./2022OT-Summer-School.jpg"
   alt="2022 Summer School in Optimal Transport poster"
-  width="50%"
+  width="75%"
   caption="Poster for 2022 Summer School in Optimal Transport"
 >}}](./2022OT-Summer-School.pdf)
 
