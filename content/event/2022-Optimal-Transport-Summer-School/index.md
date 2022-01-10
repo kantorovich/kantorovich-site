@@ -69,6 +69,15 @@ participants can also enjoy the natural beauty of the Pacific Northwest and feel
 the energy of one of leading tech metropolises in the United States and around
 the world.
 
+[
+{{< figure
+  src="./2022OT-Summer-School.jpg"
+  alt="2022 Summer School in Optimal Transport poster"
+  width="50%"
+  caption="Poster for 2022 Summer School in Optimal Transport"
+>}}](./2022OT-Summer-School.pdf)
+
+
 ## Main Speakers
 {{< abstract
   title="Gross substitutes, optimal transport and matching models"
