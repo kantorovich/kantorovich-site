@@ -1,0 +1,14 @@
+<div class="media stream-item">
+  <div class="media-body">
+    <div class="section-subheading article-title mb-0 mt-0">
+      {{ with .Get "title" }}{{ . }}{{ end }}
+    </div>
+    {{ with .Get "author" }}{{ . }}{{ end }} {{ with .Get "affiliation" }}(<em>{{ . }}</em>){{ end }}
+    <div class="article-style">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+  <div class="ml-3">
+    <img src="{{ .Get "src" }}" />
+  </div>
+</div>
