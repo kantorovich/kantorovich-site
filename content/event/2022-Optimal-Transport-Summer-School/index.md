@@ -83,7 +83,7 @@ the world.
   title="Gross substitutes, optimal transport and matching models"
   author="Alfred Galichon"
   affiliation="NYU, USA"
-  src="./Alfred-Galichon.jpg" >}}
+  src="Alfred-Galichon.jpg" >}}
 Gross substitutes is a fundamental property in mathematics, economics and
 computation, almost as important as convexity. It is at the heart of optimal
 transport theory -- although this is often underrecognized -- and understanding
@@ -106,7 +106,7 @@ matchings. Adachi's formulation.  Kelso-Craford. Hatfield-Milgrom.
   title="Recent results in interface motions in the framework of optimal  transport"
   author="Inwon Kim"
   affiliation="UCLA, USA"
-  src="./Inwon-Kim.jpg" >}}
+  src="Inwon-Kim.jpg" >}}
 In the lectures we will discuss recent results obtained on interface motions in
 the framework of optimal transport. We intend to (time allowing) discuss the
 following problems:
@@ -134,7 +134,7 @@ discuss qualitative behavior of solutions.
   title="Recent advances in dynamical optimal transport"
   author="Jan Maas"
   affiliation="IST, Austria"
-  src="./jan_web.jpg" >}}
+  src="jan_web.jpg" >}}
 In this lecture series we present an overview of dynamical optimal transport and
 some of its applications to discrete probability and non-commutative analysis.
 Particular focus is on gradient structures and functional inequalities for
