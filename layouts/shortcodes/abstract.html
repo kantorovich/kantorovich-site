@@ -9,6 +9,10 @@
     </div>
   </div>
   <div class="ml-3">
-    <img src="{{ .Get "src" }}" />
+    {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+    {{ with $original }}
+    {{ $image := .Resize "300x" }} 
+    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="">
+    {{ end }}
   </div>
 </div>
