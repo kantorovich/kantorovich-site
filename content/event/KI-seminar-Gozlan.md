@@ -19,7 +19,6 @@ tags: ['']
 categories: ['event']
 date: 2022-01-27T10:00:00-08:00
 publishDate: 2022-01-19T14:30:00-08:00
-lastmod: 2020-11-09T19:21:51-08:00
 featured: false
 draft: false
 
@@ -37,5 +36,5 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video: https://mathtube.org/lecture/video/estimating-transport-distances-steins-method
+#url_video: https://mathtube.org/lecture/video/estimating-transport-distances-steins-method
 ---
