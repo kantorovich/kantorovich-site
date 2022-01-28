@@ -37,4 +37,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video: https://mathtube.org/lecture/video/survey-weak-optimal-transport
+url_slides: "WOT-KI-2022.pdf"
 ---
