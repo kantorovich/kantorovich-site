@@ -39,4 +39,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video: https://mathtube.org/lecture/video/estimating-transport-distances-steins-method
+url_slides: "slides_KI_Fathi.pdf"
 ---
