@@ -217,6 +217,22 @@ sample complexity. More information and references can be found on the [website
 of our book "Computational Optimal Transport"](https://optimaltransport.github.io/).
 {{< /abstract >}}
 
+{{< abstract
+  title="Towards a Mathematical Theory of Development"
+  author="Geoff Schiebinger"
+  affiliation="UBC, Canada"
+  src="GeoffSchiebinger.jpg" >}}
+New measurement technologies like single-cell RNA sequencing are bringing ‘big
+data’ to biology. One of the most exciting prospects associated with this new
+trove of data is the possibility of studying temporal processes, such as
+differentiation and development. In this talk, we introduce the basic elements
+of a mathematical theory to answer questions like How does a stem cell transform
+into a muscle cell, a skin cell, or a neuron? How can we reprogram a skin cell
+into a neuron? We model a developing population of cells with a curve in the
+space of probability distributions on a high-dimensional gene expression space.
+We design algorithms to recover these curves from samples at various time-points
+and we collaborate closely with experimentalists to test these ideas on real
+data.
 
 
 ## Registration
