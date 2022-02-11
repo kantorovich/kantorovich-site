@@ -17,7 +17,7 @@ summary: ""
 authors: 
 tags: ['']
 categories: ['event']
-date: 2022-02-24T10:00:00-07:00
+date: 2022-02-24T10:00:00-08:00
 publishDate: 2020-11-09T14:30:00-08:00
 lastmod: 2020-11-09T19:21:51-08:00
 featured: false
@@ -37,5 +37,5 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video: https://mathtube.org/lecture/video/searching-most-likely-evolution
+# url_video: https://mathtube.org/lecture/video/searching-most-likely-evolution
 ---
