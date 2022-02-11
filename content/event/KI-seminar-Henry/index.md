@@ -17,9 +17,9 @@ summary: ""
 authors: 
 tags: ['']
 categories: ['event']
-date: 2022-02-24T10:00:00-08:00
-publishDate: 2020-11-09T14:30:00-08:00
-lastmod: 2020-11-09T19:21:51-08:00
+date: 2022-02-24T10:00:00-07:00
+publishDate: 2022-02-10T14:30:00-07:00
+lastmod: 2022-02-10T19:21:51-07:00
 featured: false
 draft: false
 
