@@ -50,5 +50,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-#url_video: https://mathtube.org/lecture/video/searching-most-likely-evolution
+url_video: https://mathtube.org/lecture/video/wasserstein-gradient-flows-machine-learning
+url_slides: Korba.pdf
 ---
