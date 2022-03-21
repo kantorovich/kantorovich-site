@@ -39,13 +39,15 @@ image:
 
 ## Schedule
   * **10:00** - Room opens. 
-  * **10:05 - 10:50**: Jingwei Hu, UW Applied Math 
-  * **10:55 - 11:40**: Amir Taghvei, UW Aeronautics and Astronautics (in person)
+  * **10:05 - 10:50**: Jingwei Hu, UW Applied Math {{< slides Hu.pdf >}}
+  * **10:55 - 11:40**: Amir Taghvei, UW Aeronautics and Astronautics
+    {{< slides Amir-Taghvaei.pdf >}}
   * **11:45 - 12:30** : Nabarun Deb, incoming KI postdoc, Columbia University 
   * **12:30 - 2:30**: Lunch Break
-  * **2:30 - 3:20**: Raghav Somani, UW CSE, and Raghav Tripathi, UW Math (joint talk)
+  * **2:30 - 3:20**: Raghav Somani, UW CSE, and Raghav Tripathi, UW Math
+    {{< slides Somani-Tripathi.pdf >}}
   * **3:25 - 3:55**: Lang Liu, UW Stat
-  * **4:00 - 4:30**: Hyeonseok Park, UW Econ 
+  * **4:00 - 4:30**: Hyeonseok Park, UW Econ {{< slides Hyeonseok-Park.pdf >}}
   * **4:30 - 5:00**: Nick Irons, UW Stat
 
 
@@ -56,6 +58,7 @@ image:
   title="Particle method for the Landau Equation - A gradient flow perspective"
   author="Jingwei Hu"
   affiliation="UW, USA"
+  slides="Hu.pdf"
 >}}
 The Landau equation is an important partial differential equation in kinetic
 theory. It describes the charged particle collisions and can be formally derived
@@ -74,6 +77,7 @@ method in solving the Vlasov-Landau equation in plasma physics.
   title="Variational Wasserstein gradient flow"
   author="Amir Taghvei"
   affiliation="UW, USA"
+  slides="Amir-Taghvaei.pdf"
 >}}
 Wasserstein gradient flow has emerged as a promising approach to solve
 optimization problems over the space of probability distributions. A recent
@@ -130,6 +134,7 @@ convergence without any tuning parameters.
   title="Gradient flows on graphons"
   author="Raghav Somani and Raghav Tripathi"
   affiliation="UW, USA"
+  slides="Somani-Tripathi.pdf"
 >}}
 Neural Networks (NN) can be modeled as large computational graphs with bounded
 edge-weights and exchangeable nodes. Given a data distribution, the goal of a NN
@@ -171,7 +176,7 @@ and real data.
   title="Minimum Sliced Distance Estimation in Structural Models"
   author="Hyeonseok Park"
   affiliation="UW, USA"
-  src="" >}}
+  slides="Hyeonseok-Park.pdf" >}}
 Estimation and inference in structural models in economics and finance often
 pose challenges to the classical likelihood-based method. In structural models
 such as term structure models and dynamic stochastic general equilibrium models,

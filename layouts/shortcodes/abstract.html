@@ -4,6 +4,16 @@
       {{ with .Get "title" }}{{ . }}{{ end }}
     </div>
     {{ with .Get "author" }}{{ . }}{{ end }} {{ with .Get "affiliation" }}(<em>{{ . }}</em>){{ end }}
+    {{ if .Get "slides" }}
+    {{ $slides := .Page.Resources.GetMatch (.Get "slides") }}
+    <div class="btn-links mb-3">
+      {{ with $slides }}
+        <a class="btn btn-outline-primary btn-page-header" href="{{ .RelPermalink }}" target="_blank">
+         {{ i18n "btn_slides" }}
+        </a>
+      {{ end }}
+    </div>
+    {{ end }}
     <div class="article-style">
       {{ .Inner | markdownify }}
     </div>
