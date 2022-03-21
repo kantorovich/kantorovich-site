@@ -1,8 +1,8 @@
 ---
-title: "Kantorovich Initiative - Retreat Schedule"
-event: "Kantorovich Initiative - Retreat Schedule"
+title: "KI retreat 2022"
+event: "KI retreat 2022"
 subtitle: ""
-location: Paccar Hall, University of Washington, Seattle"
+location: "Paccar Hall, University of Washington, Seattle"
 
 summary: |
     The Kantorovich Initiative Retreat will take place on Friday March 18th, in
@@ -14,8 +14,8 @@ tags: ['event']
 categories: ['event']
 
 date: 2022-03-18T10:00:00-07:00
-date_end: 2022-03-18T10:00:00-07:00
-all_day: true
+date_end: 2022-03-18T17:00:00-07:00
+all_day: false
 
 publishDate: 2022-03-18T10:00:00-07:00
 lastmod: 2022-03-18T10:00:00-07:00
