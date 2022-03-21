@@ -8,6 +8,7 @@
       {{ .Inner | markdownify }}
     </div>
   </div>
+  {{ if .Get "src" }}
   <div class="ml-3">
     {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
     {{ with $original }}
@@ -15,4 +16,5 @@
     <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="">
     {{ end }}
   </div>
+  {{ end }}
 </div>
