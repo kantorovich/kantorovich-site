@@ -1,0 +1,8 @@
+{{ if .Get 0 }}
+{{ $slides := .Page.Resources.GetMatch (.Get 0) }}
+{{ with $slides }}
+  <a class="btn btn-outline-primary btn-inline" href="{{ .RelPermalink }}" target="_blank">
+   {{ i18n "btn_slides" }}
+  </a>
+{{ end }}
+{{ end }}
