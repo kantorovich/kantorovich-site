@@ -46,7 +46,7 @@ image:
   * **12:30 - 2:30**: Lunch Break
   * **2:30 - 3:20**: Raghav Somani, UW CSE, and Raghav Tripathi, UW Math
     {{< slides Somani-Tripathi.pdf >}}
-  * **3:25 - 3:55**: Lang Liu, UW Stat
+  * **3:25 - 3:55**: Lang Liu, UW Stat {{< slides Liu.pdf >}}
   * **4:00 - 4:30**: Hyeonseok Park, UW Econ {{< slides Hyeonseok-Park.pdf >}}
   * **4:30 - 5:00**: Nick Irons, UW Stat
 
@@ -158,6 +158,7 @@ layers.
   title="Entropy Regularized Optimal Transport Independence Criterion"
   author="Lang Liu"
   affiliation="UW, USA"
+  slides="Liu.pdf"
 >}}
 We introduce an independence criterion based on entropy regularized optimal
 transport. Our criterion can be used to test for independence between two
