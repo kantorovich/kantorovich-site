@@ -27,6 +27,12 @@ subtitle = "The current activities of KI are being supported by grants from the 
   # Show user's interests? (true/false)
   show_interests = true
 
+  # Show organization
+  show_organizations = true
+
+  # Show role
+  show_role = false
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
