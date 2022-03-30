@@ -18,8 +18,6 @@ Organizations/Affiliations:
 organizations:
 - name: University of Washington
   url: "https://math.washington.edu"
-- name: Pacific Institute for the Mathematical Sciences
-  url: "https://pims.math.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio:

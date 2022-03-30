@@ -18,8 +18,6 @@ Organizations/Affiliations:
 organizations:
 - name: University of British Columbia
   url: "https://math.ubc.ca"
-- name: Pacific Institute for the Mathematical Sciences
-  url: "https://pims.math.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
