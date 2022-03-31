@@ -1,6 +1,6 @@
 <div class="media stream-item">
   <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
+    <div {{ with .Get "title" }}id="{{ . | urlize }}"{{ end }} class="section-subheading article-title mb-0 mt-0">
       {{ with .Get "title" }}{{ . }}{{ end }}
     </div>
     {{ with .Get "author" }}{{ . }}{{ end }} {{ with .Get "affiliation" }}(<em>{{ . }}</em>){{ end }}

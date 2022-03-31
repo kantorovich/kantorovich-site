@@ -27,20 +27,20 @@ interests:
 - Mathematical Economics
 - Mathematical Physics
 
-education:
-  courses:
-  - course: PhD in Mathematics
-    institution: University of Toronto
-    year: 2011
+# education:
+#   courses:
+#   - course: PhD in Mathematics
+#     institution: University of Toronto
+#     year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: globe
-#  icon_pack: fas
-#  link: https://sites.ualberta.ca/~pass/
+- icon: globe
+  icon_pack: fas
+  link: https://sites.ualberta.ca/~pass/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/colliand

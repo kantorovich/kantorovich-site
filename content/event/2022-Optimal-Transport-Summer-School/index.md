@@ -64,11 +64,6 @@ participants. We strongly encourage participation by a diverse audience and
 welcome attendees from traditionally underrepresented socio-economic and
 cultural groups.
 
-As the school is planned at the beginning of the summer season in Seattle, the
-participants can also enjoy the natural beauty of the Pacific Northwest and feel
-the energy of one of leading tech metropolises in the United States and around
-the world.
-
 [
 {{< figure
   src="./2022OT-Summer-School.jpg"
@@ -77,6 +72,10 @@ the world.
   caption="Poster for 2022 Summer School in Optimal Transport"
 >}}](./2022OT-Summer-School.pdf)
 
+## Schedule
+This event will take place from Monday June 20th-Friday July 1st, 2022. See the
+[detailed schedule](schedule) for more information.
+
 
 ## Main Speakers
 {{< abstract
@@ -84,6 +83,7 @@ the world.
   author="Alfred Galichon"
   affiliation="NYU, USA"
   src="Alfred-Galichon.jpg" >}}
+{{< detail-tag "Show Abstract" >}}
 Gross substitutes is a fundamental property in mathematics, economics and
 computation, almost as important as convexity. It is at the heart of optimal
 transport theory -- although this is often underrecognized -- and understanding
@@ -99,7 +99,7 @@ equilibrium.  Lattice structure.
 
 **Lecture 3.** Models of matching without transfers Gale and Shapley's stable
 matchings. Adachi's formulation.  Kelso-Craford. Hatfield-Milgrom.
-
+{{< /detail-tag >}}
 {{< /abstract >}}
 
 {{< abstract
@@ -107,6 +107,7 @@ matchings. Adachi's formulation.  Kelso-Craford. Hatfield-Milgrom.
   author="Inwon Kim"
   affiliation="UCLA, USA"
   src="Inwon-Kim.jpg" >}}
+{{< detail-tag "Show Abstract" >}}
 In the lectures we will discuss recent results obtained on interface motions in
 the framework of optimal transport. We intend to (time allowing) discuss the
 following problems:
@@ -128,6 +129,7 @@ notion of solutions that are physically meaningful and stable. We will start
 with a quick introduction of the necessary background on the optimal stopping
 time between probability measures. We will establish the well-posedness, and
 discuss qualitative behavior of solutions.
+{{< /detail-tag >}}
 {{< /abstract >}}
 
 {{< abstract 
@@ -135,11 +137,13 @@ discuss qualitative behavior of solutions.
   author="Jan Maas"
   affiliation="IST, Austria"
   src="jan_web.jpg" >}}
+{{< detail-tag "Show Abstract" >}}
 In this lecture series we present an overview of dynamical optimal transport and
 some of its applications to discrete probability and non-commutative analysis.
 Particular focus is on gradient structures and functional inequalities for
 dissipative quantum systems, and on homogenisation results for dynamical optimal
 transport.
+{{< /detail-tag >}}
 {{< /abstract >}}
 
 {{< abstract
@@ -147,6 +151,7 @@ transport.
   author="Felix Otto"
   affiliation="Max Planck Institute, Germany"
   src="felix-otto.jpg" >}}
+{{< detail-tag "Show Abstract" >}}
 In this mini-course, we shall explain the variational approach to regularity
 theory for optimal transportation introduced in [8].  This approach does
 completely bypass the celebrated regularity theory of Caffarelli [2], which is
@@ -198,6 +203,7 @@ the matching problem.
 * [10] F. Otto, M. Prod’homme, T. Ried: Variational approach to regularity of
   optimal transport maps: general cost functions. (English summary) Ann. PDE 7
   (2021), no. 2, Paper No. 17, 74 pp.
+{{< /detail-tag >}}
 {{< /abstract >}}
 
 {{< abstract
@@ -205,6 +211,7 @@ the matching problem.
   author="Gabriel Peyré"
   affiliation="ENS, France"
   src="peyre.jpg" >}}
+{{< detail-tag "Show Abstract" >}}
 Optimal transport (OT) has recently gained lot of interest in machine learning.
 It is a natural tool to compare in a geometrically faithful way probability
 distributions. It finds applications in both supervised learning (using
@@ -215,6 +222,7 @@ this course, I will explain how to leverage entropic regularization methods to
 define computationally efficient loss functions, approximating OT with a better
 sample complexity. More information and references can be found on the [website
 of our book "Computational Optimal Transport"](https://optimaltransport.github.io/).
+{{< /detail-tag >}}
 {{< /abstract >}}
 
 {{< abstract
@@ -222,6 +230,7 @@ of our book "Computational Optimal Transport"](https://optimaltransport.github.i
   author="Geoff Schiebinger"
   affiliation="UBC, Canada"
   src="GeoffSchiebinger.jpg" >}}
+{{< detail-tag "Show Abstract" >}}
 New measurement technologies like single-cell RNA sequencing are bringing ‘big
 data’ to biology. One of the most exciting prospects associated with this new
 trove of data is the possibility of studying temporal processes, such as
@@ -233,7 +242,8 @@ space of probability distributions on a high-dimensional gene expression space.
 We design algorithms to recover these curves from samples at various time-points
 and we collaborate closely with experimentalists to test these ideas on real
 data.
-
+{{< /detail-tag >}}
+{{< /abstract >}}
 
 ## Registration
 Registration for this event is [now available via
