@@ -68,7 +68,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: global
+- icon: globe
   icon_pack: fas
   link: https://faculty.washington.edu/zaid/
 #- icon: github
