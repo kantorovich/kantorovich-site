@@ -42,7 +42,7 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://sites.ualberta.ca/~pass://jingweihu-math.github.io/webpage/ 
+  link: https://jingweihu-math.github.io/webpage/ 
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/colliand
