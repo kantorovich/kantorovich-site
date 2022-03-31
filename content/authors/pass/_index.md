@@ -16,7 +16,7 @@ role: Associate Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of Alberta, Department of Mathematical and Statistical Sciences
+- name: Department of Mathematical and Statistical Sciences, University of Alberta
   url: "https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html"
 
 # Short bio (displayed in user profile at end of posts)

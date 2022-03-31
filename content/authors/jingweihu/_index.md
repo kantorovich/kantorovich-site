@@ -16,7 +16,7 @@ role: Associate Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of Washington, Department of Applied Mathematics
+- name: Department of Applied Mathematics, University of Washington
   url: https://amath.washington.edu/
 
 # Short bio (displayed in user profile at end of posts)

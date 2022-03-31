@@ -16,7 +16,7 @@ role: Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of Washington
+- name: Department of Mathematics, University of Washington
   url: "https://math.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,23 +26,23 @@ interests:
 - Optimal Transporation
 - Probability Theory
 
-education:
-  courses:
-  - course: PhD in Mathematics
-    institution: Columbia University
-    year: 2006
-  - course: Bachelor of Statistics
-    institution: Indian Statistical Institute
-    year: 2000
+# education:
+#   courses:
+#   - course: PhD in Mathematics
+#     institution: Columbia University
+#     year: 2006
+#   - course: Bachelor of Statistics
+#     institution: Indian Statistical Institute
+#     year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/colliand
+- icon: globe
+  icon_pack: fas
+  link: https://sites.math.washington.edu/~soumik/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/colliand

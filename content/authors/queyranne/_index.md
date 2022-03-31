@@ -16,7 +16,7 @@ role: Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of British Columbia
+- name: Sauder School of Business, University of British Columbia
   url: "https://sauder.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,14 +27,14 @@ interests:
   - Production Planning and Scheduling
   - Inventory Management
 
-education:
-  courses:
-  - course: PhD
-    institution: University of Grenoble
-  - course: DEA
-    institution: University of Grenoble
-  - course: MSc
-    institution: University of Grenoble
+# education:
+#   courses:
+#   - course: PhD
+#     institution: University of Grenoble
+#   - course: DEA
+#     institution: University of Grenoble
+#   - course: MSc
+#     institution: University of Grenoble
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

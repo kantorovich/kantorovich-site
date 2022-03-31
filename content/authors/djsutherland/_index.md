@@ -16,7 +16,7 @@ role: Assistant Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of British Columbia
+- name: Department of Computer Science, University of British Columbia
   url: "https://cs.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,10 +27,10 @@ interests:
 - Learning "deep kernels"
 - Statistical Theory
 
-education:
-  courses:
-  - course: PhD
-    institution: Carnegie Mellon
+# education:
+#   courses:
+#   - course: PhD
+#     institution: Carnegie Mellon
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
