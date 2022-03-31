@@ -1,7 +1,9 @@
 ---
 title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 ---
-## Schedule
+
+## << [Summer School](../)
+
 ### Week 1
 
 #### Monday, June 20
