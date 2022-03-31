@@ -16,7 +16,7 @@ role: Associate Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of Washington
+- name: Department of Mathematics, University of Washington
   url: "https://math.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,21 +28,21 @@ interests:
 - Spectral Theory
 - Harmonic Analysis
 
-education:
-  courses:
-  - course: PhD in Mathematics
-    institution: Universität Bonn
-  - course: MSc
-    institution: Johannes Keppler Universität Linz
+# education:
+#   courses:
+#   - course: PhD in Mathematics
+#     institution: Universität Bonn
+#   - course: MSc
+#     institution: Johannes Keppler Universität Linz
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/colliand
+- icon: globe
+  icon_pack: fas
+  link: https://faculty.washington.edu/steinerb/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/colliand

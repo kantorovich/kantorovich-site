@@ -12,7 +12,7 @@ role: Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of Saskatchewan
+- name: School of Environment and Sustainability, University of Saskatchewan
   url: "https://artsandscience.usask.ca/math/"
 - name: Global Institute for Food Security
   url: "https://gifs.ca"

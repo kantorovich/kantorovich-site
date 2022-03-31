@@ -16,10 +16,8 @@ role: Associate Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of Alberta
+- name: Department of Mathematical and Statistical Sciences, University of Alberta
   url: "https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html"
-- name: Pacific Institute for the Mathematical Sciences
-  url: "https://pims.math.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio:

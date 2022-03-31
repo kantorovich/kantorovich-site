@@ -16,7 +16,7 @@ role: Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of British Columbia
+- name: Department of Mathematics, University of British Columbia
   url: "https://math.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,10 +25,10 @@ bio:
 interests:
 - Partial Differential Equations
 
-education:
-  courses:
-  - course: PhD
-    institution: Université Pierre et Marie Curie
+# education:
+#   courses:
+#   - course: PhD
+#     institution: Université Pierre et Marie Curie
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -16,7 +16,7 @@ role: Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of Washington
+- name: Department of Electrical and Computer Engineering, University of Washington
   url: "https://math.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,10 +27,10 @@ interests:
 - Data Science and Machine Learning
 - Control Theory
 
-education:
-  courses:
-  - course: PhD in Electrical Engineering
-    institution: Stanford University
+# education:
+#   courses:
+#   - course: PhD in Electrical Engineering
+#     institution: Stanford University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

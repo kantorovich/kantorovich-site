@@ -16,7 +16,7 @@ role: Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of British Columbia
+- name: Department of Mathematics, University of British Columbia
   url: "https://math.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,10 +29,10 @@ interests:
 - Optimization
 - Machine Learning
 
-education:
-  courses:
-  - course: PhD
-    institution: University of British Columbia
+# education:
+#   courses:
+#   - course: PhD
+#     institution: University of British Columbia
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

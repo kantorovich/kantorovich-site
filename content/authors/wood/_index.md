@@ -16,7 +16,7 @@ role: Associate Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of British Columbia
+- name: Department of Computer Science, University of British Columbia
   url: "https://cs.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,12 +29,12 @@ interests:
 - Reinforcement Learning
 - Applied Probabilistic Machine Learning
 
-education:
-  courses:
-  - course: PhD
-    institution: Brown University
-  - course: MS
-    institution: Brown University
+# education:
+#   courses:
+#   - course: PhD
+#     institution: Brown University
+#   - course: MS
+#     institution: Brown University
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

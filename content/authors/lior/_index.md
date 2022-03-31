@@ -16,7 +16,7 @@ role: Associate Professor
 
 Organizations/Affiliations:
 organizations:
-- name: University of British Columbia
+- name: Department of Mathematics, University of British Columbia
   url: "https://math.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,10 +28,10 @@ interests:
 - Group theory
 - Metric geometry.
 
-education:
-  courses:
-  - course: PhD
-    institution: Princeton University
+# education:
+#   courses:
+#   - course: PhD
+#     institution: Princeton University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
