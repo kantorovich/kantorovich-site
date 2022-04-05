@@ -42,7 +42,7 @@ image:
   * **10:05 - 10:50**: Jingwei Hu, UW Applied Math {{< slides Hu.pdf >}}
   * **10:55 - 11:40**: Amir Taghvei, UW Aeronautics and Astronautics
     {{< slides Amir-Taghvaei.pdf >}}
-  * **11:45 - 12:30** : Nabarun Deb, incoming KI postdoc, Columbia University 
+  * **11:45 - 12:30** : Nabarun Deb, incoming KI postdoc, Columbia University  {{< slides NabarunDeb.pdf >}}
   * **12:30 - 2:30**: Lunch Break
   * **2:30 - 3:20**: Raghav Somani, UW CSE, and Raghav Tripathi, UW Math
     {{< slides Somani-Tripathi.pdf >}}
@@ -103,6 +103,7 @@ numerical experiments involving high-dimensional synthetic and real datasets.
   title="Optimal transport in statistics and Pitman effect multivariate distribution free testing"
   author="Nabarun Deb"
   affiliation="Columbia University, USA"
+  slides="NabarunDeb.pdf"
 >}}
 In recent years, the problem of optimal transport (see e.g., Villani (2003)) has
 received significant attention in statistics and machine learning due to its
