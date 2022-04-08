@@ -50,6 +50,25 @@ image:
 projects: ["pihot"]
 ---
 
+<ul class="nav nav-pills">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="schedule">Schedule</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="localinfo">Local Information</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#main-speakers">Speakers</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#registration">Registration</a>
+  </li>
+</ul>
+
+
 ## Summer School in Optimal Transport
 
 The common theme of this summer school is the mathematics of Monge-Kantorovich
@@ -64,17 +83,12 @@ participants. We strongly encourage participation by a diverse audience and
 welcome attendees from traditionally underrepresented socio-economic and
 cultural groups.
 
-[
-{{< figure
+[{{< figure
   src="./2022OT-Summer-School.jpg"
   alt="2022 Summer School in Optimal Transport poster"
   width="75%"
   caption="Poster for 2022 Summer School in Optimal Transport"
 >}}](./2022OT-Summer-School.pdf)
-
-## Schedule
-This event will take place from Monday June 20th-Friday July 1st, 2022. See the
-[detailed schedule](schedule) for more information.
 
 
 ## Main Speakers
