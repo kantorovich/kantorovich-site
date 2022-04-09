@@ -2,7 +2,17 @@
 title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 ---
 
-## << [Summer School](../)
+<ul class="nav nav-pills">
+  <li class="nav-item">
+    <a class="nav-link" aria-current="page" href="../">Main</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="#">Schedule</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../localinfo">Local Information</a>
+  </li>
+</ul>
 
 ### Week 1
 
