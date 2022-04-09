@@ -33,7 +33,7 @@ Seattle is a very friendly city with lots to see and do and there are lots of
 [excellent dining
 options](https://seattle.eater.com/maps/where-to-eat-u-district-university-of-washington-in-seattle).
 If you would like to explore the city of Seattle, the videos below will help you
-get oriented quickly. Seattle is a very friendly city with lots to see and do.
+get oriented quickly. 
 
 ### Getting around in Seattle
 {{< youtube oL0llwNHqVA >}}
