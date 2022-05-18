@@ -270,6 +270,21 @@ form](https://ubc.ca1.qualtrics.com/jfe/form/SV_38HIoKjDdteuPGe) by **4pm
 (Pacific), February 15th, 2022**. *The deadline for registration is **4pm
 (Pacific), April 15th, 2022**.*
 
+## Acknowledgments
+We would like to gratefully acknowledge the support of the following groups for
+this summer school:
+  * [University of Washington - Department of
+    Mathematics](https://math.washington.edu/)
+  * [University of Washington - Department of Applied
+    Mathematics](https://amath.washington.edu/)
+  * [University of Washington - Department of Statistics](https://stat.uw.edu/)
+  * [University of Washington - Department of
+    Economics](https://econ.washington.edu/)
+  * [University of British Columbia - Department of
+    Mathematics](https://www.math.ubc.ca/home)
+  * [University of Alberta - Department of
+    Mathematics](https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html)
+
 ## COVID-19
 PIMS and the University of Washington will implement guidelines set by the
 Washington State Health Department. As such, at the time of the meeting
