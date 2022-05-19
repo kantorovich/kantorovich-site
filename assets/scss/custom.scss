@@ -47,3 +47,36 @@ img.tight {
     border: 1px solid;
     margin: 0.2rem;
 }
+
+.card-deck {
+    column-count: 4;
+}
+
+img.card-img-top {
+    width: 60%;
+    height: 10vw;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    object-fit: scale-down;
+}
+
+.card-body {
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    background-color: #eee;
+    a {
+        color: #000;
+    }
+    font-size: 0.8rem;
+    font-weight: 500;
+    h6 {
+        font-weight: 300;
+        font-size: 0.8rem;
+        margin-top: 0.5rem;
+    }
+}
+
+.card {
+    margin-top: 1rem;
+}
