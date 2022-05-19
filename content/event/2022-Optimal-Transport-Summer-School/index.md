@@ -63,9 +63,6 @@ projects: ["pihot"]
   <li class="nav-item">
     <a class="nav-link" href="#main-speakers">Speakers</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#registration">Registration</a>
-  </li>
 </ul>
 
 
@@ -259,17 +256,6 @@ data.
 {{< /detail-tag >}}
 {{< /abstract >}}
 
-## Registration
-Registration for this event is [now available via
-PIMS](https://www.pims.math.ca/scientific-event/220619-pinssot). Discounted
-rates are available for Graduate Students and Postdoctoral Scholars. Please see
-the [PIMS Event page](https://www.pims.math.ca/scientific-event/220619-pinssot)
-for more details on accommodation and COVID vaccination guidelines. Junior
-participants may apply for accommodation by completing [this
-form](https://ubc.ca1.qualtrics.com/jfe/form/SV_38HIoKjDdteuPGe) by **4pm
-(Pacific), February 15th, 2022**. *The deadline for registration is **4pm
-(Pacific), April 15th, 2022**.*
-
 ## Acknowledgments
 
 <div class="card-deck sponsors-container">
@@ -320,7 +306,7 @@ form](https://ubc.ca1.qualtrics.com/jfe/form/SV_38HIoKjDdteuPGe) by **4pm
       </a>
     </div>
   </div>
-  <div class="card">
+  <div class="card rounded-circle">
     <img class="card-img-top" src="/img/ua-logo.png" alt="UAlberta Mathematics">
     <div class="card-body">
       <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
