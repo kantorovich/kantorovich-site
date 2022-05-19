@@ -276,7 +276,7 @@ form](https://ubc.ca1.qualtrics.com/jfe/form/SV_38HIoKjDdteuPGe) by **4pm
   <div class="card">
     <img class="card-img-top" src="/img/uw-logo.svg" alt="UW Mathematics">
     <div class="card-body">
-      <a href="https://amath.washington.edu">
+      <a href="https://math.washington.edu">
         <div class="card-title"><h6>University of Washington</h6></div>
         <div class="card-subtitle"><h6>Department of Mathematics</h6></div>
       </a>
