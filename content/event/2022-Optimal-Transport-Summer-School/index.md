@@ -287,8 +287,8 @@ data.
     </div>
   </div>
 </div>
-<div class="card-deck sponsors-container">
-  <div class="card rounded-circle">
+<div class="card-deck">
+  <div class="card">
     <img class="card-img-top" src="/img/uw-logo.svg" alt="UW Economics">
     <div class="card-body">
       <a href="https://econ.uw.edu">
@@ -297,7 +297,7 @@ data.
       </a>
     </div>
   </div>
-  <div class="card rounded-circle">
+  <div class="card">
     <img class="card-img-top" style="width:45%" src="/img/ubc-logo.png" alt="UBC Mathematics">
     <div class="card-body">
       <a href="https://www.math.ubc.ca">
