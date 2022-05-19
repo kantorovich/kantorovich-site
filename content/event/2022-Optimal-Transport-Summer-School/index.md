@@ -269,7 +269,7 @@ sponsors of this summer school:
     <div class="media-body">
       <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
         <h5 class="card-title">
-          Department of Mathematics
+          Department of Mathematics and Statistical Sciences
         </h5>
       </a>
       <h6 class="card-subtitle">
