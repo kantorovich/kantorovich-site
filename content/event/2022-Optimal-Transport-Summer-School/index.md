@@ -258,61 +258,83 @@ data.
 
 ## Acknowledgments
 
-<div class="card-deck sponsors-container">
-  <div class="card">
-    <img class="card-img-top" src="/img/uw-logo.svg" alt="UW Mathematics">
-    <div class="card-body">
+The organizers would like to gratefully acknoweldge the support of the following
+sponsors of this summer school:
+
+<div class="sponsors">
+  <div class="media author-card content-widget-hr">
+    <a href="https://math.washington.edu">
+      <img class="mr-3 avatar" src="/img/uw-logo.svg" alt="UW Mathematics">
+    </a>
+    <div class="media-body">
       <a href="https://math.washington.edu">
-        <div class="card-title"><h6>University of Washington</h6></div>
-        <div class="card-subtitle"><h6>Department of Mathematics</h6></div>
+        <h5 class="card-title">
+          Department of Mathematics
+        </h5>
       </a>
+      <h6 class="card-subtitle">
+        University of Washington
+      </h5>
     </div>
   </div>
-  <div class="card">
-    <img class="card-img-top" src="/img/uw-logo.svg" alt="UW Mathematics">
-    <div class="card-body">
+  <div class="media author-card content-widget-hr">
+    <a href="https://amath.washington.edu">
+      <img class="mr-3 avatar" src="/img/uw-logo.svg" alt="UW Applied Mathematics">
+    </a>
+    <div class="media-body">
       <a href="https://amath.washington.edu">
-        <div class="card-title"><h6>University of Washington</h6></div>
-        <div class="card-subtitle"><h6>Department of Applied Mathematics</h6></div>
+        <h5 class="card-title">
+          Department of Applied Mathematics
+        </h5>
       </a>
+      <h6 class="card-subtitle">
+        University of Washington
+      </h5>
     </div>
   </div>
-  <div class="card rounded-circle">
-    <img class="card-img-top" src="/img/uw-logo.svg" alt="UW Statistics">
-    <div class="card-body">
-      <a href="https://stat.uw.edu">
-        <div class="card-title"><h6>University of Washington<h6></div>
-        <div class="card-subtitle"><h6>Department of Statistics</h6></div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://stat.washington.edu">
+      <img class="mr-3 avatar" src="/img/uw-logo.svg" alt="UW Statistics">
+    </a>
+    <div class="media-body">
+      <a href="https://stat.washington.edu">
+        <h5 class="card-title">
+          Department of Statistics
+        </h5>
       </a>
+      <h6 class="card-subtitle">
+        University of Washington
+      </h5>
     </div>
   </div>
-</div>
-<div class="card-deck">
-  <div class="card">
-    <img class="card-img-top" src="/img/uw-logo.svg" alt="UW Economics">
-    <div class="card-body">
-      <a href="https://econ.uw.edu">
-        <div class="card-title"><h6>University of Washington</h6></div>
-        <div class="card-subtitle"><h6>Department of Economics</h6></div>
-      </a>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" style="width:45%" src="/img/ubc-logo.png" alt="UBC Mathematics">
-    <div class="card-body">
+  <div class="media author-card content-widget-hr">
+    <a href="https://www.math.ubc.ca">
+      <img class="mr-3 avatar" src="/img/ubc-logo.png" alt="UW Economics">
+    </a>
+    <div class="media-body">
       <a href="https://www.math.ubc.ca">
-        <div class="card-title"><h6>University of British Columbia<h6></div>
-        <div class="card-subtitle"><h6>Department of Mathematics</h6></div>
+        <h5 class="card-title">
+          Department of Mathematics
+        </h5>
       </a>
+      <h6 class="card-subtitle">
+        University of British Columbia
+      </h5>
     </div>
   </div>
-  <div class="card rounded-circle">
-    <img class="card-img-top" src="/img/ua-logo.png" alt="UAlberta Mathematics">
-    <div class="card-body">
+  <div class="media author-card content-widget-hr">
+    <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
+      <img class="mr-3 avatar" src="/img/ua-logo.png" alt="UA Mathematics">
+    </a>
+    <div class="media-body">
       <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
-        <div class="card-title"><h6>University of Alberta</h6></div>
-        <div class="card-subtitle"><h6>Department of Mathematics</h6></div>
+        <h5 class="card-title">
+          Department of Mathematics
+        </h5>
       </a>
+      <h6 class="card-subtitle">
+        University of Alberta
+      </h5>
     </div>
   </div>
 </div>
