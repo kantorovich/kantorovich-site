@@ -271,19 +271,65 @@ form](https://ubc.ca1.qualtrics.com/jfe/form/SV_38HIoKjDdteuPGe) by **4pm
 (Pacific), April 15th, 2022**.*
 
 ## Acknowledgments
-We would like to gratefully acknowledge the support of the following groups for
-this summer school:
-  * [University of Washington - Department of
-    Mathematics](https://math.washington.edu/)
-  * [University of Washington - Department of Applied
-    Mathematics](https://amath.washington.edu/)
-  * [University of Washington - Department of Statistics](https://stat.uw.edu/)
-  * [University of Washington - Department of
-    Economics](https://econ.washington.edu/)
-  * [University of British Columbia - Department of
-    Mathematics](https://www.math.ubc.ca/home)
-  * [University of Alberta - Department of
-    Mathematics](https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html)
+
+<div class="card-deck sponsors-container">
+  <div class="card">
+    <img class="card-img-top" src="/img/uw-logo.svg" alt="UW Mathematics">
+    <div class="card-body">
+      <a href="https://amath.washington.edu">
+        <div class="card-title"><h6>University of Washington</h6></div>
+        <div class="card-subtitle"><h6>Department of Mathematics</h6></div>
+      </a>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="/img/uw-logo.svg" alt="UW Mathematics">
+    <div class="card-body">
+      <a href="https://amath.washington.edu">
+        <div class="card-title"><h6>University of Washington</h6></div>
+        <div class="card-subtitle"><h6>Department of Applied Mathematics</h6></div>
+      </a>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="/img/uw-logo.svg" alt="UW Statistics">
+    <div class="card-body">
+      <a href="https://stat.uw.edu">
+        <div class="card-title"><h6>University of Washington<h6></div>
+        <div class="card-subtitle"><h6>Department of Statistics</h6></div>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="card-deck sponsors-container">
+  <div class="card">
+    <img class="card-img-top" src="/img/uw-logo.svg" alt="UW Economics">
+    <div class="card-body">
+      <a href="https://econ.uw.edu">
+        <div class="card-title"><h6>University of Washington</h6></div>
+        <div class="card-subtitle"><h6>Department of Economics</h6></div>
+      </a>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" style="width:45%" src="/img/ubc-logo.png" alt="UBC Mathematics">
+    <div class="card-body">
+      <a href="https://www.math.ubc.ca">
+        <div class="card-title"><h6>University of British Columbia<h6></div>
+        <div class="card-subtitle"><h6>Department of Mathematics</h6></div>
+      </a>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="/img/ua-logo.png" alt="UAlberta Mathematics">
+    <div class="card-body">
+      <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
+        <div class="card-title"><h6>University of Alberta</h6></div>
+        <div class="card-subtitle"><h6>Department of Mathematics</h6></div>
+      </a>
+    </div>
+  </div>
+</div>
 
 ## COVID-19
 PIMS and the University of Washington will implement guidelines set by the
