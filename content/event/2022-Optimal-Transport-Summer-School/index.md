@@ -263,17 +263,32 @@ sponsors of this summer school:
 
 <div class="sponsors">
   <div class="media author-card content-widget-hr">
-    <a href="https://math.washington.edu">
-      <img class="mr-3 avatar" src="/img/uw-logo.svg" alt="UW Mathematics">
+    <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
+      <img class="mr-3 avatar" src="/img/ua-logo.png" alt="UA Mathematics">
     </a>
     <div class="media-body">
-      <a href="https://math.washington.edu">
+      <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
         <h5 class="card-title">
           Department of Mathematics
         </h5>
       </a>
       <h6 class="card-subtitle">
-        University of Washington
+        University of Alberta
+      </h5>
+    </div>
+  </div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://www.math.ubc.ca">
+      <img class="mr-3 avatar" src="/img/ubc-logo.png" alt="UBC Mathematics">
+    </a>
+    <div class="media-body">
+      <a href="https://www.math.ubc.ca">
+        <h5 class="card-title">
+          Department of Mathematics
+        </h5>
+      </a>
+      <h6 class="card-subtitle">
+        University of British Columbia
       </h5>
     </div>
   </div>
@@ -285,6 +300,36 @@ sponsors of this summer school:
       <a href="https://amath.washington.edu">
         <h5 class="card-title">
           Department of Applied Mathematics
+        </h5>
+      </a>
+      <h6 class="card-subtitle">
+        University of Washington
+      </h5>
+    </div>
+  </div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://econ.washington.edu">
+      <img class="mr-3 avatar" src="/img/uw-logo.svg" alt="UW Economics">
+    </a>
+    <div class="media-body">
+      <a href="https://econ.washington.edu">
+        <h5 class="card-title">
+          Department of Economics
+        </h5>
+      </a>
+      <h6 class="card-subtitle">
+        University of Washington
+      </h5>
+    </div>
+  </div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://math.washington.edu">
+      <img class="mr-3 avatar" src="/img/uw-logo.svg" alt="UW Mathematics">
+    </a>
+    <div class="media-body">
+      <a href="https://math.washington.edu">
+        <h5 class="card-title">
+          Department of Mathematics
         </h5>
       </a>
       <h6 class="card-subtitle">
@@ -307,36 +352,7 @@ sponsors of this summer school:
       </h5>
     </div>
   </div>
-  <div class="media author-card content-widget-hr">
-    <a href="https://www.math.ubc.ca">
-      <img class="mr-3 avatar" src="/img/ubc-logo.png" alt="UW Economics">
-    </a>
-    <div class="media-body">
-      <a href="https://www.math.ubc.ca">
-        <h5 class="card-title">
-          Department of Mathematics
-        </h5>
-      </a>
-      <h6 class="card-subtitle">
-        University of British Columbia
-      </h5>
-    </div>
-  </div>
-  <div class="media author-card content-widget-hr">
-    <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
-      <img class="mr-3 avatar" src="/img/ua-logo.png" alt="UA Mathematics">
-    </a>
-    <div class="media-body">
-      <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
-        <h5 class="card-title">
-          Department of Mathematics
-        </h5>
-      </a>
-      <h6 class="card-subtitle">
-        University of Alberta
-      </h5>
-    </div>
-  </div>
+  <div class="content-widget-hr"></div>
 </div>
 
 ## COVID-19
