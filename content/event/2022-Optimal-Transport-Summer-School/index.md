@@ -63,9 +63,6 @@ projects: ["pihot"]
   <li class="nav-item">
     <a class="nav-link" href="#main-speakers">Speakers</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#registration">Registration</a>
-  </li>
 </ul>
 
 
@@ -259,16 +256,104 @@ data.
 {{< /detail-tag >}}
 {{< /abstract >}}
 
-## Registration
-Registration for this event is [now available via
-PIMS](https://www.pims.math.ca/scientific-event/220619-pinssot). Discounted
-rates are available for Graduate Students and Postdoctoral Scholars. Please see
-the [PIMS Event page](https://www.pims.math.ca/scientific-event/220619-pinssot)
-for more details on accommodation and COVID vaccination guidelines. Junior
-participants may apply for accommodation by completing [this
-form](https://ubc.ca1.qualtrics.com/jfe/form/SV_38HIoKjDdteuPGe) by **4pm
-(Pacific), February 15th, 2022**. *The deadline for registration is **4pm
-(Pacific), April 15th, 2022**.*
+## Acknowledgments
+
+The organizers would like to gratefully acknoweldge the support of the following
+sponsors of this summer school:
+
+<div class="sponsors">
+  <div class="media author-card content-widget-hr">
+    <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
+      <img class="mr-3 avatar" src="/img/ua-logo.png" alt="UA Mathematics">
+    </a>
+    <div class="media-body">
+      <a href="https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html">
+        <h5 class="card-title">
+          Department of Mathematics and Statistical Sciences
+        </h5>
+      </a>
+      <h6 class="card-subtitle">
+        University of Alberta
+      </h5>
+    </div>
+  </div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://www.math.ubc.ca">
+      <img class="mr-3 avatar" src="/img/ubc-logo.png" alt="UBC Mathematics">
+    </a>
+    <div class="media-body">
+      <a href="https://www.math.ubc.ca">
+        <h5 class="card-title">
+          Department of Mathematics
+        </h5>
+      </a>
+      <h6 class="card-subtitle">
+        University of British Columbia
+      </h5>
+    </div>
+  </div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://amath.washington.edu">
+      <img class="mr-3 avatar" src="/img/uw-logo.svg" alt="UW Applied Mathematics">
+    </a>
+    <div class="media-body">
+      <a href="https://amath.washington.edu">
+        <h5 class="card-title">
+          Department of Applied Mathematics
+        </h5>
+      </a>
+      <h6 class="card-subtitle">
+        University of Washington
+      </h5>
+    </div>
+  </div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://econ.washington.edu">
+      <img class="mr-3 avatar" src="/img/uw-logo.svg" alt="UW Economics">
+    </a>
+    <div class="media-body">
+      <a href="https://econ.washington.edu">
+        <h5 class="card-title">
+          Department of Economics
+        </h5>
+      </a>
+      <h6 class="card-subtitle">
+        University of Washington
+      </h5>
+    </div>
+  </div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://math.washington.edu">
+      <img class="mr-3 avatar" src="/img/uw-logo.svg" alt="UW Mathematics">
+    </a>
+    <div class="media-body">
+      <a href="https://math.washington.edu">
+        <h5 class="card-title">
+          Department of Mathematics
+        </h5>
+      </a>
+      <h6 class="card-subtitle">
+        University of Washington
+      </h5>
+    </div>
+  </div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://stat.washington.edu">
+      <img class="mr-3 avatar" src="/img/uw-logo.svg" alt="UW Statistics">
+    </a>
+    <div class="media-body">
+      <a href="https://stat.washington.edu">
+        <h5 class="card-title">
+          Department of Statistics
+        </h5>
+      </a>
+      <h6 class="card-subtitle">
+        University of Washington
+      </h5>
+    </div>
+  </div>
+  <div class="content-widget-hr"></div>
+</div>
 
 ## COVID-19
 PIMS and the University of Washington will implement guidelines set by the
