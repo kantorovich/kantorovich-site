@@ -352,6 +352,30 @@ sponsors of this summer school:
       </h5>
     </div>
   </div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://ifds.info/">
+      <img class="mr-3 avatar" src="/img/ifds-logo.png" alt="Institute for Foundatons of Data Science">
+    </a>
+    <div class="media-body">
+      <a href="https://ifds.info/">
+        <h5 class="card-title">
+          Institute for Foundations of Data Science
+        </h5>
+      </a>
+    </div>
+  </div>
+  <div class="media author-card content-widget-hr">
+    <a href="https://www.nsf.gov/">
+      <img class="mr-3 avatar" src="/img/nsf-logo.png" alt="National Science Foundation">
+    </a>
+    <div class="media-body">
+      <a href="https://www.nsf.gov/">
+        <h5 class="card-title">
+          National Science Foundation
+        </h5>
+      </a>
+    </div>
+  </div>
   <div class="content-widget-hr"></div>
 </div>
 
