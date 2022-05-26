@@ -18,4 +18,4 @@ In Fall 2021 OT+ML was taught by [Zaid Harchaoui](http://faculty.washington.edu/
 The first part of the course surveyed the basic theory of optimal transport. 
 The second part covered numerous aspects of OT in statistics and machine learning, including entropic regularization, Wasserstein barycenters, statistical estimation and rates of convergence. 
 
-In Fall 2022 we are scheduled to offer OT+biology taught by [Geoff Schiebinger](https://personal.math.ubc.ca/~geoff/) from UBC. The course will cover applications of OT to developmental cell biology. If you are interested in enrolling for this course, please follow the instructions on this PIMS regisration [webpage](https://courses.pims.math.ca/).  
+In Fall 2022 we are scheduled to offer OT+biology-single cell analysis taught by [Geoff Schiebinger](https://personal.math.ubc.ca/~geoff/) from UBC. The course will cover applications of OT to developmental cell biology. If you are interested in enrolling for this course, please follow the instructions on this PIMS regisration [webpage](https://courses.pims.math.ca/).  
