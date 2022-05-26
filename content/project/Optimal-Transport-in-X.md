@@ -11,7 +11,7 @@ In Fall 2020 OT+Economics was taught by [Brendan Pass](https://sites.ualberta.ca
 
 The first part of the course surveyed the basic theory of optimal transport. 
 
-The second part of the course develops applications in economics. A surprisingly wide variety of problems in economic theory and econometrics are naturally formulated in terms of optimal transport.  One illustrative example is matching problems, in which agents on two sides of a market are matched together into pairs (think, for instance, of employers and employees). Other examples include estimation of incomplete information, multi-variate generalizations of quantiles used to study dependence structures between distributions, industrial organization (screening problems), contract theory (hedonic or discrete choice models), and financial engineering (estimating model free bounds on derivative pricing and optimizing portfolios). 
+The second part of the course develops applications in economics, such as matching problems, in which agents on two sides of a market are matched together into pairs (think, for instance, of employers and employees), estimation of incomplete information, multi-variate generalizations of quantiles used to study dependence structures between distributions, industrial organization (screening problems), contract theory (hedonic or discrete choice models), and financial engineering (estimating model free bounds on derivative pricing and optimizing portfolios). 
 
 Over thirty students attended the course, including senior undergraduates, master's and PhD students in quantitative disciplines, and researchers in industry with a strong academic background.
 
