@@ -12,30 +12,29 @@ weight: 73
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Professor
 
 Organizations/Affiliations:
 organizations:
 - name: University of Washington
   url: "https://stat.washington.edu"
-- name: eScience Institute
-  url: "https://escience.washington.edu/"
+- name: Department of Statistics
+  url: "https://faculty.washington.edu/zaid/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  Zaid Harchaoui is currently a Provost’s Initiative in Data-driven Discovery
-  Associate Professor in the Department of Statistics, an Adjunct Faculty in the
-  Paul G. Allen School of Computer Science & Engineering, and a Senior Data
-  Science Fellow in the eScience Institute at University of Washington. He is a
-  member of the executive committee of ADSI, the NSF-TRIPODS institute on
-  foundations of data science, under the aegis of the eScience Institute at
-  University of Washington. He received the doctoral degree from ParisTech,
-  working with E. Moulines, S. Canu, and F. Bach. He was a CNRS Fellow in the LTCI
-  joint research unit of CNRS and Telecom ParisTech. He has held a visiting
-  appointment at the Courant Institute of Mathematical Sciences at New York
-  University in 2015 – 2016. He was a permanent researcher in the LEAR team at
-  Inria from 2010 to 2015. He was a postdoctoral fellow at Carnegie Mellon
-  University in 2009.
+  Zaid Harchaoui is a Professor in the Department of Statistics, an Adjunct
+  Faculty in the Paul G. Allen School of Computer Science & Engineering, and a
+  Senior Data Science Fellow in the eScience Institute at University of
+  Washington. He is a member of the executive committee of ADSI, the NSF-TRIPODS
+  institute on foundations of data science, under the aegis of the eScience
+  Institute at University of Washington. He received the doctoral degree from
+  ParisTech, working with E. Moulines, S. Canu, and F. Bach. He was a CNRS
+  Fellow in the LTCI joint research unit of CNRS and Telecom ParisTech. He has
+  held a visiting appointment at the Courant Institute of Mathematical Sciences
+  at New York University in 2015 – 2016. He was a permanent researcher in the
+  LEAR team at Inria from 2010 to 2015. He was a postdoctoral fellow at Carnegie
+  Mellon University in 2009.
 
   He received the Inria award for scientific excellence, the NIPS reviewer award,
   the Criteo Faculty Research Award, and the Google Faculty Research Award. He has
