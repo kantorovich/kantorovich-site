@@ -6,7 +6,7 @@ title: Zaid Harchaoui
 authors:
 - zaid
 
-weight: 75
+weight: 73
 
 # Is this the primary user of the site?
 superuser: false
