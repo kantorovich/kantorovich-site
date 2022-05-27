@@ -1,6 +1,6 @@
 ---
-title: OT + X, an online course sequence
-summary: Online course sequence in Optimal Transport + X
+title: OT + X
+summary: An online sequence of courses
 date: 2020-05-19T10:32:42-07:00
 ---
 
