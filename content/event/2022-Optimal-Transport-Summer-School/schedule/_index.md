@@ -76,7 +76,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 #### Thursday, June 30
   
   * **10:30 - 12:00**: Lecture 3 by Gabriel Peyré
-  * **2:00 - 3:30**: Lecture 2 by Jan Mass
+  * **2:00 - 3:30**: Lecture 2 by Jan Maas
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
 
 #### Friday, July 1
