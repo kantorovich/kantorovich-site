@@ -40,3 +40,7 @@ get oriented quickly.
 
 ### Places to visit in Seattle
 {{< youtube 92ISlO9U-84 >}}
+
+## Safety
+Although, in general, Seattle is a very safe city, it is still important to pay attention to your surroundings, especially if you are alone and walking late at night. Here are some tips to remian safe during your stay. Travel in groups late at night. If you are around campus and feel unsafe at night, plesae call [Husky Nightwalk](https://police.uw.edu/services/safetyescortservices/) at 206.685.9255 to call for a uniformed guard who will escort you back to your accommodation. 
+
