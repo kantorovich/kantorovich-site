@@ -21,7 +21,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
 #### Monday, June 20
 
-  * **10:00**: Welcome address (10:00 am)
+  * **10:00**: Welcome address
   * **10:30 - 12:00**: OT Bootcamp by Brendan Pass
   * **2:00 - 3:30**: Lecture 1 by Geoff Schiebinger
   * **4:00 - 5:30**: OT Bootcamp by Brendan Pass
