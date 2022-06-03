@@ -43,7 +43,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **10:30 - 12:00**: Lecture 2 By Felix Otto
   * **2:00 - 3:30**: Lecture 3 by Geoff Schiebinger
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
-  * Conference Dinner 
+  * **6:30 - ** Conference Dinner at [Ba Bar U-Village](https://goo.gl/maps/eYS1jjcUWxxUu6e26) 
 
 #### Friday, June 24
 
