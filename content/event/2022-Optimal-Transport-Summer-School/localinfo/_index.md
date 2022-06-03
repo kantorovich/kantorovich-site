@@ -44,9 +44,10 @@ get oriented quickly.
 
 ## Safety
 Although, in general, Seattle is a very safe city, it is still important to pay attention to your surroundings, especially if you are alone and walking 
-late at night. Here are some tips to remian safe during your stay. Travel in groups, if you are venturing outside the campus late at night. If you are around campus and feel unsafe at night, 
+late at night. Here are some tips to remain safe during your stay. Travel in groups if you are venturing outside the campus late at night. If you are close 
+to campus and feel unsafe at night, 
 please call [Husky Nightwalk](https://police.uw.edu/services/safetyescortservices/) at 206.685.9255 to ask for a uniformed guard who will escort you back 
 to your accommodation. If you are a victim of a crime, please call the emergency number 911 from any phone. For any non-emergencies, call the campus police 
-at 206.685.8973. The phones are campus are free if you call 
-emergency. If you are using Seattle Light rail late at night, please use the University of Washington Stadium station instead of the U-district station.
-In general, avoid confrontation with strangers on the streets.  
+at 206.685.8973. The phones on campus are free if you call 
+emergency. If you are using the Seattle Light rail late at night, please use the University of Washington Stadium station instead of the U-district 
+station. In general, avoid confrontation with strangers on the streets.  
