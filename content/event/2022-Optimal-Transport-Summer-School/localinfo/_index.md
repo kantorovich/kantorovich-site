@@ -50,4 +50,4 @@ please call [Husky Nightwalk](https://police.uw.edu/services/safetyescortservice
 to your accommodation. If you are a victim of a crime, please call the emergency number 911 from any phone. For any non-emergencies, call the campus police 
 at 206.685.8973. The phones on campus are free if you call 
 emergency. If you are using the Seattle Light rail late at night, please use the University of Washington Stadium station instead of the U-district 
-station. In general, avoid confrontation with strangers on the streets.  
+station. Avoid any confrontation with strangers on the streets.  
