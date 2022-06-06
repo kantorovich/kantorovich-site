@@ -84,8 +84,8 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
 #### Friday, July 1
   
-  * **10:30 - 11:30**: Lecture 3 by Jan Maas
-  * **11:30 - 1:00**: Local speakers (2 talks of 40 mins)
+  * **10:30 - 12:00**: Lecture 3 by Jan Maas
+  * **12:00 - 1:00**: Local speakers
   * Conclusion
 
 {{< pihotCRG >}}
