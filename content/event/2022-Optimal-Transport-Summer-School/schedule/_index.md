@@ -68,7 +68,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   
   * **10:30 - 12:00**: Lecture 2 by Gabriel Peyré
   * **2:00 - 3:30**: Lecture 2 by Alfred Galichon
-  * Social organized by Institute for Foundations in Data Sciences
+  * **4:00 - 6:00**: [IFDS](https://ifds.info/) invited talks, panel discussion, spotlight talks
 
 #### Wednesday, June 29
   
