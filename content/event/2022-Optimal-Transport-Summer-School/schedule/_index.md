@@ -49,7 +49,8 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
   * **10:30 - 12:00**: Lecture 3 by Felix Otto
   * **2:00 - 3:30**: Lecture 3 by Inwon Kim
-  * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
+  * **4:00 - 4:30**: Participant talks (2 talks, 15 mins each)
+  * **4:30 - 5:00**: Talk by Jingwei Hu, UW Applied Math
 
 #### Saturday, June 25
 
@@ -85,7 +86,8 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 #### Friday, July 1
   
   * **10:30 - 12:00**: Lecture 3 by Jan Maas
-  * **12:00 - 1:00**: Local speakers
+  * **12:00 - 12:30**: Talk by Stefan Steinerberger, UW Math
+  * **12:30 - 1:00**: Talk by Yanqin Fan, UW Econ
   * Conclusion
 
 {{< pihotCRG >}}
