@@ -15,7 +15,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 </ul>
 
 
-## All lectures will take place at the University of Washington's [Johnson Hall, room 102](http://uw.edu/maps/?jhn).
+## All lectures will take place at [Johnson Hall, room 102](http://uw.edu/maps/?jhn).
 
 ### Week 1
 
