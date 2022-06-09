@@ -74,7 +74,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   
   * **10:30 - 12:00**: Lecture 1 by Jan Maas
   * **2:00 - 3:30**: Lecture 3 by Alfred Galichon
-  * Social organized by UW Econ department
+  * **4:30 - 5:30**: Happy Hour at the UW Econ department
 
 #### Thursday, June 30
   
