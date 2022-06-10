@@ -17,7 +17,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Local Information"
 ## Getting to UW
 All lectures will take place at the University of Washington's [Johnson Hall,
 room 102](http://uw.edu/maps/?jhn). The UW [getting here
-page](https://transportation.uw.edu/getting-here/transit), has up to date
+page](https://transportation.uw.edu/getting-here/transit) has up to date
 information on getting to campus and finding your way around once you get here. The [UW Visitor
 center](https://www.washington.edu/visit/) also has a lot of relevant information on UW and Seattle.
 
