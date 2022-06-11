@@ -63,6 +63,9 @@ projects: ["pihot"]
   <li class="nav-item">
     <a class="nav-link" href="#main-speakers">Speakers</a>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="covid19">COVID-19</a>
+  </li>
 </ul>
 
 
