@@ -31,7 +31,7 @@ The University of WA [strongly recommends](https://www.ehs.washington.edu/covid-
 
 During your stay if you feel unwell get tested immediately. Testing resources for students and visitors can be found [here](https://www.washington.edu/coronavirus/student-faq/#testloc). The closest location near campus is the UW medicine [testing facility](https://goo.gl/maps/wpRVwHzLtUPTohyr6) in the U-district which is about 15 minutes walk. Sun-Fri 9 a.m. - 5:30 p.m.  It is a walk-in site although appointments are encouraged. You may call them at 833.562.1212 for more information.  
 
-If your test comes back positive, immediately let the organizers know and isolate yourself. If you have been given accommodation by us, there are special isolation rooms where you will be kept. You must also report to the organizers a list of close contacts in the last few days so that we can notify them. We will not divulge your name or personal information.  
+If your test comes back positive, immediately let the organizers know and isolate yourself. If you have been given accommodation by us, there are special quarantine rooms where you will be kept. You must also report to the organizers a list of close contacts in the last few days so that we can notify them. We will not divulge your name or personal information.  
 
 
 {{< pihotCRG >}}
