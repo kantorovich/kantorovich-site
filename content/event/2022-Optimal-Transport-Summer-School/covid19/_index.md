@@ -26,6 +26,8 @@ We ask ALL our attendees (US and international) to get tested for COVID 19 72 ho
 
 All attendees must be fully vaccinated against COVID 19 to attended. This means two shots of an [approved vaccine](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/people-vaccinated-abroad.html). An additional booster shot is strongly encouraged. Vaccination requirements for the University of WA can be found [here](https://www.washington.edu/coronavirus/vaccination-requirement/). 
 
+The University of WA [strongly recommends](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-policy) wearing a well-fitted, high-quality mask indoors (e.g., KN95, N95, KF94 and surgical masks) to reduce the potential for transmission. These types of masks are available for free in [several locations on each campus](https://www.washington.edu/coronavirus/2022/01/27/where-to-pick-up-free-high-quality-masks-starting-jan-31/).
+
 
 During your stay if you feel unwell get tested immediately. Testing resources for students and visitors can be found [here](https://www.washington.edu/coronavirus/).
 
