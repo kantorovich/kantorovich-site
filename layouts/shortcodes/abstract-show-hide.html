@@ -1,0 +1,33 @@
+<div class="media stream-item">
+  <div class="media-body">
+    <div {{ with .Get "title" }}id="{{ . | urlize }}"{{ end }} class="section-subheading article-title mb-0 mt-0">
+      {{ with .Get "title" }}{{ . }}{{ end }}
+    </div>
+    {{ with .Get "author" }}{{ . }}{{ end }} {{ with .Get "affiliation" }}(<em>{{ . }}</em>){{ end }}
+    {{ if .Get "slides" }}
+    {{ $slides := .Page.Resources.GetMatch (.Get "slides") }}
+    <div class="btn-links mb-3">
+      {{ with $slides }}
+        <a class="btn btn-outline-primary btn-page-header" href="{{ .RelPermalink }}" target="_blank">
+         {{ i18n "btn_slides" }}
+        </a>
+      {{ end }}
+    </div>
+    {{ end }}
+    <div class="article-style">
+      <details>
+        <summary>Show abstract</summary>
+        {{ .Inner | markdownify }}
+      </details>
+    </div>
+  </div>
+  {{ if .Get "src" }}
+  <div class="ml-3">
+    {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+    {{ with $original }}
+    {{ $image := .Resize "300x" }} 
+    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="">
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
