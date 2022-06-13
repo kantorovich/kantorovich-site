@@ -17,6 +17,8 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   </li>
 </ul>
 
+<br>
+
 COVID 19 is still with us and a possibility of an outbreak during our summer school must be taken seriously. 
 Please pay close attention to the following information and protocol before and during the event in order to minimize risk. 
 
