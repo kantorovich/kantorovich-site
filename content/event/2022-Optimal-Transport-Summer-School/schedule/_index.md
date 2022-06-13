@@ -52,8 +52,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **4:00 - 4:30**: Participant talks (2 talks, 15 mins each)
   * **4:30 - 5:00**: Talk by Jingwei Hu, UW Applied Math
   * **Title**: Particle method for the Landau equation — A gradient flow perspective
-
-Abstract: The Landau equation is an important partial differential equation in kinetic theory. It describes the charged particle collisions and can be    formally derived as a limit of the Boltzmann equation when all collisions become grazing. In this work, we propose a new perspective of the Landau equation inspired by its analogy with the heat equation and the Wasserstein-2 gradient flow of the Boltzmann entropy. Based on this formulation, we develop a deterministic particle method for the Landau equation which preserves important physical properties such as conservation of mass, momentum, and energy and entropy decay. Finally, we discuss some ongoing work to integrate the proposed method to the popular Particle-In-Cell method in solving the Vlasov-Landau equation in plasma physics.
+  Abstract: The Landau equation is an important partial differential equation in kinetic theory. It describes the charged particle collisions and can be    formally derived as a limit of the Boltzmann equation when all collisions become grazing. In this work, we propose a new perspective of the Landau equation inspired by its analogy with the heat equation and the Wasserstein-2 gradient flow of the Boltzmann entropy. Based on this formulation, we develop a deterministic particle method for the Landau equation which preserves important physical properties such as conservation of mass, momentum, and energy and entropy decay. Finally, we discuss some ongoing work to integrate the proposed method to the popular Particle-In-Cell method in solving the Vlasov-Landau equation in plasma physics.
 
 
 #### Saturday, June 25
