@@ -28,6 +28,8 @@ All attendees must be fully vaccinated against COVID 19 to attended. This means 
 
 The University of WA [strongly recommends](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-policy) wearing a well-fitted, high-quality mask indoors (e.g., KN95, N95, KF94 and surgical masks) to reduce the potential for transmission. These types of masks are available for free in [several locations](https://www.washington.edu/coronavirus/2022/01/27/where-to-pick-up-free-high-quality-masks-starting-jan-31/) on the campus.
 
+We also encourage you to [download](https://doh.wa.gov/emergencies/covid-19/wa-notify) WA notify app on your phone. WA Notify (also known as Washington Exposure Notifications) is a free tool that works on smartphones to alert users if they may have been exposed to COVID-19 without sharing any personal information. It is completely private and doesn't know who you are or track where you go. 
+
 
 During your stay if you feel unwell get tested immediately. Testing resources for students and visitors can be found [here](https://www.washington.edu/coronavirus/student-faq/#testloc). The closest location near campus is the UW medicine [testing facility](https://goo.gl/maps/wpRVwHzLtUPTohyr6) in the U-district which is about 15 minutes walk. Sun-Fri 9 a.m. - 5:30 p.m.  It is a walk-in site although appointments are encouraged. You may call them at 833.562.1212 for more information.  
 
