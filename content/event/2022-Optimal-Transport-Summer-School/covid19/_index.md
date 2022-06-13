@@ -22,9 +22,9 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 COVID 19 is still with us and a possibility of an outbreak during our summer school must be taken seriously. 
 Please pay close attention to the following information and protocol before and during the event in order to minimize risk. 
 
-We ask ALL our attendees (US and international) to get tested for COVID 19 72 hours prior to their travel. A PCR test is prefered. 
+We ask ALL our attendees (US and international) to get tested for COVID 19 72 hours prior to their travel to Seattle or, if they are local, prior to the first day of the school. A PCR test is prefered. 
 
-All attendees must be fully vaccinated against COVID 19 to attended. This means two shots of an approved vaccine. An additional booster shot is strongly encouraged. Vaccination requirements for the University of WA can be found [here](https://www.washington.edu/coronavirus/vaccination-requirement/). 
+All attendees must be fully vaccinated against COVID 19 to attended. This means two shots of an [approved vaccine](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/people-vaccinated-abroad.html). An additional booster shot is strongly encouraged. Vaccination requirements for the University of WA can be found [here](https://www.washington.edu/coronavirus/vaccination-requirement/). 
 
 
 During your stay if you feel unwell get tested immediately. Testing resources for students and visitors can be found [here](https://www.washington.edu/coronavirus/).
