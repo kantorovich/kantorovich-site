@@ -39,6 +39,9 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **10:30 - 12:00**: Lecture 2 by Inwon Kim
   * **2:00 - 3:30**: Lecture 1 by Felix Otto
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
+  * Cameron Davies, Manuel Mellado Cuerno, Sebastian Munoz, Dohyun Kwon, Arghya Rakshit, Kai-Hsiang Wang, Jeremy Wu, Yangxinyu Xie     
+
+
 
 #### Thursday, June 23
 
