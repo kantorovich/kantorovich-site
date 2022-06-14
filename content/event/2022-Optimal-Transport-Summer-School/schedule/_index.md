@@ -49,7 +49,8 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
   * **10:30 - 12:00**: Lecture 2 By Felix Otto
   * **2:00 - 3:30**: Lecture 3 by Geoff Schiebinger
-  * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
+  * **4:00 - 6:00**: Participant talks (5 talks, 15 mins each)
+  * Sadashige Ishida, Min Jun Jo, Francesco Mattesini, Giacomo Enrico Sodini, Juan Pablo Vigneaux 
   * **6:30 - 8:30**: Conference Dinner at [Ba Bar U-Village](https://goo.gl/maps/eYS1jjcUWxxUu6e26) 
 
 #### Friday, June 24
@@ -57,6 +58,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **10:30 - 12:00**: Lecture 3 by Felix Otto
   * **2:00 - 3:30**: Lecture 3 by Inwon Kim
   * **4:00 - 4:30**: Participant talks (2 talks, 15 mins each)
+  * Havva Yoldas, Hanye Zhu 
   * **4:30 - 5:00**: Talk by Jingwei Hu, UW Applied Math
   
 **Particle method for the Landau equation — A gradient flow perspective**: The Landau equation is an important partial differential equation in kinetic theory. It describes the charged particle collisions and can be    formally derived as a limit of the Boltzmann equation when all collisions become grazing. In this work, we propose a new perspective of the Landau equation inspired by its analogy with the heat equation and the Wasserstein-2 gradient flow of the Boltzmann entropy. Based on this formulation, we develop a deterministic particle method for the Landau equation which preserves important physical properties such as conservation of mass, momentum, and energy and entropy decay. Finally, we discuss some ongoing work to integrate the proposed method to the popular Particle-In-Cell method in solving the Vlasov-Landau equation in plasma physics.
