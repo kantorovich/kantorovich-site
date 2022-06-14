@@ -43,6 +43,7 @@ get oriented quickly.
 ### Places to visit in Seattle
 {{< youtube 92ISlO9U-84 >}}
 
+<br>
 
 ## Safety
 Although, in general, Seattle is a very safe city, it is still important to pay attention to your surroundings, especially if you are alone and walking 
