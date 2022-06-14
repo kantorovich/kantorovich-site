@@ -110,6 +110,19 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   
   * **10:30 - 12:00**: Lecture 3 by Jan Maas
   * **12:00 - 12:30**: Talk by Stefan Steinerberger, UW Math
+
+  **Two Short Stories about Optimal Transport**: I will tell two short stories. One is a recent
+application of Optimal Transport in Potential Theory
+(particularly the problem of minimizing Riesz energy).
+The second, joint with Bamdad Hosseini, is a fun
+observation that Kantorovich solutions mapping discrete
+measures to other discrete measures are intrinsically
+sparse (with sparsity depending on number-theoretic
+properties of the two measures).
+  
+  
+  <br>
+  
   * **12:30 - 1:00**: Talk by Yanqin Fan, UW Econ
   * Conclusion
 
