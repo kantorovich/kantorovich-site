@@ -49,7 +49,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
   * **10:30 - 12:00**: Lecture 2 By Felix Otto
   * **2:00 - 3:30**: Lecture 3 by Geoff Schiebinger
-  * **4:00 - 6:00**: Participant talks (5 talks, 15 mins each)
+  * **4:00 - 5:15**: Participant talks (5 talks, 15 mins each)
   * Sadashige Ishida, Min Jun Jo, Francesco Mattesini, Giacomo Enrico Sodini, Juan Pablo Vigneaux 
   * **6:30 - 8:30**: Conference Dinner at [Ba Bar U-Village](https://goo.gl/maps/eYS1jjcUWxxUu6e26) 
 
@@ -76,6 +76,11 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **10:30 - 12:00**: Lecture 1 by Alfred Galichon
   * **2:00 - 3:30**: Lecture 1 by Gabriel Peyré
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
+  * Daniel Owusu Adu, Camilla Brizzi, Bhishan Jacelon, Young Jun Lee, 
+  * Lang Liu, Jorge A. Rivero, Luca Tamanini, Kelvin Shuangjian Zhang 
+
+ 
+ 
 
 #### Tuesday, June 28
   
@@ -94,6 +99,10 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **10:30 - 12:00**: Lecture 3 by Gabriel Peyré
   * **2:00 - 3:30**: Lecture 2 by Jan Maas
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
+  * Lijun Ding, Katharina Eichinger, Rodrigue Lelotte, Amir Sagiv 
+  * Lorenz Riess, Matthew Werenski, Haonan Zhang, Bohan Zhou 
+  
+
 
 #### Friday, July 1
   
