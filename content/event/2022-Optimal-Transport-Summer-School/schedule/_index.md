@@ -100,8 +100,8 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   
   * **10:30 - 12:00**: Lecture 3 by Gabriel Peyré
   * **2:00 - 3:30**: Lecture 2 by Jan Maas
-  * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
-  * Lijun Ding, Katharina Eichinger, Rodrigue Lelotte, Amir Sagiv 
+  * **4:00 - 5:45**: Participant talks (7 talks, 15 mins each)
+  * Katharina Eichinger, Rodrigue Lelotte, Amir Sagiv 
   * Lorenz Riess, Matthew Werenski, Haonan Zhang, Bohan Zhou 
   
 
@@ -124,6 +124,11 @@ properties of the two measures).
   <br>
   
   * **12:30 - 1:00**: Talk by Yanqin Fan, UW Econ
+
+  **Identification and Estimation of Treatment Effects in the Limited Overlap Region**:  Strong ignorability is a commonly used assumption to identify average treatment effects based on observational data. It is often argued that the conditional independence assumption can be made more plausible by using more covariates. However using more covariates makes the overlapping assumption less likely to hold. In most empirical applications, the supports of distributions of the covariate vector for different groups do not fully overlap or have limited overlap. Without imposing additional assumptions on the limited or no overlap region, average treatment effects for either the limited overlap region or for the whole population are not point identified.  
+In this paper, we make a natural domain shift assumption for the limited overlap region based on optimal transport theory. We study identification of average treatment effects for the limited overlap region and propose three-step estimators of the average treatment effect and quantile treatment effect for the treated in the limited overlap region. We establish consistency and asymptotic normality of the proposed estimators under high level assumptions on the estimator of the optimal transport map. Three examples of the estimator of the optimal transport map are studied in detail and are shown to satisfy the high level assumptions under primitive conditions. We investigate the finite sample performance of our estimator and Wald inference via simulation.
+<br>
+
   * Conclusion
 
 {{< pihotCRG >}}
