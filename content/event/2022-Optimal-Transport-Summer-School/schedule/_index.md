@@ -31,14 +31,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **10:30 - 12:00**: Lecture 2 by Geoff Schiebinger
   * **2:00 - 3:30**: Lecture 1 by Inwon Kim
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
-  * Becca Bonham-Carter
-    Hui Huang
-    Benjamin Robinson
-    Henri Schmidt
-    Stefan Schrott
-    Daniel Toneian
-    Stephen Zhang
-    Xin Zhang
+  * Becca Bonham-Carter, Hui Huang, Benjamin Robinson, Henri Schmidt, Stefan Schrott, Daniel Toneian, Stephen Zhang, Xin Zhang
 
 
 #### Wednesday, June 22
