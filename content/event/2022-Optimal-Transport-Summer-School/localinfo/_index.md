@@ -29,6 +29,12 @@ line](https://www.soundtransit.org/ride-with-us/routes-schedules/1-line?directio
 connects Seattle's airport (SeaTac) with the University District. The trip takes
 around 50 minutes and costs around $3.25.
 
+### Internet access while on campus
+
+The easiest option is to use eduroam. See instructions [here](https://itconnect.uw.edu/connect/uw-networks/campus-wi-fi/eduroam/).
+
+If you'd rather use UW wifi network, see these [instructions](https://itconnect.uw.edu/connect/uw-networks/campus-wi-fi/config/).
+
 
 ## About Seattle
 Seattle is a very friendly city with lots to [see and do](http://sites.math.washington.edu/~lee/outings.html) and there are lots of
