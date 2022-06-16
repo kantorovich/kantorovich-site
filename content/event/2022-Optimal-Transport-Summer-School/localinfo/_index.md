@@ -26,8 +26,11 @@ Information about parking near the campus can be found [here](https://transporta
 ### Flying to Seattle
 If you are arriving by air, the [SoundTransit 1
 line](https://www.soundtransit.org/ride-with-us/routes-schedules/1-line?direction=0&at=1649401200000&view=table&route_tab=schedule&stops_0=1_990006%2C1_99913&stops_1=1_99914%2C1_990005)
-connects Seattle's airport (SeaTac) with the University District. The trip takes
-around 50 minutes and costs around $3.25.
+connects Seattle's airport [SeaTac](https://www.soundtransit.org/ride-with-us/stops-stations/seatac-airport-station) with the [U-District station](https://www.soundtransit.org/ride-with-us/stops-stations/u-district-station). You may also stop at the [University of Washington station](https://www.soundtransit.org/ride-with-us/stops-stations/university-washington-station). The latter is recommended if you are traveling late at night. 
+
+The trip takes around 50 minutes and costs around $3.25.
+
+
 
 ### Internet access while on campus
 
