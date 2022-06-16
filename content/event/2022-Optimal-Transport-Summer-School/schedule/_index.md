@@ -71,7 +71,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
 #### Saturday, June 25
 
-  * **Trip to Alki Beach** (Depending on the weather) We will go to the iconic Seattle [Alki beach](https://goo.gl/maps/ifTTExRMtqKqLGpE8) by the Puget sound. We will take the light rail from the University and then take a ferry to go across the sound and walk to the beach. One can kayak, bike, play volleyball, or just enjoy the fantastic views of the Olympic mountains and the Seattle skyline. Details TBA.
+  * **Trip to Alki Beach.** (depending on the weather) We will go to the iconic Seattle [Alki beach](https://goo.gl/maps/ifTTExRMtqKqLGpE8) by the Puget sound. We will take the light rail from the university and then take a [ferry](https://kingcounty.gov/depts/transportation/water-taxi/west-seattle.aspx) to go across the sound and walk to the beach. there are plenty of entertainment opportunities. One can rent kayaks, bike, play beach volleyball, or just relax and enjoy the fantastic views of the Olympic mountains and the Seattle skyline. Details TBA.
 
 
 ### Week 2
