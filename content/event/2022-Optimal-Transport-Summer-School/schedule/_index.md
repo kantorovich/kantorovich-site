@@ -106,7 +106,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **2:00 - 3:30**: Lecture 2 by Jan Maas
   * **4:00 - 5:45**: Participant talks (7 talks, 15 mins each)
   * Amir Sagiv, Lorenz Riess, Bohan Zhou, Rodrigue Lelotte, 
-  * Katharina Eichinger, Matthew Werenski, Haonan Zhang
+  * Katharina Eichinger, Dohyun Kwon, Matthew Werenski, Haonan Zhang
 
   
 
