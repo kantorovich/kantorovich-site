@@ -106,6 +106,13 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **2:00 - 3:30**: [Lecture 2 by Alfred
     Galichon](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-2)
   * **4:00 - 6:00**: [IFDS](https://ifds.info/) invited talks, panel discussion, spotlight talks
+    * **4:00 - 4:05**: Zaid Harchaoui, brief presentation of
+      [IFDS](https://ifds.info)
+    * **4:05 - 4:35** : Bamdad Hosseini, KI-IFDS invited talk
+    * **4:35 - 5:00**: Amir Taghvaei, KI-IFDS invited talk
+    * **5:00 - 5:30**: Panel discussion: A. Galichon, Z. Harchaoui, B. Hosseini, G.  Peyre, G. Schiebinger, A. Taghvaei
+    * **5:30 - 5:45**: Lijun Ding, KI-IFDS spotlight talk
+    * **5:45 - 6:00**: Stephen Mussmann, KI-IFDS spotlight talk
 
 #### Wednesday, June 29
   
