@@ -104,14 +104,15 @@ transport theory -- although this is often underrecognized -- and understanding
 the connection key to understanding the extension of optimal transport to other
 models of matching.
 
-**Lecture 1.** Introduction to gross substitutes M-matrices and M-maps, nonlinear
+**Lecture 1.** [[video](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-1)] Introduction to gross substitutes M-matrices and M-maps, nonlinear
 Perron-Froebenius theory, convergence of Jacobi algorithm. A toy hedonic model.
 
-**Lecture 2.** Models of matching with transfers Problem formulation, regularized
+**Lecture 2.** [[video](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-2)] Models of matching with transfers Problem formulation, regularized
 and unregularized case. IPFP and its convergence. Existence and uniqueness of an
 equilibrium.  Lattice structure.
 
-**Lecture 3.** Models of matching without transfers Gale and Shapley's stable
+**Lecture 3.**
+[[video](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-3)] Models of matching without transfers Gale and Shapley's stable
 matchings. Adachi's formulation.  Kelso-Craford. Hatfield-Milgrom.
 {{< /detail-tag >}}
 {{< /abstract >}}
@@ -122,6 +123,7 @@ matchings. Adachi's formulation.  Kelso-Craford. Hatfield-Milgrom.
   affiliation="UCLA, USA"
   src="Inwon-Kim.jpg" >}}
 {{< detail-tag "Show Abstract" >}}
+
 In the lectures we will discuss recent results obtained on interface motions in
 the framework of optimal transport. We intend to (time allowing) discuss the
 following problems:
@@ -143,6 +145,13 @@ notion of solutions that are physically meaningful and stable. We will start
 with a quick introduction of the necessary background on the optimal stopping
 time between probability measures. We will establish the well-posedness, and
 discuss qualitative behavior of solutions.
+##### Videos
+  * [Lecture
+    1](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-1)
+  * [Lecture
+    2](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-2)
+  * [Lecture
+    3](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-3)
 {{< /detail-tag >}}
 {{< /abstract >}}
 
@@ -157,6 +166,10 @@ some of its applications to discrete probability and non-commutative analysis.
 Particular focus is on gradient structures and functional inequalities for
 dissipative quantum systems, and on homogenisation results for dynamical optimal
 transport.
+##### Videos
+  * [Lecture 1](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-1)
+  * [Lecture 2](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-2)
+  * [Lecture 3](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-3)
 {{< /detail-tag >}}
 {{< /abstract >}}
 
@@ -217,6 +230,10 @@ the matching problem.
 * [10] F. Otto, M. Prod’homme, T. Ried: Variational approach to regularity of
   optimal transport maps: general cost functions. (English summary) Ann. PDE 7
   (2021), no. 2, Paper No. 17, 74 pp.
+##### Videos
+  * [Lecture 1](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-1)
+  * [Lecture 2](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-2)
+  * [Lecture 3](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-3)
 {{< /detail-tag >}}
 {{< /abstract >}}
 
@@ -236,6 +253,9 @@ this course, I will explain how to leverage entropic regularization methods to
 define computationally efficient loss functions, approximating OT with a better
 sample complexity. More information and references can be found on the [website
 of our book "Computational Optimal Transport"](https://optimaltransport.github.io/).
+  * [Lecture 1](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-1)
+  * [Lecture 2](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-2)
+  * [Lecture 3](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-3)
 {{< /detail-tag >}}
 {{< /abstract >}}
 
