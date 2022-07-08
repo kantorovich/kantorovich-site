@@ -25,15 +25,14 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
   * **10:00**: Welcome address
   * **10:30 - 12:00**: OT Bootcamp by Brendan Pass
-  * **2:00 - 3:30**: [Lecture 1 by Geoff
-    Schiebinger](https://mathtube.org/lecture/video/towards-mathematical-theory-developmental-biology-lecture-1)
+  * **2:00 - 3:30**: Lecture 1 by Geoff
+    Schiebinger ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/towards-mathematical-theory-developmental-biology-lecture-1), [slides <i class="fas fa-file-pdf"></i>](Schiebinger-2022-06-28-full.pdf))
   * **4:00 - 5:30**: OT Bootcamp by Brendan Pass
 
 #### Tuesday, June 21
   
-  * **10:30 - 12:00**: Lecture 2 by Geoff Schiebinger
-  * **2:00 - 3:30**: [Lecture 1 by Inwon
-    Kim](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-1)
+  * **10:30 - 12:00**: Lecture 2 by Geoff Schiebinger ([slides <i class="fas fa-file-pdf"></i>](Schiebinger-2022-06-28-full.pdf))
+  * **2:00 - 3:30**: Lecture 1 by Inwon Kim ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-1), [slides 1 <i class="fas fa-file-pdf"></i>](InwonKim-2022-06-22.pdf), [slides 2 <i class="fas fa-file-pdf"></i>](InwonKim-2022-06-26.pdf))
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
     * Stephen Zhang, Becca Bonham-Carter, Henri Schmidt, Hui Huang
     * Stefan Schrott, Xin Zhang, Daniel Toneian, Benjamin Robinson
@@ -42,10 +41,10 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
 #### Wednesday, June 22
 
-  * **10:30 - 12:00**: [Lecture 2 by Inwon
-    Kim](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-2)
-  * **2:00 - 3:30**: [Lecture 1 by Felix
-    Otto](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-1)
+  * **10:30 - 12:00**: Lecture 2 by Inwon
+    Kim ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-2), [slides 1 <i class="fas fa-file-pdf"></i>](InwonKim-2022-06-22.pdf), [slides 2 <i class="fas fa-file-pdf"></i>](InwonKim-2022-06-26.pdf))
+  * **2:00 - 3:30**: Lecture 1 by Felix
+    Otto ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-1), [slides <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-24.pdf), [notes <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-22-Notes.pdf))
   * **4:00 - 5:45**: Participant talks (7 talks, 15 mins each)
     * Arghya Rakshit , Jeremy Wu, Cameron Davies, Sebastian Munoz
     * Manuel Mellado Cuerno, Kai-Hsiang Wang, Yangxinyu Xie 
@@ -55,9 +54,9 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
 #### Thursday, June 23
 
-  * **10:30 - 12:00**: [Lecture 2 By Felix
-    Otto](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-2)
-  * **2:00 - 3:30**: Lecture 3 by Geoff Schiebinger
+  * **10:30 - 12:00**: Lecture 2 By Felix
+    Otto ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-2), [slides <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-24.pdf), [notes <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-22-Notes.pdf))
+  * **2:00 - 3:30**: Lecture 3 by Geoff Schiebinger ([slides <i class="fas fa-file-pdf"></i>](Schiebinger-2022-06-28-full.pdf))
   * **4:00 - 5:15**: Participant talks (5 talks, 15 mins each)
     * Francesco Mattesini, Giacomo Enrico Sodini, Sadashige Ishida, Min Jun Jo, Juan Pablo Vigneaux 
 
@@ -65,10 +64,10 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
 #### Friday, June 24
 
-  * **10:30 - 12:00**: [Lecture 3 by Felix
-    Otto](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-3)
-  * **2:00 - 3:30**: [Lecture 3 by Inwon
-    Kim](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-3)
+  * **10:30 - 12:00**: Lecture 3 by Felix
+    Otto ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-3), [slides <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-24.pdf), [notes <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-22-Notes.pdf))
+  * **2:00 - 3:30**: Lecture 3 by Inwon
+    Kim ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-3), [slides 1 <i class="fas fa-file-pdf"></i>](InwonKim-2022-06-22.pdf), [slides 2 <i class="fas fa-file-pdf"></i>](InwonKim-2022-06-26.pdf))
   * **4:00 - 4:30**: Participant talks (2 talks, 15 mins each)
     * Hanye Zhu, Havva Yoldas 
   * **4:30 - 5:00**: Talk by Jingwei Hu, UW Applied Math
@@ -87,10 +86,10 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
 #### Monday, June 27
   
-  * **10:30 - 12:00**: [Lecture 1 by Alfred
-    Galichon](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-1)
-  * **2:00 - 3:30**: [Lecture 1 by Gabriel
-    Peyré](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-1)
+  * **10:30 - 12:00**: Lecture 1 by Alfred
+    Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-1))
+  * **2:00 - 3:30**: Lecture 1 by Gabriel
+    Peyré ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-1))
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
     * Young Jun Lee, Jorge A. Rivero, Kelvin Shuangjian Zhang , Daniel Owusu Adu
     * Lang Liu, Camilla Brizzi, Luca Tamanini, Bhishan Jacelon 
@@ -101,10 +100,10 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
 #### Tuesday, June 28
   
-  * **10:30 - 12:00**: [Lecture 2 by Gabriel
-    Peyré](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-2)
-  * **2:00 - 3:30**: [Lecture 2 by Alfred
-    Galichon](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-2)
+  * **10:30 - 12:00**: Lecture 2 by Gabriel
+    Peyré ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-2))
+  * **2:00 - 3:30**: Lecture 2 by Alfred
+    Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-2))
   * **4:00 - 6:00**: [IFDS](https://ifds.info/) invited talks, panel discussion, spotlight talks
     * **4:00 - 4:05**: Zaid Harchaoui, brief presentation of
       [IFDS](https://ifds.info)
@@ -116,18 +115,18 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
 #### Wednesday, June 29
   
-  * **10:30 - 12:00**: [Lecture 1 by Jan
-    Maas](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-1)
-  * **2:00 - 3:30**: [Lecture 3 by Alfred
-    Galichon](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-3)
+  * **10:30 - 12:00**: Lecture 1 by Jan
+    Maas ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-1))
+  * **2:00 - 3:30**: Lecture 3 by Alfred
+    Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-3))
   * **4:30 - 5:30**: Happy Hour at the UW Econ department
 
 #### Thursday, June 30
   
-  * **10:30 - 12:00**: [Lecture 3 by Gabriel
-    Peyré](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-3)
-  * **2:00 - 3:30**: [Lecture 2 by Jan
-    Maas](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-2)
+  * **10:30 - 12:00**: Lecture 3 by Gabriel
+    Peyré ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-3))
+  * **2:00 - 3:30**: Lecture 2 by Jan
+    Maas ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-2))
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
     * Amir Sagiv, Lorenz Riess, Bohan Zhou, Rodrigue Lelotte, 
     * Katharina Eichinger, Dohyun Kwon, Matthew Werenski, Haonan Zhang
@@ -137,8 +136,8 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 
 #### Friday, July 1
   
-  * **10:30 - 12:00**: [Lecture 3 by Jan
-    Maas](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-3)
+  * **10:30 - 12:00**: Lecture 3 by Jan
+    Maas ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-3))
   * **12:00 - 12:30**: Talk by Stefan Steinerberger, UW Math
   {{< detail-tag "Show Abstract" >}}
   **Two Short Stories about Optimal Transport**: I will tell two short stories. One is a recent
