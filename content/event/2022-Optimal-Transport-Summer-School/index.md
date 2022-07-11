@@ -262,9 +262,17 @@ this course, I will explain how to leverage entropic regularization methods to
 define computationally efficient loss functions, approximating OT with a better
 sample complexity. More information and references can be found on the [website
 of our book "Computational Optimal Transport"](https://optimaltransport.github.io/).
+
+##### Videos
   * [Lecture 1 <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-1)
   * [Lecture 2 <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-2)
   * [Lecture 3 <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-3)
+
+##### Slides
+  * [Slides 1 <i class="fas fa-file-pdf"></i>](schedule/Peyre-TheoreticalFoundations.pdf)
+  * [Slides 2 <i class="fas fa-file-pdf"></i>](schedule/Peyre-EntropicRegularization.pdf)
+  * [Slides 3 <i class="fas fa-file-pdf"></i>](schedule/Peyre-SemiDiscrete.pdf)
+  * [Slides 4 <i class="fas fa-file-pdf"></i>](schedule/Peyre-UnbalancedOT.pdf)
 {{< /detail-tag >}}
 {{< /abstract >}}
 

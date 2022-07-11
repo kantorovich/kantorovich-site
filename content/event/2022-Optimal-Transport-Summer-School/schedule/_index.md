@@ -89,7 +89,11 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **10:30 - 12:00**: Lecture 1 by Alfred
     Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-1))
   * **2:00 - 3:30**: Lecture 1 by Gabriel
-    Peyré ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-1))
+    Peyré ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-1),
+    [slides 1 <i class="fas fa-file-pdf"></i>](Peyre-TheoreticalFoundations.pdf)
+    [slides 2 <i class="fas fa-file-pdf"></i>](Peyre-EntropicRegularization.pdf)
+    [slides 3 <i class="fas fa-file-pdf"></i>](Peyre-SemiDiscrete.pdf)
+    [slides 4 <i class="fas fa-file-pdf"></i>](Peyre-UnbalancedOT.pdf))
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
     * Young Jun Lee, Jorge A. Rivero, Kelvin Shuangjian Zhang , Daniel Owusu Adu
     * Lang Liu, Camilla Brizzi, Luca Tamanini, Bhishan Jacelon 
@@ -101,7 +105,11 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 #### Tuesday, June 28
   
   * **10:30 - 12:00**: Lecture 2 by Gabriel
-    Peyré ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-2))
+    Peyré ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-2)
+    [slides 1 <i class="fas fa-file-pdf"></i>](Peyre-TheoreticalFoundations.pdf)
+    [slides 2 <i class="fas fa-file-pdf"></i>](Peyre-EntropicRegularization.pdf)
+    [slides 3 <i class="fas fa-file-pdf"></i>](Peyre-SemiDiscrete.pdf)
+    [slides 4 <i class="fas fa-file-pdf"></i>](Peyre-UnbalancedOT.pdf))
   * **2:00 - 3:30**: Lecture 2 by Alfred
     Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-2))
   * **4:00 - 6:00**: [IFDS](https://ifds.info/) invited talks, panel discussion, spotlight talks
@@ -124,7 +132,11 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 #### Thursday, June 30
   
   * **10:30 - 12:00**: Lecture 3 by Gabriel
-    Peyré ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-3))
+    Peyré ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-3)
+    [slides 1 <i class="fas fa-file-pdf"></i>](Peyre-TheoreticalFoundations.pdf)
+    [slides 2 <i class="fas fa-file-pdf"></i>](Peyre-EntropicRegularization.pdf)
+    [slides 3 <i class="fas fa-file-pdf"></i>](Peyre-SemiDiscrete.pdf)
+    [slides 4 <i class="fas fa-file-pdf"></i>](Peyre-UnbalancedOT.pdf))
   * **2:00 - 3:30**: Lecture 2 by Jan
     Maas ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-2))
   * **4:00 - 6:00**: Participant talks (8 talks, 15 mins each)
