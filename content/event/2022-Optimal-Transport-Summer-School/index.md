@@ -58,6 +58,9 @@ projects: ["pihot"]
     <a class="nav-link" href="schedule">Schedule</a>
   </li>
   <li class="nav-item">
+    <a class="nav-link" href="photos">Photos</a>
+  </li>
+  <li class="nav-item">
     <a class="nav-link" href="localinfo">Local Information</a>
   </li>
   <li class="nav-item">
