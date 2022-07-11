@@ -24,7 +24,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 #### Monday, June 20
 
   * **10:00**: Welcome address
-  * **10:30 - 12:00**: OT Bootcamp by Brendan Pass
+  * **10:30 - 12:00**: OT Bootcamp by Brendan Pass ([Notes <i class="fas fa-file-pdf"></i>](BrendanPass-OT.pdf))
   * **2:00 - 3:30**: Lecture 1 by Geoff
     Schiebinger ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/towards-mathematical-theory-developmental-biology-lecture-1), [slides <i class="fas fa-file-pdf"></i>](Schiebinger-2022-06-28-full.pdf))
   * **4:00 - 5:30**: OT Bootcamp by Brendan Pass
@@ -87,7 +87,8 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 #### Monday, June 27
   
   * **10:30 - 12:00**: Lecture 1 by Alfred
-    Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-1))
+    Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-1)
+    [resources <i class="fab fa-github"></i>](https://github.com/alfredgalichon/seattle-2022))
   * **2:00 - 3:30**: Lecture 1 by Gabriel
     Peyré ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/optimal-transport-machine-learning-lecture-1),
     [slides 1 <i class="fas fa-file-pdf"></i>](Peyre-TheoreticalFoundations.pdf)
@@ -111,7 +112,8 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
     [slides 3 <i class="fas fa-file-pdf"></i>](Peyre-SemiDiscrete.pdf)
     [slides 4 <i class="fas fa-file-pdf"></i>](Peyre-UnbalancedOT.pdf))
   * **2:00 - 3:30**: Lecture 2 by Alfred
-    Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-2))
+    Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-2)
+    [resources <i class="fab fa-github"></i>](https://github.com/alfredgalichon/seattle-2022))
   * **4:00 - 6:00**: [IFDS](https://ifds.info/) invited talks, panel discussion, spotlight talks
     * **4:00 - 4:05**: Zaid Harchaoui, brief presentation of
       [IFDS](https://ifds.info)
@@ -126,7 +128,8 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **10:30 - 12:00**: Lecture 1 by Jan
     Maas ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/recent-advances-dynamical-optimal-transport-lecture-1))
   * **2:00 - 3:30**: Lecture 3 by Alfred
-    Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-3))
+    Galichon ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-3)
+    [resources <i class="fab fa-github"></i>](https://github.com/alfredgalichon/seattle-2022))
   * **4:30 - 5:30**: Happy Hour at the UW Econ department
 
 #### Thursday, June 30

@@ -114,6 +114,10 @@ equilibrium.  Lattice structure.
 **Lecture 3.**
 ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/gross-substitutes-optimal-transport-and-matching-models-lecture-3)) Models of matching without transfers Gale and Shapley's stable
 matchings. Adachi's formulation.  Kelso-Craford. Hatfield-Milgrom.
+
+##### Slides & Notes
+Slides and notebooks for this course are available on Prof. Galichon's [github
+repository](https://github.com/alfredgalichon/seattle-2022).
 {{< /detail-tag >}}
 {{< /abstract >}}
 
