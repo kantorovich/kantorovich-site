@@ -245,7 +245,7 @@ the matching problem.
 
 ##### Slides & Notes
   * [Slides <i class="fas fa-file-pdf"></i>](schedule/FelixOtto-2022-06-24.pdf)
-  * [Notes <i class="fas fa-file-pdf"></i>](schedule/FelixOtto-2022-06-22-Notes.pdf)
+  * [Lecture Notes <i class="fas fa-file-pdf"></i>](schedule/FelixOtto-2022-06-22-Notes.pdf)
 {{< /detail-tag >}}
 {{< /abstract >}}
 
