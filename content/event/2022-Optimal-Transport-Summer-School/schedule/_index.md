@@ -44,7 +44,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
   * **10:30 - 12:00**: Lecture 2 by Inwon
     Kim ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-2), [slides 1 <i class="fas fa-file-pdf"></i>](InwonKim-2022-06-22.pdf), [slides 2 <i class="fas fa-file-pdf"></i>](InwonKim-2022-06-26.pdf))
   * **2:00 - 3:30**: Lecture 1 by Felix
-    Otto ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-1), [slides <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-24.pdf), [notes <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-22-Notes.pdf))
+    Otto ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-1), [slides <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-24.pdf), [Lecture Notes <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-22-Notes.pdf))
   * **4:00 - 5:45**: Participant talks (7 talks, 15 mins each)
     * Arghya Rakshit , Jeremy Wu, Cameron Davies, Sebastian Munoz
     * Manuel Mellado Cuerno, Kai-Hsiang Wang, Yangxinyu Xie 
@@ -55,7 +55,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 #### Thursday, June 23
 
   * **10:30 - 12:00**: Lecture 2 By Felix
-    Otto ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-2), [slides <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-24.pdf), [notes <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-22-Notes.pdf))
+    Otto ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-2), [slides <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-24.pdf), [Lecture Notes <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-22-Notes.pdf))
   * **2:00 - 3:30**: Lecture 3 by Geoff Schiebinger ([slides <i class="fas fa-file-pdf"></i>](Schiebinger-2022-06-28-full.pdf))
   * **4:00 - 5:15**: Participant talks (5 talks, 15 mins each)
     * Francesco Mattesini, Giacomo Enrico Sodini, Sadashige Ishida, Min Jun Jo, Juan Pablo Vigneaux 
@@ -65,7 +65,7 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Schedule"
 #### Friday, June 24
 
   * **10:30 - 12:00**: Lecture 3 by Felix
-    Otto ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-3), [slides <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-24.pdf), [notes <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-22-Notes.pdf))
+    Otto ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/variational-approach-regularity-theory-optimal-transportation-lecture-3), [slides <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-24.pdf), [Lecture Notes <i class="fas fa-file-pdf"></i>](FelixOtto-2022-06-22-Notes.pdf))
   * **2:00 - 3:30**: Lecture 3 by Inwon
     Kim ([video <i class="fas fa-video"></i>](https://mathtube.org/lecture/video/recent-results-interface-motions-framework-optimal-transport-lecture-3), [slides 1 <i class="fas fa-file-pdf"></i>](InwonKim-2022-06-22.pdf), [slides 2 <i class="fas fa-file-pdf"></i>](InwonKim-2022-06-26.pdf))
   * **4:00 - 4:30**: Participant talks (2 talks, 15 mins each)
