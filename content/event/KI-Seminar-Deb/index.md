@@ -7,7 +7,7 @@ location: "Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
-  name: Deb Nabarun
+  name: Nabarun Deb
   institution: KI Postdoc, University of British Columbia
   url: https://nabarund.github.io/
 abstract: |
