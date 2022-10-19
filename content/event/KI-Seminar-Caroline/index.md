@@ -1,5 +1,4 @@
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
+---
 title: "Learning Tasks in the Wasserstein Space"
 event: KI Seminar
 location: "Online (zoom)"
