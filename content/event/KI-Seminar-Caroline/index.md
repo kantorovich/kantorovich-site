@@ -6,8 +6,8 @@ registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
   name: Caroline Moosmueller
-  institution: University of California, San Diego
-  url: https://mathweb.ucsd.edu/~cmoosmueller/index.html
+  institution: University of North Carolina at Chapel Hill
+  url: https://math.unc.edu/faculty-member/moosmueller-caroline/
 abstract: |
   Detecting differences and building classifiers between distributions, 
   given only finite samples, are important tasks in a number of scientific 
