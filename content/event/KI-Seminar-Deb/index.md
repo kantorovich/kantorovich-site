@@ -59,6 +59,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video:
-url_slides:
+url_video: https://mathtube.org/lecture/video/effect-dependence-convergence-empirical-wasserstein-distance
+url_slides: Kantorovich-Initiative-Nabarun-Slides.pdf
 ---
