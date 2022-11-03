@@ -59,5 +59,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video: https://mathtube.org/lecture/video/learning-tasks-wasserstein-space
-url_slides:
+url_slides: 2022-10-moosmueller-Kantorovich-seminar.pdf
 ---%  
