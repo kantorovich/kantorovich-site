@@ -1,6 +1,6 @@
 ---
-title: Students
-summary: Students associated with the Kantorovich Initiative
+title: Postdoctoral Researchers
+summary: Postdocs associated with the Kantorovich Initiative
 date: "2022-11-23T13:23:44Z"
 
 reading_time: false  # Show estimated reading time?
