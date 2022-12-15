@@ -13,10 +13,10 @@ header:
   caption: ""
   image: ""
 ---
-# Title
+# Past and present students associated with the Kantorovich Initiative
 
 Content, e.g.
 
-* Item 1
+* Lang Liu - graduated from UW Statistics - https://langliu95.github.io/
 * Item 2
 * Item 3
