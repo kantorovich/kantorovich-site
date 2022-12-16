@@ -18,7 +18,7 @@ header:
 * ## Lang Liu
   - **Department**: UW Statistics
   - **Website**: https://langliu95.github.io/
-  - **KI mentors**: Zaid Harchaoui and Soumik Pal
+  - **KI mentors**: [Zaid Harchaoui](/authors/zaid) and [Soumik Pal](/authors/soumik)
   - **Graduated**: 2022
   - **Note**: Winner of the Z.W. Birnbaum Award for the best dissertation 
 * Item 2
