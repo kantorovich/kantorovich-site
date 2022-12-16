@@ -13,10 +13,13 @@ header:
   caption: ""
   image: ""
 ---
-# Past and present students associated with the Kantorovich Initiative
+## Past and present students associated with the Kantorovich Initiative
 
-Content, e.g.
-
-* Lang Liu, Department - UW Statistics, Website - https://langliu95.github.io/, KI mentors - Zaid Harchaoui and Soumik Pal, Graduated - 2022, Note - Winner of the Z.W. Birnbaum Award for the best dissertation 
+* ## Lang Liu
+  - **Department**: UW Statistics
+  - **Website**: https://langliu95.github.io/
+  - **KI mentors**: Zaid Harchaoui and Soumik Pal
+  - **Graduated**: 2022
+  - **Note**: Winner of the Z.W. Birnbaum Award for the best dissertation 
 * Item 2
 * Item 3
