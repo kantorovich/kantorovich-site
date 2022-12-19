@@ -18,7 +18,7 @@ header:
 * ## Nabarun Deb
   - **Location**: UBC, Vancouver
   - **Website**: https://nabarund.github.io/
-  - **KI mentors**: [Young-Heon Kim] (/authors/yhkim), [Soumik Pal](/authors/soumik), [Geoff Schiebinger](/authors/schiebinger)
+  - **KI mentors**: [Young-Heon Kim](/authors/yhkim), [Soumik Pal](/authors/soumik), [Geoff Schiebinger](/authors/schiebinger)
   - **Term**: 2022-2023
   - **Note**: Joins a tenure-track position at the Chicago Booth School of Business from 2023. 
 
