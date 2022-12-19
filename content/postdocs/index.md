@@ -15,12 +15,11 @@ header:
 ---
 ## Past and present postdocs associated with the Kantorovich Initiative
 
-* ## Persons name goes here
-  - **Department**: Their Department
-  - **Website**: https://www.google.com
-  - **KI mentors**: Their KI Mentors
-  - **Term**: 2020-2022
-  - **Note**: Any additional Information
-* Item 2
-* Item 3
+* ## Nabarun Deb
+  - **Location**: UBC, Vancouver
+  - **Website**: https://nabarund.github.io/
+  - **KI mentors**: Young-Heon Kim, Geoff Schiebinger, Soumik Pal
+  - **Term**: 2022-2023
+  - **Note**: Joins a tenure-track position at the Chicago Booth School of Business from 2023. 
+
  
