@@ -1,0 +1,35 @@
+main:
+  - name: Home
+    url: '#hero'
+    weight: 10
+  - name: Projects
+    url: '#projects'
+    weight: 20
+  - name: Posts
+    url: '#posts'
+    weight: 30
+  - name: Summer School
+    url: '#summer-school'
+    weight: 35
+  - name: Events
+    url: '#events'
+    weight: 40
+  - name: People
+    identifier: people
+    weight: 70
+  - name: Affiliated Faculty
+    parent: people
+    url: '#people'
+  - name: Postdocs
+    parent: people
+    url: "/postdocs/"
+  - name: Graduate Students
+    parent: people
+    url: '/students/'
+  - name: Subscribe
+    url: '#mailinglist'
+    weight: 80
+  - name: Sponsors
+    url: '#sponsors'
+    weight: 90
+
