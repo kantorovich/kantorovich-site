@@ -46,5 +46,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video:
-url_slides:
+url_slides: OT_talk_KI_Florian.pdf
 ---%  
