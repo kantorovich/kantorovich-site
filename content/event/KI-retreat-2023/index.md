@@ -44,12 +44,24 @@ draft: false
   * **9:30  - 10:30**: Senior talk + Q/A (60 min)
   * **10:30 - 11:30**: Senior talk + Q/A (60 min)
   * **11:30 - 12:30**: Keynote: Andrea Montanari (60 min)
-  * **12:30 - 2:30**: Lunch provided (Zillow Commons) (120 min)
+  * **12:30 - 2:30**: _Lunch provided (Zillow Commons)_ (120 min)
   * **2:30 - 3:10**: Junior talk + Q/A (40 min)
   * **3:10 - 3:50**: Junior talk + Q/A (40 min)
   * **3:50 - 4:30**: Junior talk + Q/A (40 min)
   * **4:30 - 5:10**: Junior talk + Q/A (40 min)
-  * **5:10 - 6:10**: Beer and wine (Zillow Commons) (60 min)
+  * **5:10 - 6:10**: _Beer and wine (Zillow Commons)_ (60 min)
+
+
+## Speakers
+
+
+  * Andrea Montanari, Stanford (Keynote)
+  * Kevin Jamieson, IFML (Senior talk)
+  * Raghav Somani & Raghav Tripathi, IFML (Junior talk)
+  * Jon Hayase, IFML & UW (Junior talk)
+  * Geoff Schiebinger, UBC (Senior talk)
+  * Becca Bonham-Carter, UBC (Junior talk)
+
 
 ## Sponsors
 
