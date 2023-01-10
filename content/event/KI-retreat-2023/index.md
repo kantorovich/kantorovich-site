@@ -13,11 +13,11 @@ tags: ['event']
 categories: ['event']
 
 date: 2023-02-02T09:30:00-08:00
-date_end: 2022-02-02T18:10:00-08:00
+date_end: 2023-02-02T18:10:00-08:00
 all_day: false
 
-publishDate: 2023-01-10T10:00:00-07:00
-lastmod: 2023-01-10T10:00:00-07:00
+publishDate: 2023-01-10T10:00:00-08:00
+lastmod: 2023-01-10T10:00:00-08:00
 
 featured: true
 draft: false
