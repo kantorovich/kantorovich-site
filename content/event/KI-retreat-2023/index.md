@@ -12,8 +12,8 @@ authors: ["soumik"]
 tags: ['event']
 categories: ['event']
 
-date: 2023-02-02T09:30:00-07:00
-date_end: 2022-02-09T18:10:00-07:00
+date: 2023-02-02T09:30:00-08:00
+date_end: 2022-02-02T18:10:00-08:00
 all_day: false
 
 publishDate: 2023-01-10T10:00:00-07:00
@@ -72,8 +72,8 @@ draft: false
     </a>
   </div>
   <div class="col d-flex align-items-center justify-content-center">
-    <a href="https://www.ifml.institute/" target="_blank">
-    <img class="tight" src="IFML-logo.svg">
+    <a href="https://ifml.institute" target="_blank">
+      <img class="tight" src="IFML-logo.png">
     </a>
   </div>
   <div class="col d-flex align-items-center justify-content-center">
