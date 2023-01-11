@@ -9579,3 +9579,9 @@ img.sponsor {
 .sponsors .content-widget-hr {
   margin-top: 0.6rem;
   padding-top: 0.6rem; }
+
+span.caption a {
+  color: black; }
+
+.article-container h2 {
+  margin-top: 3rem; }
