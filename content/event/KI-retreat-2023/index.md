@@ -10,7 +10,7 @@ summary: |
 authors: ["soumik"]
 
 tags: ['event']
-categories: ['event']
+categories: ['retreat']
 
 date: 2023-02-02T09:30:00-08:00
 date_end: 2023-02-02T18:10:00-08:00

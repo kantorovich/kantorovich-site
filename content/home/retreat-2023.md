@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-title = "Summer School"
+title = "KI Retreat 2023"
 subtitle = ""
 
 [content]
@@ -25,10 +25,10 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = "event"
-    category = "summer-school"
+    category = "retreat"
     publication_type = ""
     exclude_featured = false
-    exclude_past = false
+    exclude_past = true
     exclude_future = false
 
 
