@@ -8,8 +8,8 @@ main:
   - name: Posts
     url: '#posts'
     weight: 30
-  - name: Summer School
-    url: '#summer-school'
+  - name: KI Retreat 2023
+    url: '/event/ki-retreat-2023/'
     weight: 35
   - name: Events
     url: '#events'
