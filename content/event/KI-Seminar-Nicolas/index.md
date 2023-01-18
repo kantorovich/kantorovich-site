@@ -1,5 +1,5 @@
 ---
-title: |
+title: "TBA"|
 event: KI Seminar
 location: "Online (zoom)"
 registration_info: |
@@ -8,7 +8,7 @@ speaker:
   name: Nicolas Garcia Trillos
   institution: University of Wisconsin-Madison
   url: https://stat.wisc.edu/staff/trillos-nicolas-garcia/
-abstract: |
+abstract: |TBA
 
 summary:
 authors:
