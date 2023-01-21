@@ -66,11 +66,6 @@ draft: false
 
 <div class="row">
   <div class="col d-flex align-items-center justify-content-center">
-    <a href="https://www.sci.utah.edu/the-institute/news/138-general-news/717-minmax.html" target="_blank">
-      <img class="tight" src="SCALE-MoDL-logo.png">
-    </a>
-  </div>
-  <div class="col d-flex align-items-center justify-content-center">
     <a href="https://ifml.institute" target="_blank">
       <img class="tight" src="IFML-logo.png">
     </a>
