@@ -41,14 +41,13 @@ draft: false
   * Sewoong Oh
 
 ## Schedule
-  * **9:30  - 10:30**: Senior talk + Q/A (60 min)
-  * **10:30 - 11:30**: Senior talk + Q/A (60 min)
-  * **11:30 - 12:30**: Keynote: Andrea Montanari (60 min)
+  * **9:30  - 10:30**: Kevin Jamieson + Q/A 
+  * **10:30 - 11:30**: Geoff Schiebinger + Q/A
+  * **11:30 - 12:30**: Keynote: Andrea Montanari 
   * **12:30 - 2:30**: _Lunch provided (Zillow Commons)_ (120 min)
-  * **2:30 - 3:10**: Junior talk + Q/A (40 min)
-  * **3:10 - 3:50**: Junior talk + Q/A (40 min)
-  * **3:50 - 4:30**: Junior talk + Q/A (40 min)
-  * **4:30 - 5:10**: Junior talk + Q/A (40 min)
+  * **2:30 - 3:20**: Jon Hayase + Q/A
+  * **3:25 - 4:15**: Raghav Somani and Raghav Tripathi + Q/A
+  * **4:20 - 5:10**: Becca Bonham-Carter + Q/A
   * **5:10 - 6:10**: _Beer and wine (Zillow Commons)_ (60 min)
 
 
@@ -56,11 +55,11 @@ draft: false
 
 
   * Andrea Montanari, Stanford (Keynote)
-  * Kevin Jamieson, IFML (Senior talk)
-  * Raghav Somani & Raghav Tripathi, IFML (Junior talk)
-  * Jon Hayase, IFML & UW (Junior talk)
-  * Geoff Schiebinger, UBC (Senior talk)
-  * Becca Bonham-Carter, UBC (Junior talk)
+  * Kevin Jamieson, UW+IFML (Senior talk)
+  * Raghav Somani & Raghav Tripathi, UW+IFML+KI (Junior talk)
+  * Jon Hayase, UW+IFML (Junior talk)
+  * Geoff Schiebinger, UBC+KI (Senior talk)
+  * Becca Bonham-Carter, UBC (now at Mission Control Space Services)+KI (Junior talk)
 
 
 ## Sponsors
