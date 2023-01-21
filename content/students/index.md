@@ -21,10 +21,10 @@ header:
   - **KI mentors**: [Zaid Harchaoui](/authors/zaid) and [Soumik Pal](/authors/soumik)
   - **Graduated**: 2022
   - **Note**: Winner of the Z.W. Birnbaum Award for the best dissertation 
-* * ## Adolfo-Vargas-Jimenez
+* ## Adolfo-Vargas-Jimenez
   - **Department**: U-Alberta Math
   - **Website**: [https://vargas-jimenez.com/](https://vargas-jimenez.com/)
   - **KI mentors**: [Brendan Pass](/authors/pass)
   - **Graduated**: 2022
   - **Note**: Joining U-Ottawa as a postdoctoral scholar.
-* Item 3
+
