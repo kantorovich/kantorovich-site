@@ -67,16 +67,16 @@ draft: false
 <div class="row">
   <div class="col d-flex align-items-center justify-content-center">
     <a href="https://ifml.institute" target="_blank">
-      <img class="tight" src="IFML-logo.png">
+      <img class="tight" src="IFML-logo.svg">
     </a>
   </div>
   <div class="col d-flex align-items-center justify-content-center">
     <a href="/">
-    <img class="tight" src="/img/avatar.png">
+    <img style="width:60%" class="tight" src="/img/avatar.png">
     </a>
   </div>
 </div>
-<div class="row">
+<div class="row mt-4">
   <div class="col d-flex align-items-center justify-content-center">
     <span class="caption"><a
     href="https://www.ifml.institute/" target="_blank">IFML</a></span>
