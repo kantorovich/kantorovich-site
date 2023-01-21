@@ -1,11 +1,13 @@
 ---
-title: "KI retreat 2023"
-event: "KI retreat 2023"
+title: "IFML+KI retreat 2023"
+event: "IFML+KI retreat 2023"
 subtitle: ""
 location: "Zillow Commons, 4th floor, [Gates Center](https://goo.gl/maps/qYR5pYtDso7KgYJN9)"
 
 summary: |
-    The second Kantorovich Initiative Retreat will take place on Thursday February 2nd, 2023 in Zillow Commons, 4th floor, [Gates Center](https://goo.gl/maps/qYR5pYtDso7KgYJN9)
+    The second Kantorovich Initiative Retreat will take place on Thursday February 2nd, 2023 in Zillow Commons, 4th floor, [Gates Center](https://goo.gl/maps/qYR5pYtDso7KgYJN9). This is in collaboration with UW Institute for Foundations in Machine Learning (IFML). 
+    
+    KI retreats are local one day conferences where KI members and their research groups get together to socialize and discuss potential collaborations.  
 
 authors: ["soumik"]
 
