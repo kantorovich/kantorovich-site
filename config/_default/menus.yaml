@@ -9,11 +9,24 @@ main:
     url: '#posts'
     weight: 30
   - name: KI Retreat 2023
+    identifier: retreat
     url: '/event/ki-retreat-2023/'
     weight: 35
+  - name: KI Retreat 2023
+    url: '/event/ki-retreat-2023/'
+    parent: retreat
+    weight: 10
+  - name: KI Retreat 2022
+    url: '/event/ki-retreat-2022/'
+    parent: retreat
+    weight: 20
   - name: Events
+    identifier: events
     url: '#events'
     weight: 40
+  - name: 2022 Summer School
+    url: '/event/2022-Optimal-Transport-Summer-School/' 
+    parent: events
   - name: People
     identifier: people
     weight: 70
