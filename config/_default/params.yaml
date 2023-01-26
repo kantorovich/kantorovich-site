@@ -1,0 +1,105 @@
+appearance:
+  theme_day: minimal
+  theme_night:
+
+  theme: ocean
+  font: native
+  font_size: M
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: Kantorovich Initiative
+    description: The mission of the Kantorovich Initiative...
+    twitter: pimsmath
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    hightlight_active_link: true
+
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - python
+  math:
+    enable: true
+  privacy_pack:
+    enable: true
+  repository:
+    url: https://github.com/kantorovich/kantorovich-site
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comments:
+    engine: 0
+    commentable:
+      page: true
+      post: true
+      docs: true
+      project: true
+      publication: true
+      talk: true
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: mapnik
+    api_key: ''
+    zoom: 15
+
+
+locale:
+  date_format: '2006, Jan 2'
+  time_format: '3:04 PM MST'
+  address_format: en-us
+
+coordinates:
+  latitude: '49.2827'
+  longitude: '-123.1207'
+contact_links: []
+sharing_image: key.png
+
+publications:
+  date_format: '2006-01-02'
+  citation_style: apa
+
+
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+

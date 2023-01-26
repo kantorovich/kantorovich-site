@@ -16,6 +16,8 @@ content:
   count: 5
   offset: 0
   order: desc
+  archive:
+    link: /tags/event
 design:
   view: 2
   background: {}

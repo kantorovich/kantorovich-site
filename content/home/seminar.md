@@ -15,6 +15,9 @@ content:
   count: 5
   offset: 0
   order: desc
+  archive:
+    link: /tags/seminar/
+    text: See All Seminars
 design:
   view: 2
   background: {}

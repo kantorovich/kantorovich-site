@@ -129,3 +129,26 @@ span.caption a {
 .article-container h2 {
     margin-top: 3rem;
 }
+
+#navbar-main .navbar-nav {
+    .nav-item .nav-link {
+        color: white;
+        :hover,:focus {
+            color: lightgrey!important;
+        }
+    }
+    .nav-item .nav-link.active {
+        color: lightgrey!important;
+    }
+
+}
+.navbar-light .navbar-brand {
+    color: white;
+    &:hover {
+        color: white;
+    }
+}
+
+#navbar-main .navbar-nav .nav-item a.dropdown-item:hover {
+    background-color:lightgrey!important;
+}

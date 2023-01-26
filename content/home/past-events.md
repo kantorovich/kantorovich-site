@@ -16,6 +16,9 @@ content:
   count: 3
   offset: 0
   order: desc
+  archive:
+    link: tags/event
+    text: See All Events
 design:
   view: 2
   background: {}
