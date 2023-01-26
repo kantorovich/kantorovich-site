@@ -15,8 +15,10 @@ abstract: |
   
 summary: ""
 authors: 
-tags: ['']
-categories: ['event']
+tags:
+  - seminar
+categories:
+  - event
 date: 2022-02-24T10:00:00-08:00
 publishDate: 2020-11-09T14:30:00-08:00
 lastmod: 2020-11-09T19:21:51-08:00

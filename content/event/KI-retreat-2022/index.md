@@ -10,8 +10,8 @@ summary: |
 
 authors: ["soumik"]
 
-tags: ['event']
-categories: ['event']
+tags: ['event', 'retreat']
+categories: ['event', 'retreat']
 
 date: 2022-03-18T10:00:00-07:00
 date_end: 2022-03-18T17:00:00-07:00

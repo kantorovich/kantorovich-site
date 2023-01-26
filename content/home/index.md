@@ -1,5 +1,9 @@
-+++
+---
 # Homepage
-type = "widget_page"
-headless = true  # Homepage is headless, other widget pages are not.
-+++
+type: widget_page
+headless: true
+announcement:
+  text: |
+    The Kantorovich Initiative invites applications for a postdoctoral position.
+    For more details and to apply, please visit our mathjobs posting
+---

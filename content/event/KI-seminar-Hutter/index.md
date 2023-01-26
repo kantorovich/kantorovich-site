@@ -15,8 +15,10 @@ abstract: |
 
 summary: ""
 authors: 
-tags: ['']
-categories: ['event']
+tags:
+  - seminar
+categories:
+  - event
 date: 2021-09-30T10:00:00-07:00
 publishDate: 2021-09-20T11:30:00-07:00
 lastmod: 2020-09-20T11:30:00-07:00

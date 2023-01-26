@@ -11,8 +11,10 @@ summary: |
 
 authors: ["soumik"]
 
-tags: ['event']
-categories: ['event']
+tags:
+  - event
+categories:
+  - event
 
 date: 2021-01-09T08:00:00-08:00
 date_end: 2021-01-10T12:00:00-08:00

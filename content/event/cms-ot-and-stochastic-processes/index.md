@@ -42,8 +42,10 @@ date: 2021-06-04T08:00:00-07:00
 date_end: 2021-06-04T11:00:00-07:00
 all_day: false
 
-categories: ["event"]
-tags: ["event"]
+categories:
+  - event
+tags:
+  - event
 
 publishDate: 2021-03-15T09:00:00-07:00
 lastmod: 2021-03-05T09:04:18-08:00

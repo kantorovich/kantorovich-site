@@ -24,8 +24,13 @@ summary: |
 
 authors: ["soumik"]
 
-tags: ['event']
-categories: ['summer-school']
+tags:
+  - event
+  - summer school
+
+categories:
+  - event
+  - summer school
 
 date: 2022-06-19T08:00:00-08:00
 date_end: 2022-07-01T17:00:00-08:00

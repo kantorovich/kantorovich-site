@@ -11,4 +11,4 @@ title: "PIMS- IFDS- NSF Summer School on Optimal Transport: Photos"
   </li>
 </ul>
 
-{{< gallery >}}
+{{< gallery album="photos-organizers" >}}

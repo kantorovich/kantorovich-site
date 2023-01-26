@@ -21,8 +21,10 @@ abstract: |
   
 summary: ""
 authors: 
-tags: ['']
-categories: ['event']
+tags:
+  - seminar
+categories:
+  - event
 date: 2021-05-06T10:00:00-07:00
 publishDate: 2021-04-25T14:30:00-08:00
 featured: false

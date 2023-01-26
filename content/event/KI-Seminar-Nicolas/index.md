@@ -14,8 +14,10 @@ abstract: |
 summary:
 authors:
 
-tags: ['']
-categories: ['event']
+tags:
+  - seminar
+categories:
+  - event
 date: 2023-02-23T10:00:00-08:00
 publishDate: 2022-09-21T00:00:00-08:00
 lastmod: 2023-01-17T00:00:00-08:00

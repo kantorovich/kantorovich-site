@@ -37,8 +37,10 @@ abstract: |
 summary:
 authors:
 
-tags: ['']
-categories: ['event']
+tags:
+  - seminar
+categories:
+  - event
 date: 2022-09-29T10:00:00-07:00
 publishDate: 2022-09-21T00:00:00-07:00
 lastmod: 2022-09-21T00:00:00-07:00
