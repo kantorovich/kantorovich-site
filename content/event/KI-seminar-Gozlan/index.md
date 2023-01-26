@@ -15,8 +15,10 @@ abstract: |
 
 summary: ""
 authors: 
-tags: ['']
-categories: ['event']
+tags:
+  - seminar
+categories:
+  - event
 date: 2022-01-27T10:00:00-08:00
 publishDate: 2022-01-19T14:30:00-08:00
 featured: false

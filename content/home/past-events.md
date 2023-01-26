@@ -2,8 +2,8 @@
 widget: pages
 headless: true
 active: true
-weight: 40
-title: Upcoming Events
+weight: 45
+title: Past Events
 subtitle: ''
 content:
   page_type: event
@@ -12,8 +12,8 @@ content:
   filters:
     category: event
     tag: event
-    exclude_past: true
-  count: 5
+    exclude_future: true
+  count: 3
   offset: 0
   order: desc
 design:

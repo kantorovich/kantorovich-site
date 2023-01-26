@@ -16,11 +16,11 @@ main:
     parent: events
     weight: 10
   - name: Past Events
-    url: '/past-events'
+    url: '/#past-events'
     parent: events
     weight: 20
-  - name: Seminar
-    url: '/seminar'
+  - name: Seminars
+    url: '/#seminar'
     parent: events
     weight: 20
   - name: People

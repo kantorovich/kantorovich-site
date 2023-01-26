@@ -28,8 +28,10 @@ abstract: |
 
 summary:
 authors:
-tags: ['']
-categories: ['event']
+tags:
+  - seminar
+categories:
+  - event
 date: 2022-03-17T10:00:00-07:00
 publishDate: 2022-03-04T00:00:00-08:00
 lastmod: 2022-03-04T00:00:00-08:00

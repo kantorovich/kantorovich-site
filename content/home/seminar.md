@@ -2,8 +2,8 @@
 widget: pages
 headless: true
 active: true
-weight: 40
-title: Upcoming Events
+weight: 48
+title: Seminars
 subtitle: ''
 content:
   page_type: event
@@ -11,8 +11,7 @@ content:
     - events
   filters:
     category: event
-    tag: event
-    exclude_past: true
+    tag: seminar
   count: 5
   offset: 0
   order: desc
