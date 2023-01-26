@@ -3,7 +3,7 @@ widget: pages
 headless: true
 active: true
 weight: 48
-title: Seminars
+title: KI Seminars (online)
 subtitle: ''
 content:
   page_type: event

@@ -19,7 +19,7 @@ main:
     url: '/#past-events'
     parent: events
     weight: 20
-  - name: Seminars
+  - name: KI Seminars (online)
     url: '/#seminar'
     parent: events
     weight: 20
