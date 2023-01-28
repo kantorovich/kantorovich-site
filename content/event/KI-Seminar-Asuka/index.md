@@ -46,5 +46,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video: 
-url_slides: 
+url_slides: KISeminar_Takatsu_2023Jan26.pdf
 ---%  
