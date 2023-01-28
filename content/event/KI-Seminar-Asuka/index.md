@@ -45,6 +45,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video: 
+url_video: https://mathtube.org/lecture/video/bregman-divergence-regularization-optimal-transport-problems-finite-set
 url_slides: KISeminar_Takatsu_2023Jan26.pdf
 ---%  
