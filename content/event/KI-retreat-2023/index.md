@@ -90,6 +90,33 @@ work with Chen Cheng]
 {{< /abstract >}}
 
 {{< abstract
+  title="Towards Instance-Optimal Algorithms for Reinforcement Learning"
+  author="Kevin Jamieson"
+  affiliation="UW + IFML"
+>}}
+The theory of reinforcement learning has focused on two fundamental problems: achieving low regret, and identifying epsilon-optimal policies. While in multi-armed bandits there exists a single algorithm that is instance-optimal for both, I will show in this talk that for tabular MDPs this is no longer possible—there exists a fundamental tradeoff between achieving low regret and identifying an epsilon-optimal policy at the instance-optimal rate. That is, popular algorithms that exploit optimism cannot be instance optimal. I will then present an algorithm that achieves the best known instance-dependent sample complexity for PAC tabular reinforcement learning which explicitly accounts for the sub-optimality gaps and attainable state visitation distributions in the underlying MDP. I will then discuss our recent work in the more general linear MDP setting where we have proposed an algorithm that is qualitatively very different but nevertheless achieves an instance-dependent sample complexity.
+{{< /abstract >}}
+
+
+{{< abstract
+  title="Towards a Mathematical Theory of Development"
+  author="Geoff Schiebinger"
+  affiliation="UBC + KI"
+>}}
+This talk introduces a mathematical theory of developmental biology, based on optimal transport. While, in principle, organisms are made of molecules whose motions are described by the Schödinger equation, there are simply too many molecules for this to be useful. Optimal transport (OT) provides a set of equations that describe development at the level of cells. We leverage OT to analyze single-cell RNA-sequencing datasets and shed light on questions like: How does a stem cell transform into a muscle cell, a skin cell, or a neuron? How can we reprogram a skin cell into a stem cell?
+{{< /abstract >}}
+
+
+
+{{< abstract
+  title="Git Re-Basin: Merging Models modulo Permutation Symmetries"
+  author="Jon Hayase"
+  affiliation="UW + IFML"
+>}}
+The success of deep learning is due in large part to our ability to solve certain massive non-convex optimization problems with relative ease. Though non-convex optimization is NP-hard, simple algorithms -- often variants of stochastic gradient descent -- exhibit surprising effectiveness in fitting large neural networks in practice. We argue that neural network loss landscapes contain (nearly) a single basin after accounting for all possible permutation symmetries of hidden units a la Entezari et al. (2021). We introduce three algorithms to permute the units of one model to bring them into alignment with a reference model in order to merge the two models in weight space. This transformation produces a functionally equivalent set of weights that lie in an approximately convex basin near the reference model. Experimentally, we demonstrate the single basin phenomenon across a variety of model architectures and datasets, including the first (to our knowledge) demonstration of zero-barrier linear mode connectivity between independently trained ResNet models on CIFAR-10 and CIFAR-100. Additionally, we investigate intriguing phenomena relating model width and training time to mode connectivity. Finally, we discuss shortcomings of the linear mode connectivity hypothesis, including a counterexample to the single basin theory.
+{{< /abstract >}}
+
+{{< abstract
   title="Developmental trajectory inference in the presence of a growth-induced bias in clonal data"
   author="Becca Bonham-Carder"
   affiliation="UBC (now at Mission Control Space Services) + KI"
