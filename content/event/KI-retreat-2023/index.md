@@ -60,10 +60,10 @@ draft: false
 
 
   * [Andrea Montanari](#overparametrization-in-machine-learning-insights-from-linear-models), Stanford (Keynote)
-  * Kevin Jamieson, UW+IFML (Senior talk)
+  * [Kevin Jamieson](#towards-instance-optimal-algorithms-for-reinforcement-learning), UW+IFML (Senior talk)
+  * [Geoff Schiebinger](#towards-a-mathematical-theory-of-development), UBC+KI (Senior talk)
+  * [Jon Hayase](#git-re-basin:-merging-models-modulo-permutation-symmetries), UW+IFML (Junior talk)
   * Raghav Somani & [Raghav Tripathi](#scaling-limit-of-sgd-over-large-networks), UW+IFML+KI (Junior talk)
-  * Jon Hayase, UW+IFML (Junior talk)
-  * Geoff Schiebinger, UBC+KI (Senior talk)
   * [Becca
     Bonham-Carter](#developmental-trajectory-inference-in-the-presence-of-a-growth-induced-bias-in-clonal-data),
     UBC (now at Mission Control Space Services)+KI (Junior talk)
@@ -116,25 +116,6 @@ This talk introduces a mathematical theory of developmental biology, based on op
 The success of deep learning is due in large part to our ability to solve certain massive non-convex optimization problems with relative ease. Though non-convex optimization is NP-hard, simple algorithms -- often variants of stochastic gradient descent -- exhibit surprising effectiveness in fitting large neural networks in practice. We argue that neural network loss landscapes contain (nearly) a single basin after accounting for all possible permutation symmetries of hidden units a la Entezari et al. (2021). We introduce three algorithms to permute the units of one model to bring them into alignment with a reference model in order to merge the two models in weight space. This transformation produces a functionally equivalent set of weights that lie in an approximately convex basin near the reference model. Experimentally, we demonstrate the single basin phenomenon across a variety of model architectures and datasets, including the first (to our knowledge) demonstration of zero-barrier linear mode connectivity between independently trained ResNet models on CIFAR-10 and CIFAR-100. Additionally, we investigate intriguing phenomena relating model width and training time to mode connectivity. Finally, we discuss shortcomings of the linear mode connectivity hypothesis, including a counterexample to the single basin theory.
 {{< /abstract >}}
 
-{{< abstract
-  title="Developmental trajectory inference in the presence of a growth-induced bias in clonal data"
-  author="Becca Bonham-Carder"
-  affiliation="UBC (now at Mission Control Space Services) + KI"
->}}
-Developmental trajectory inference is the task of estimating the paths followed
-by cells over time as they develop (divide, die and differentiate) in a
-biological population. In this work we consider the problem of inferring
-developmental trajectories at single-cell resolution from time courses of
-dynamic populations which contain observations of cell developmental state and
-shared ancestry through lineage tracing with DNA barcodes. A group of cells
-sharing a common barcode/ancestor are referred to as a clone.
-We identify and explore a statistical phenomenon that may emerge in this
-inference setting, namely how the relative growth rates of cells influence the
-probability that they will be sampled in clones observed across multiple time
-points. We consider how this sampling bias affects state-of-the-art methods for
-this inference problem, including optimal transport approaches, and how one
-might design methods that are robust to this bias.
-{{< /abstract >}}
 
 
 {{< abstract
@@ -155,6 +136,26 @@ describe limits of dense graph sequences. The limiting curves are given by a
 novel notion of McKean-Vlasov equation on graphons and a propagation of chaos
 phenomenon can be observed to hold. In the asymptotically zero-noise case, the
 limit is a gradient flow on the metric space of graphons.
+{{< /abstract >}}
+
+{{< abstract
+  title="Developmental trajectory inference in the presence of a growth-induced bias in clonal data"
+  author="Becca Bonham-Carder"
+  affiliation="UBC (now at Mission Control Space Services) + KI"
+>}}
+Developmental trajectory inference is the task of estimating the paths followed
+by cells over time as they develop (divide, die and differentiate) in a
+biological population. In this work we consider the problem of inferring
+developmental trajectories at single-cell resolution from time courses of
+dynamic populations which contain observations of cell developmental state and
+shared ancestry through lineage tracing with DNA barcodes. A group of cells
+sharing a common barcode/ancestor are referred to as a clone.
+We identify and explore a statistical phenomenon that may emerge in this
+inference setting, namely how the relative growth rates of cells influence the
+probability that they will be sampled in clones observed across multiple time
+points. We consider how this sampling bias affects state-of-the-art methods for
+this inference problem, including optimal transport approaches, and how one
+might design methods that are robust to this bias.
 {{< /abstract >}}
 
 
