@@ -62,7 +62,7 @@ draft: false
   * [Andrea Montanari](#overparametrization-in-machine-learning-insights-from-linear-models), Stanford (Keynote)
   * [Kevin Jamieson](#towards-instance-optimal-algorithms-for-reinforcement-learning), UW+IFML (Senior talk)
   * [Geoff Schiebinger](#towards-a-mathematical-theory-of-development), UBC+KI (Senior talk)
-  * [Jon Hayase](#git-re-basin:-merging-models-modulo-permutation-symmetries), UW+IFML (Junior talk)
+  * [Jon Hayase](#git-re-basin-merging-models-modulo-permutation-symmetries), UW+IFML (Junior talk)
   * Raghav Somani & [Raghav Tripathi](#scaling-limit-of-sgd-over-large-networks), UW+IFML+KI (Junior talk)
   * [Becca
     Bonham-Carter](#developmental-trajectory-inference-in-the-presence-of-a-growth-induced-bias-in-clonal-data),
@@ -109,7 +109,7 @@ This talk introduces a mathematical theory of developmental biology, based on op
 
 
 {{< abstract
-  title="Git Re-Basin: Merging Models modulo Permutation Symmetries"
+  title="Git Re Basin Merging Models modulo Permutation Symmetries"
   author="Jon Hayase"
   affiliation="UW + IFML"
 >}}
