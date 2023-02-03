@@ -43,12 +43,12 @@ image:
   * Sewoong Oh
 
 ## Schedule
-  * **9:30  - 10:30**: Kevin Jamieson + Q/A 
-  * **10:30 - 11:30**: Geoff Schiebinger + Q/A
+  * **9:30  - 10:30**: [Kevin Jamieson](#towards-instance-optimal-algorithms-for-reinforcement-learning) + Q/A 
+  * **10:30 - 11:30**: [Geoff Schiebinger](#towards-a-mathematical-theory-of-development) + Q/A
   * **11:30 - 12:30**: **Keynote**: [Andrea
     Montanari](#overparametrization-in-machine-learning-insights-from-linear-models)
   * **12:30 - 2:30**: _Lunch provided (Zillow Commons)_ (120 min)
-  * **2:30 - 3:20**: Jon Hayase + Q/A
+  * **2:30 - 3:20**: [Jon Hayase](#git-re-basin-merging-models-modulo-permutation-symmetries) + Q/A
   * **3:25 - 4:15**: Raghav Somani and [Raghav
     Tripathi](#scaling-limit-of-sgd-over-large-networks) + Q/A
   * **4:20 - 5:10**: [Becca
