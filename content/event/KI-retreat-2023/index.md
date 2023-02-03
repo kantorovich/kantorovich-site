@@ -24,11 +24,11 @@ lastmod: 2023-01-10T10:00:00-08:00
 featured: true
 draft: false
 
-# image:
-#   caption: "KI Retreat - group photo"
-#   focal_point: ""
-#   uri: "group_photo.jpg"
-#   preview_only: false
+image:
+  caption: "KI Retreat - group photo"
+  focal_point: ""
+  uri: "retreat_2023.jpg"
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
