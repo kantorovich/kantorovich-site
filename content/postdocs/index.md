@@ -15,7 +15,9 @@ header:
 ---
 ## Past and present postdocs associated with the Kantorovich Initiative
 
-* ## Nabarun Deb
+### 2022
+
+* ### Nabarun Deb
   - **Location**: UBC, Vancouver
   - **Website**: https://nabarund.github.io/
   - **KI mentors**: [Young-Heon Kim](/authors/yhkim), [Soumik Pal](/authors/soumik), [Geoff Schiebinger](/authors/schiebinger)
