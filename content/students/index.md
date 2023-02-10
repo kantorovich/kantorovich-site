@@ -16,13 +16,13 @@ header:
 ## Past and present students associated with the Kantorovich Initiative
 
 ### 2022 Graduations
-* ## Lang Liu
+* ### Lang Liu
   - **Department**: UW Statistics
   - **Website**: https://langliu95.github.io/
   - **KI mentors**: [Zaid Harchaoui](/authors/zaid) and [Soumik Pal](/authors/soumik)
   - **Graduated**: 2022
   - **Note**: Winner of the Z.W. Birnbaum Award for the best dissertation 
-* ## Adolfo-Vargas-Jimenez
+* ### Adolfo-Vargas-Jimenez
   - **Department**: U-Alberta Math
   - **Website**: [https://vargas-jimenez.com/](https://vargas-jimenez.com/)
   - **KI mentors**: [Brendan Pass](/authors/pass)
