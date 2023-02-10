@@ -15,6 +15,7 @@ header:
 ---
 ## Past and present students associated with the Kantorovich Initiative
 
+## 2022 Graduations
 * ## Lang Liu
   - **Department**: UW Statistics
   - **Website**: https://langliu95.github.io/
