@@ -10,9 +10,26 @@ speaker:
   url: http://www.birs.ca/~nassif/
 abstract: |
   
-  Our introduction of the notion of a non-linear Kantorovich operator was motivated by the celebrated duality in the mass transport problem, hence the name. In           retrospect, we realized that they -and their iterates- were omnipresent in several branches of analysis, even those that are focused on linear Markov operators and     their semi-groups such as classical ergodic theory, potential theory, and probability theory. The Kantorovich operators that appear in these cases, though non-         linear, are all positively 1-homogenous rendering most classical operations on measures and functions conducted in these theories ``cost-free”: From ``filling         schemes" in ergodic theory, to ``balayage of measures" in potential theory, to dynamic programming of ``gambling houses" in probability theory. General Kantorovich     operators arise when one assigns ``a cost" to such operations. 
+  Our introduction of the notion of a non-linear Kantorovich operator was
+  motivated by the celebrated duality in the mass transport problem, hence the
+  name. In retrospect, we realized that they -and their iterates- were
+  omnipresent in several branches of analysis, even those that are focused on
+  linear Markov operators and their semi-groups such as classical ergodic
+  theory, potential theory, and probability theory. The Kantorovich operators
+  that appear in these cases, though non-linear, are all positively 1-homogenous
+  rendering most classical operations on measures and functions conducted in
+  these theories "cost-free": From "filling schemes" in ergodic theory, to
+  "balayage of measures" in potential theory, to dynamic programming of
+  "gambling houses" in probability theory. General Kantorovich operators arise
+  when one assigns "a cost" to such operations. 
 
-  Kantorovich operators are also Choquet capacities and are the ``least non-linear" extensions of Markov operators, which make them a relatively ``manageable” subclass   of non-linear maps, where they play the same role that convex envelopes play for numerical functions. Motivated by the stochastic counterpart of  Aubry-Mather theory   for Lagrangian systems and Fathi-Mather weak KAM theory, as well as ergodic optimization of dynamical systems, we study the asymptotic properties of general           Kantorovich operators.
+  Kantorovich operators are also Choquet capacities and are the "least
+  non-linear" extensions of Markov operators, which make them a relatively
+  "manageable" subclass   of non-linear maps, where they play the same role that
+  convex envelopes play for numerical functions. Motivated by the stochastic
+  counterpart of  Aubry-Mather theory   for Lagrangian systems and Fathi-Mather
+  weak KAM theory, as well as ergodic optimization of dynamical systems, we
+  study the asymptotic properties of general Kantorovich operators.
 
 summary:
 authors:
@@ -43,4 +60,4 @@ image:
 projects: []
 url_video: 
 url_slides: 
----%  
+---  
