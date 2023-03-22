@@ -58,6 +58,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video: 
+url_video: https://mathtube.org/lecture/video/kantorovich-operators-and-their-ergodic-properties
 url_slides: KItalkNassif.pdf
 ---  
