@@ -10,31 +10,31 @@ speaker:
   url: http://www.stat.columbia.edu/~bodhi/Bodhi/Welcome.html
 abstract: |
   The sign test (Arbuthnott, 1710) and the Wilcoxon
-signed-rank test (Wilcoxon, 1945) are among the first examples of a
-nonparametric test. These procedures --- based on signs, (absolute)
-ranks and signed-ranks --- yield distribution-free tests for symmetry
-in one-dimension. However, multivariate distribution-free
-generalizations of these tests are not known in the literature. In
-this talk we propose a novel framework --- based on the theory of
-optimal transport --- which leads to distribution-free generalized
-multivariate signs, ranks and signed-ranks, and, as a consequence to
-analogues of the sign and Wilcoxon signed-rank tests that share many
-of the appealing properties of their one-dimensional counterparts. In
-particular, the proposed tests are exactly distribution-free in finite
-samples, with an asymptotic normal distribution, and adapt to various
-notions of multivariate symmetry such as central symmetry, sign
-symmetry, and spherical symmetry. We study the consistency of the
-proposed tests and their behaviors under local alternatives, and show
-that the proposed generalized Wilcoxon signed-rank test is
-particularly powerful against location shift alternatives. We show
-that in a large class of models, our generalized Wilcoxon signed-rank
-test suffers from no loss in (asymptotic) efficiency, when compared to
-the Hotelling's T^2 test, despite being nonparametric and exactly
-distribution-free. These ideas can also be used to construct
-distribution-free confidence sets for the location parameter for
-multivariate distributions.
-
-This is joint work with Zhen Huang at Columbia University.
+  signed-rank test (Wilcoxon, 1945) are among the first examples of a
+  nonparametric test. These procedures --- based on signs, (absolute)
+  ranks and signed-ranks --- yield distribution-free tests for symmetry
+  in one-dimension. However, multivariate distribution-free
+  generalizations of these tests are not known in the literature. In
+  this talk we propose a novel framework --- based on the theory of
+  optimal transport --- which leads to distribution-free generalized
+  multivariate signs, ranks and signed-ranks, and, as a consequence to
+  analogues of the sign and Wilcoxon signed-rank tests that share many
+  of the appealing properties of their one-dimensional counterparts. In
+  particular, the proposed tests are exactly distribution-free in finite
+  samples, with an asymptotic normal distribution, and adapt to various
+  notions of multivariate symmetry such as central symmetry, sign
+  symmetry, and spherical symmetry. We study the consistency of the
+  proposed tests and their behaviors under local alternatives, and show
+  that the proposed generalized Wilcoxon signed-rank test is
+  particularly powerful against location shift alternatives. We show
+  that in a large class of models, our generalized Wilcoxon signed-rank
+  test suffers from no loss in (asymptotic) efficiency, when compared to
+  the Hotelling's T^2 test, despite being nonparametric and exactly
+  distribution-free. These ideas can also be used to construct
+  distribution-free confidence sets for the location parameter for
+  multivariate distributions.
+  
+  This is joint work with Zhen Huang at Columbia University.
 
 summary:
 authors:
