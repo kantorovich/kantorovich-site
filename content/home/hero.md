@@ -53,3 +53,5 @@ hero_media = "avatar.png"
 The Kantorovich Initiative is dedicated towards research and dissemination of modern mathematics of optimal transport towards a wide audience of researchers, students, industry, policy makers and the general public.
 
 The group was convened by [Young-Heon Kim (University of British Columbia)](/authors/yhkim/), [Soumik Pal (University of Washington)](/authors/soumik/) and [Brendan Pass (University of Alberta)](/authors/pass/), with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
+
+To know more about optimal transport, see this wiki <a href="http://otwiki.xyz" target="_blank" style="color: darkblue;">otwiki.xyz <i class="fas fa-external-link-alt"></i></a>, maintained by Katy Craig (UCSB).
