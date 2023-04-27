@@ -65,5 +65,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video: 
-url_slides: 
+url_slides: Kantorovich-Talk-Bodhisattva-Apr-2023.pdf
 ---%  
