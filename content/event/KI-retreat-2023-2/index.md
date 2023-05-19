@@ -69,4 +69,30 @@ of an overlooked market segment.
 [Based on work with KS Zhang (University of Waterloo)] 
 {{< /abstract >}}
 
+ {{< abstract
+  title="Quantifying Distributional Model Risk in Relaxed Marginal Problems via Optimal Transport"
+  author="Gaoqian Xu"
+  affiliation="UW"
+>}}
+This paper studies distributional model risk in relaxed marginal problems, where each marginal measure is assumed to lie in a Wasserstein ball of a given radius and centered at a fixed marginal reference measure. Theoretically, we establish strong duality, continuity, and finiteness of the proposed distributional model risk function (of radius), as well as the existence of an optimizer for each radius. Practically, we illustrate our results on four distinct applications when the sample information comes from multiple data sources and only marginal reference measures are identified. They are: partial identification of treatment effects; externally valid treatment choice via robust welfare functions; Wasserstein distributionally robust estimation under data combination; and evaluation of the worst aggregate risk measures.  
+
+[Based on work with Yanqin Fan (UW) and Hyeonseok Park (UW)] 
+{{< /abstract >}}
+
+ {{< abstract
+  title="Curvature on Combinatorial Graphs via Wasserstein Geometry"
+  author="Stefan Steinerberger"
+  affiliation="UW"
+>}}
+We will discuss ways of defining a notion of curvature on combinatorial
+graphs.  One of the classical and most canonical ways of doing it is the Ollivier 
+curvature that defines curvature via Optimal Transport.  I will discuss some more 
+recent ideas and a very simple notion that is extremely easy to compute (one 
+linear system of equations) and has many of the same properties. 
+
+
+[Partially joint work with Andrea Ottolini (UW) and Karel Devriendt (Oxford)] 
+{{< /abstract >}}
+
+
 {{< pihotCRG >}}
