@@ -59,11 +59,11 @@ draft: false
 The principal-agent problem is an important paradigm in economic theory
 for studying the value of private information;  the nonlinear pricing problem
 faced by a monopolist is one example; others include optimal taxation and auction design.
-For multidimensional spaces of consumers (i.e. agents) and products, Rochet and Chon\'e (1998)   
+For multidimensional spaces of consumers (i.e. agents) and products, Rochet and Choné (1998)   
 reformulated this problem to a concave maximization over the set of convex functions,
 by assuming agent preferences combine bilinearity in the product and agent parameters with a (quasi)linear sensitivity to prices.
 We characterize solutions to this problem by identifying a dual minimization problem.  This duality allows us to reduce
-the solution of the square example of Rochet-Chon\'e to a novel free boundary problem,  giving the first analytical description
+the solution of the square example of Rochet-Choné to a novel free boundary problem,  giving the first analytical description
 of an overlooked market segment.  
 
 [Based on work with KS Zhang (University of Waterloo)] 
