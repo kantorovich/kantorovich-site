@@ -40,12 +40,13 @@ draft: false
   * Soumik Pal
 
 ## Schedule
-  * **9:00  - 10:00**: Robert McCann (U. Toronto) - Talk
-  * **10:30 - 11:30**: Stefan Steinerberger (UW) - Talk
-  * **11:30 - 13:30**: _Lunch_
-  * **13:30 - 14:30**: Yanqin Fan and Gaoqian Xu (UW) - Talk
-  * **14:30 - 15:30**: Nabarun Deb, via zoom (UBC) - KI Postdoc
-  * **16:00 - 17:00**: Students - Talks and/or Posters
+  * **9:00  - 10:00**: Robert McCann (University of Toronto) 
+  * **10:15 - 11:15**: Nabarun Deb (UBC+KI) via Zoom.
+  * **11:30 - 12:30**: TBA
+  * **12:30 - 14:00**: _Lunch_
+  * **14:00 - 15:10**: Gaoqian Xu (UW Econ) - Student presentation
+  * **15:20 - 16:20**: Stefan Steinerberge (UW math)
+  * **16:30 - 17:10**: Raghav Somani (UW CS) and Raghav Tripathi (UW math) - Student presentation
   * **17:30 - 18:00**: _Dinner_
 
 {{< pihotCRG >}}
