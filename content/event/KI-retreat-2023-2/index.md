@@ -1,6 +1,6 @@
 ---
-title: "KI retreat May 25th 2023"
-event: "KI retreat May 25th 2023"
+title: "KI+Scale MoDL retreat May 25th 2023"
+event: "KI+Scale MoDL retreat May 25th 2023"
 subtitle: ""
 location: ""
 
@@ -37,6 +37,7 @@ draft: false
 ---
 
 ## Organizers
+  * Zaid Harchaoui
   * Soumik Pal
 
 ## Schedule
@@ -47,6 +48,25 @@ draft: false
   * **14:00 - 15:10**: Gaoqian Xu (UW Econ) - Student presentation
   * **15:20 - 16:20**: Stefan Steinerberge (UW math)
   * **16:30 - 17:10**: Raghav Somani (UW CS) and Raghav Tripathi (UW math) - Student presentation
-  * **17:30 - 18:00**: _Dinner_
+ 
+ ## Abstracts
+ 
+ {{< abstract
+  title="Duality and free boundaries for optimal nonlinear pricing"
+  author="Robert McCann"
+  affiliation="U. Toronto"
+>}}
+The principal-agent problem is an important paradigm in economic theory
+for studying the value of private information;  the nonlinear pricing problem
+faced by a monopolist is one example; others include optimal taxation and auction design.
+For multidimensional spaces of consumers (i.e. agents) and products, Rochet and Chon\'e (1998)   
+reformulated this problem to a concave maximization over the set of convex functions,
+by assuming agent preferences combine bilinearity in the product and agent parameters with a (quasi)linear sensitivity to prices.
+We characterize solutions to this problem by identifying a dual minimization problem.  This duality allows us to reduce
+the solution of the square example of Rochet-Chon\'e to a novel free boundary problem,  giving the first analytical description
+of an overlooked market segment.  
+
+[Based on work with KS Zhang (University of Waterloo)] 
+{{< /abstract >}}
 
 {{< pihotCRG >}}
