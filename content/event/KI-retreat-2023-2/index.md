@@ -46,7 +46,7 @@ draft: false
   * **11:30 - 12:30**: TBA
   * **12:30 - 14:00**: _Lunch_
   * **14:00 - 15:10**: Gaoqian Xu (UW Econ) - Student presentation
-  * **15:20 - 16:20**: Stefan Steinerberge (UW math)
+  * **15:20 - 16:20**: Stefan Steinerberger (UW math)
   * **16:30 - 17:10**: Raghav Somani (UW CS) and Raghav Tripathi (UW math) - Student presentation
  
  ## Abstracts
