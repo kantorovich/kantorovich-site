@@ -69,6 +69,16 @@ of an overlooked market segment.
 [Based on work with KS Zhang (University of Waterloo)] 
 {{< /abstract >}}
 
+{{< abstract
+  title="Wasserstein Mirror Gradient Flows"
+  author="Nabarun Deb"
+  affiliation="KI postdoc, UBC"
+>}}
+In this talk, we study the sequence of marginals obtained from iterations of the Sinkhorn or IPFP algorithm and show that under a suitable time and regularization scaling, the marginals converge to an absolutely continuous curve on the Wasserstein space. The limit is an example of a new family of Wasserstein gradient flows, which we call the Wasserstein mirror flow, a construction inspired from Euclidean mirror flows. We provide examples to show that these flows can have faster convergence rates than usual gradient flows. We also construct a Mckean-Vlasov SDE whose marginal distributions give rise to the same flow. Overall this results in a wide generalization of Langevin diffusions and Fokker-Planck PDEs.
+ 
+[Based on work with Young-Heon Kim (UBC), Soumik Pal (UW), Geoff Schiebinger (UBC)] 
+{{< /abstract >}}
+
  {{< abstract
   title="Quantifying Distributional Model Risk in Relaxed Marginal Problems via Optimal Transport"
   author="Gaoqian Xu"
