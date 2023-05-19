@@ -45,9 +45,9 @@ draft: false
   * **10:15 - 11:15**: Nabarun Deb (UBC+KI) via Zoom.
   * **11:30 - 12:30**: TBA
   * **12:30 - 14:00**: _Lunch_
-  * **14:00 - 15:10**: Gaoqian Xu (UW Econ) - Student presentation
-  * **15:20 - 16:20**: Stefan Steinerberger (UW math)
-  * **16:30 - 17:10**: Raghav Somani (UW CS) and Raghav Tripathi (UW math) - Student presentation
+  * **14:00 - 14:40**: Gaoqian Xu (UW Econ) - Student presentation
+  * **14:50 - 15:50**: Stefan Steinerberger (UW math)
+  * **16:00 - 16:40**: Raghav Somani (UW CS) and Raghav Tripathi (UW math) - Student presentation
  
  ## Abstracts
  
