@@ -2,7 +2,7 @@
 title: "KI+Scale MoDL retreat May 25th 2023"
 event: "KI+Scale MoDL retreat May 25th 2023"
 subtitle: ""
-location: ""
+location: "Husky Union Building (HUB) 145, University of Washington"
 
 summary: |
     KI retreats are local one day conferences where KI members and their research groups get together to socialize and discuss potential collaborations.  
