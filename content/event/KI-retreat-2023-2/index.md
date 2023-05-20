@@ -112,8 +112,6 @@ linear system of equations) and has many of the same properties.
 >}}
 Optimizing functions over (unlabeled) graphs present an interesting and naturally occurring problem in many applications. These optimization problems can be usefully translated into optimizations on graphons as the size of the graphs increases. This enables us to employ more analytical tools, like gradient flows, to study these problems. Similar problems for interacting particle systems are known to converge to gradient flows in Wasserstein space. We develop an analogous theory for gradient flows on graphons, in which the edges of the graph behave as 'particles'. We demonstrate that a wide variety of optimization algorithms produce a deterministic curve on the space of graphons. This can be described by an infinite exchangeable array, whose coordinates are independent McKean-Vlasov type SDEs. In particular, we'll consider paths of a Metropolis-Hastings sampling algorithm on such graphs. This algorithm gives rise to the McKean-Vlasov system in the limit. Specifically, we'll show that, in the asymptotically zero noise case, the system converges exponentially fast towards the minimizer of the Gibbs potential.
 
-
-[Partially joint work with Andrea Ottolini (UW) and Karel Devriendt (Oxford)] 
 {{< /abstract >}}
 
 
