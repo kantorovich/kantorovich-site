@@ -41,9 +41,8 @@ draft: false
   * Soumik Pal
 
 ## Schedule
-  * **9:00  - 10:00**: Robert McCann (University of Toronto) 
-  * **10:15 - 11:15**: Nabarun Deb (UBC+KI) via Zoom.
-  * **11:30 - 12:30**: TBA
+  * **10:00  - 11:00**: Robert McCann (University of Toronto) 
+  * **11:15 - 12:15**: Nabarun Deb (UBC+KI) via Zoom.
   * **12:30 - 14:00**: _Lunch_
   * **14:00 - 14:40**: Gaoqian Xu (UW Econ) - Student presentation
   * **14:50 - 15:50**: Stefan Steinerberger (UW math)
