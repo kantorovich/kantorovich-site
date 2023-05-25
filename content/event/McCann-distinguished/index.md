@@ -8,17 +8,15 @@ speaker:
   institution: The University of Toronto
   url: https://www.math.toronto.edu/mccann/
 abstract: |
-  Robert McCann is a professor of mathematics and Canada Research Chair in
-  Mathematics, Economics and Physics at the University of Toronto.  He is a
-  world leader in the vibrant field of optimal transportation, and has played a
-  pioneering role in its rapid development since the mid 90's. In particular,
-  the notion of displacement convexity, introduced in his PhD thesis, lies
-  behind many of the area's myriad applications.  His distinguished research
-  record has been recognized with many prestigious awards, including (among
-  others) an invited lecture at the 2014 International Congress of
-  Mathematicians, election to the Royal Society of Canada in 2014, the 2017
-  Jeffery-Williams prize of the Canadian Mathematical Society and the 2023 W.T.
-  and Idalia Reid Prize of the Society for Industrial and Applied Mathematics.
+  We prove the agent’s choice will be a locally Lipschitz function of their type
+  in the subclass of principal-agent problems considered by Figalli, Kim, and
+  McCann (2011). Our approach is based on the construction of a suitable
+  comparison potential which allows us to pinch the indirect utility function
+  (whose gradient determines this choice) between parabolas. The original ideas
+  for this proof arose in an earlier, unpublished, result of Caffarelli and
+  Lions for bilinear preferences adapted here to more general quasilinear
+  benefit functions. This represents joint work with Cale Rankin and Kelvin
+  Shuangjian Zhang.
 summary:
 authors:
   - pass
@@ -27,7 +25,7 @@ tags:
   - event
 categories:
   - event
-date: 2023-05-30T15:00:00-06:00
+date: 2023-05-30T15:00:00-07:00
 publishDate: 2022-05-25T09:00:00-06:00
 lastmod: 2023-05-25T11:00:00-09:43
 featured: false
