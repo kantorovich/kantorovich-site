@@ -22,11 +22,11 @@ lastmod: 2023-01-10T10:00:00-08:00
 featured: true
 draft: false
 
-# image:
-#   caption: "KI Retreat - group photo"
-#   focal_point: ""
-#   uri: "retreat_2023.jpg"
-#   preview_only: false
+image:
+  caption: "KI Retreat - group photo"
+  focal_point: ""
+  uri: "groupphoto.jpg"
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -47,7 +47,10 @@ draft: false
   * **14:00 - 14:40**: Gaoqian Xu (UW Econ) - Student presentation
   * **14:50 - 15:50**: Stefan Steinerberger (UW math)
   * **16:00 - 16:40**: Raghav Somani (UW CS) and Raghav Tripathi (UW math) - Student presentation
- 
+
+## Photos
+![](grouphoto.jpg)
+![](lecture1.jpg)
  ## Abstracts
  
  {{< abstract
