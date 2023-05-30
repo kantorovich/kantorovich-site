@@ -25,7 +25,7 @@ draft: false
 image:
   caption: "KI Retreat - group photo"
   focal_point: ""
-  uri: "groupphoto.jpg"
+  uri: "featured.jpg"
   preview_only: false
 
 # Projects (optional).
