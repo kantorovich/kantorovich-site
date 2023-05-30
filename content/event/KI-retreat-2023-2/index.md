@@ -49,7 +49,7 @@ image:
   * **16:00 - 16:40**: Raghav Somani (UW CS) and Raghav Tripathi (UW math) - Student presentation
 
 ## Photos
-![](grouphoto.jpg)
+![](featured.jpg)
 ![](lecture1.jpg)
  ## Abstracts
  
