@@ -46,7 +46,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects:
 url_video:
-url_slides:
+url_slides: poster.pdf
 ---  
 ### Event Details
 #### Reception
