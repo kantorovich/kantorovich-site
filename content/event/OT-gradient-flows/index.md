@@ -5,15 +5,15 @@ subtitle: ""
 location: University of Washington, Seattle & Online
 
 summary: |
-  In the fall term of 2023, Soumik Pal (UW) and Young-Heon Kim (UBC), will offer
-  a graduate course on Optimal Transport + Gradient Flows.  This course is part
-  of the [PIMS Network Wide Graduate Courses](https://courses.pims.math.ca)
-  program and will be accessible remotely.  Students in the PIMS network of
-  Universities will be able to register for credit through the Western Deans
-  Agreement.
+  In the fall term of 2023, [Soumik Pal](/authors/soumik) (UW) and [Young-Heon
+  Kim](/authors/yhkim) (UBC), will offer a graduate course on Optimal Transport
+  + Gradient Flows.  This course is part of the [PIMS Network Wide Graduate
+  Courses](https://courses.pims.math.ca) program and will be accessible
+  remotely.  Students in the PIMS network of Universities will be able to
+  register for credit through the Western Deans Agreement.
 
 
-authors: ["soumik"]
+authors: ["soumik", "yhkim"]
 
 tags:
   - event
@@ -47,6 +47,13 @@ projects: ["pihot"]
 ---
 
 ## Overview
+
+In the fall term of 2023, [Soumik Pal](/authors/soumik) (UW) and [Young-Heon
+Kim](/authors/yhkim) (UBC), will offer a graduate course on Optimal
+Transport + Gradient Flows.  This course is part of the [PIMS Network Wide
+Graduate Courses](https://courses.pims.math.ca) program and will be accessible
+remotely.  Students in the PIMS network of Universities will be able to register
+for credit through the Western Deans Agreement.
 
 This course is on the theory of Wasserstein gradient flows based on the formal
 Riemannian calculus due to Otto. Apart from the classical examples, we will also
