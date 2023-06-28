@@ -39,6 +39,7 @@ image:
 projects: ["pihot"]
 ---
 
+
 Please see the [event
 website](https://web.cvent.com/event/f9cbf674-21dd-4ccd-948b-4bea6874353b/summary)
 for more details or to register.
@@ -68,9 +69,11 @@ for more details or to register.
 
 
 ### Organizing Committee
+![](./image2.png)
 
 * Yanqin Fan (University of Washington, Department of Economics)
 * Alfred Galichon (New York University, Department of Economics)
 * Marc Henry (Pennsylvania State University, Department of Economics)
-* Soumik Pal (University of Washington, Department of Mathematics)
 * Brendan Pass (University of Alberta, Department of Mathematical and Statistical Sciences)
+* Soumik Pal (University of Washington, Department of Mathematics)
+
