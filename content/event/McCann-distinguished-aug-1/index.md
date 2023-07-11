@@ -44,7 +44,7 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -62,6 +62,8 @@ This talk is hybrid so will be available on zoom. To participate remotely,
 please [register via
 zoom](https://ubc.zoom.us/meeting/register/u50pdO2srjotGd19nLG3pZCQxlUdzpf6_azV)
 
+
+![](featured.png)
 
 ### Speaker Biography
 
