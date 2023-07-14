@@ -53,7 +53,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects:
 url_video:
-url_pdf: KI_lecture-Robert_McCann.pdf
+url_pdf: './event/mccann-distinguished-aug-1/KI_lecture-Robert_McCann.pdf'
 ---  
 ### Event Details
 
