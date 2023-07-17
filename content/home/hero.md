@@ -50,6 +50,6 @@ hero_media = "avatar.png"
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
-The Kantorovich Initiative is dedicated towards research and dissemination of modern mathematics of optimal transport towards a wide audience of researchers, students, industry, policy makers and the general public.
+The Kantorovich Initiative is dedicated towards research and dissemination of modern mathematics of optimal transport towards a wide audience of researchers, students, industry, policy makers and the general public. To know more about optimal transport, check out the <span style="text-decoration:underline">[wiki](https://otwiki.xyz)</span> created by students at UC Santa Barbara and maintained by Katy Craig. Contributions are welcome! <span style="text-decoration:underline">https://otwiki.xyz</span>
 
 The group was convened by [Young-Heon Kim (University of British Columbia)](/authors/yhkim/), [Soumik Pal (University of Washington)](/authors/soumik/) and [Brendan Pass (University of Alberta)](/authors/pass/), with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
