@@ -51,9 +51,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-url_video:
+#projects:
+
+url_video: 'https://mathtube.org/lecture/video/nonsmooth-approach-einsteins-theory-gravity'
 url_pdf: './event/mccann-distinguished-aug-1/KI_lecture-Robert_McCann.pdf'
+url_slides: './event/mccann-distinguished-aug-1/slides.pdf'
 ---  
 ### Event Details
 
