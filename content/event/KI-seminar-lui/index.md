@@ -9,13 +9,13 @@ speaker:
 abstract: |
   In this talk, we introduce some recent regularity results of free boundary in
   optimal transportation. Particularly for higher order regularity, when
-  densities are Hölder continuous and domains are C^2, uniformly convex, we
-  obtain the free boundary is C^{2,alpha} smooth. We also consider another model
+  densities are Hölder continuous and domains are $C^2$, uniformly convex, we
+  obtain the free boundary is $C^{2,\alpha}$ smooth. We also consider another model
   case that the target consists of two disjoint convex sets, in which
   singularities of optimal transport mapping arise. Under similar assumptions,
-  we show that the singular set of the optimal mapping is an (n-1)-dimensional
-  C^{2,alpha} regular sub-manifold of R^n. These are based on a series of joint
-  work with Shibing Chen and Xu-Jia Wang.
+  we show that the singular set of the optimal mapping is an $(n-1)$-dimensional
+  $C^{2,\alpha}$ regular sub-manifold of $\mathbb{R}^n$. These are based on a
+  series of joint work with Shibing Chen and Xu-Jia Wang.
 summary:
 authors:
 
