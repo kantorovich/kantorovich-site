@@ -22,6 +22,15 @@ header:
   - **Website**: https://nabarund.github.io/
   - **KI mentors**: [Young-Heon Kim](/authors/yhkim), [Soumik Pal](/authors/soumik), [Geoff Schiebinger](/authors/schiebinger)
   - **Term**: 2022-2023
-  - **Note**: Joins a tenure-track position at the Chicago Booth School of Business from 2023. 
+  - **Note**: Currently in a tenure-track position at the Chicago Booth School of Business.
+ 
+### 2023
+
+* ### Jakwang Kim
+  - **Location**: UBC, Vancouver
+  - **Website**: [https://stat.wisc.edu/staff/kim-jakwang/](https://stat.wisc.edu/staff/kim-jakwang/)
+  - **KI mentors**: [Young-Heon Kim](/authors/yhkim), [Soumik Pal](/authors/soumik), [Geoff Schiebinger](/authors/schiebinger)
+  - **Term**: 2023-2024
+  - **Note**: 
 
  
