@@ -23,7 +23,7 @@ categories:
   - event
   - graduate course
 
-date: 2023-08-28T08:00:00-08:00
+date: 2023-08-29T08:00:00-08:00
 date_end: 2023-12-07T17:00:00-08:00
 all_day: true
 
@@ -103,7 +103,7 @@ course as a non-registered student.
 ### Part I
 Part I is a recap of the basics of Monge-Kantorovich optimal transport theory.
 _You do NOT need to take this part if you are already familiar with the basics_.
-This will be covered between **AUG 28** and **SEP 26**. Topics covered during
+This will be covered between **AUG 29** and **SEP 26**. Topics covered during
 this period are:
 
 * linear programming
