@@ -102,7 +102,7 @@ course as a non-registered student.
 
 ### Part I
 Part I is a recap of the basics of Monge-Kantorovich optimal transport theory.
-_You do NOT need to take this part if you are already familiar with the basics_.
+_For those of you who are already familiar with basics of OT, this part will be mostly reviews. The lecture videos will be recorded and provided for your review._.
 This will be covered between **AUG 29** and **SEP 26**. Topics covered during
 this period are:
 
