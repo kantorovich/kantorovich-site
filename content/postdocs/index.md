@@ -28,8 +28,8 @@ header:
 
 * ### Jakwang Kim
   - **Location**: UBC, Vancouver
-  - **Website**: [https://stat.wisc.edu/staff/kim-jakwang/](https://stat.wisc.edu/staff/kim-jakwang/)
-  - **KI mentors**: [Young-Heon Kim](/authors/yhkim), [Soumik Pal](/authors/soumik), [Geoff Schiebinger](/authors/schiebinger)
+  - **Website**: [https://sites.google.com/view/jakwangkim/home](https://sites.google.com/view/jakwangkim/home)
+  - **KI mentors**: [Khanh Dao Duc](/authors/kdaoduc), [Young-Heon Kim](/authors/yhkim), [Soumik Pal](/authors/soumik), [Geoff Schiebinger](/authors/schiebinger)
   - **Term**: 2023-2024
   - **Note**: 
 
