@@ -11,7 +11,7 @@ summary: |
   Institute for the Mathematical Sciences](https://www.pims.math.ca/) are
   organizing a [Symposium on Optimal Transport and Applications](https://www.aub.edu.lb/cams/Pages/CAMS-PIMS-Symposium-on-Optimal-Transport-and-Applications.aspx) at the <em>American University of Beirut</em> from <em>November 6-11, 2023</em>. [Registration is now open](https://forms.office.com/r/v5wLtnmEz6). The event will include minicourses on the following topics
 
-    * Introductory course on Optimal Transport _(Brendan Pass, University of
+    * Introductory course on Optimal Transport _([Brendan Pass](/authors/pass), University of
       Alberta)_
     * Numberical Methods in Optimal Transport _(Quentin Mérigot, Paris-Saclay
       University)_
@@ -53,7 +53,9 @@ image:
 
 {{< callout >}}
 _For full details of this event, please see the [event
-webpage](https://www.aub.edu.lb/cams/Pages/CAMS-PIMS-Symposium-on-Optimal-Transport-and-Applications.aspx)_
+webpage](https://www.aub.edu.lb/cams/Pages/CAMS-PIMS-Symposium-on-Optimal-Transport-and-Applications.aspx)._
+
+_Registration is now open [HERE](https://forms.office.com/pages/responsepage.aspx?id=Glu6x7ZB6UOhIG_2VK2hN0Ju-es7srdDsFaThXpquXNUNlVXMkpUMFhQMUQ3TDBVTEJSUEs3TDJCQi4u)_
 {{< /callout >}}
 
 Optimal Transport theory emerged more than two centuries ago as an engineering
@@ -84,7 +86,7 @@ learning, weather prediction, neuroscience, computer vision, and astrophysics.
 
 ### Mini Courses
  * **Introductory course on Optimal Transport**
-   - _Brendan Pass (Department of Mathematical and Statistical Sciences, University of Alberta)_
+   - _[Brendan Pass](/authors/pass) (Department of Mathematical and Statistical Sciences, University of Alberta)_
  * **Numerical methods in Optimal  Transport**
    - _Quentin Mérigot (Mathematical Institute, Paris-Saclay University)_
  * **Stochastic Optimal Transport and Finance**
@@ -96,9 +98,9 @@ learning, weather prediction, neuroscience, computer vision, and astrophysics.
  * Yann Brenier _(CNRS, France)_
  * Guillaume Carlier _(Centre de Recherche en Mathématiques de la Décision, Université Paris Dauphine, France)_
  * Wilfrid Gangbo _(Department of Mathematics, The University of California, Los Angeles, USA)_
- * Nassif Ghoussoub _(Department of Mathematics, the University of British Columbia, Canada)_
+ * [Nassif Ghoussoub](/authors/nassif) _(Department of Mathematics, the University of British Columbia, Canada)_
  * Robert McCann _(Department of Mathematics, University of Toronto, Canada)_
- * Soumik Pal _(Department of Mathematics, University of Washington, USA)_
+ * [Soumik Pal](/authors/soumik) _(Department of Mathematics, University of Washington, USA)_
 
 ### Local Committee
  * Victor Araman _(the Olayan School of Business, American University of
