@@ -26,6 +26,7 @@ authors: ["soumik", "pass"]
 
 date: 2023-11-06T09:00:00+0300
 date_end: 2023-11-10T17:00:00+0300
+publishDate: 2023-08-30T09:00:00
 all_day: false
 
 categories:
