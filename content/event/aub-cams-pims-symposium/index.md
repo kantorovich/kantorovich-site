@@ -13,7 +13,7 @@ summary: |
 
     * Introductory course on Optimal Transport _([Brendan Pass](/authors/pass), University of
       Alberta)_
-    * Numberical Methods in Optimal Transport _(Quentin Mérigot, Paris-Saclay
+    * Numerical Methods in Optimal Transport _(Quentin Mérigot, Paris-Saclay
       University)_
     * Stochastic Optimal Transport and Finance _(Walter Schachermayer, University
       of Vienna)_
