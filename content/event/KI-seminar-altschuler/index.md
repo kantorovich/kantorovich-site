@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "TBA"
+title: "Shifted divergences for sampling, privacy, and beyond"
 event: KI Seminar
 location: "Online (zoom)"
 registration_info: |
@@ -10,7 +10,9 @@ speaker:
   institution: U Penn
   url: 'https://statistics.wharton.upenn.edu/profile/alts/'
 abstract: |
-  TBA
+  Shifted divergences provide a principled way of making information theoretic divergences (e.g. KL) geometrically aware via optimal transport smoothing. In this talk, I will argue that shifted divergences provide a powerful approach towards unifying optimization, sampling, privacy, and beyond. For concreteness, I will demonstrate these connections via three recent highlights. (1) Characterizing the differential privacy of Noisy-SGD, the standard algorithm for private convex optimization. (2) Characterizing the mixing time of the Langevin Algorithm to its stationary distribution for log-concave sampling. (3) The fastest high-accuracy algorithm for sampling from log-concave distributions. A recurring theme is a certain notion of algorithmic stability, and the central technique for establishing this is shifted divergences.
+
+Based on joint work with Kunal Talwar, and with Sinho Chewi.
   
 summary: ""
 authors: 
