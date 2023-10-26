@@ -1,11 +1,17 @@
 ---
-title: "CAMS-PIMS Symposium on Optimal Transport and Applications"
+title: "(CANCELLED) CAMS-PIMS Symposium on Optimal Transport and Applications"
 event:
 event_url: https://www.aub.edu.lb/cams/Pages/CAMS-PIMS-Symposium-on-Optimal-Transport-and-Applications.aspx
 location: American University of Beirut
 subtitle: ""
 
 summary: |
+
+  {{< callout >}}
+  _Unfortunately this event has been cancelled. When it is rescheduled, it will
+  be re-added to this website._
+  {{< /callout >}}
+
   The [Center for Advanced
   Mathematics](https://www.aub.edu.lb/cams/Pages/default.aspx) and the [Pacific
   Institute for the Mathematical Sciences](https://www.pims.math.ca/) are
@@ -53,10 +59,8 @@ image:
 ### Event Details
 
 {{< callout >}}
-_For full details of this event, please see the [event
-webpage](https://www.aub.edu.lb/cams/Pages/CAMS-PIMS-Symposium-on-Optimal-Transport-and-Applications.aspx)._
-
-_Registration is now open [HERE](https://forms.office.com/pages/responsepage.aspx?id=Glu6x7ZB6UOhIG_2VK2hN0Ju-es7srdDsFaThXpquXNUNlVXMkpUMFhQMUQ3TDBVTEJSUEs3TDJCQi4u)_
+_Unfortunately this event has been cancelled. When it is rescheduled, it will be
+re-added to this website._
 {{< /callout >}}
 
 Optimal Transport theory emerged more than two centuries ago as an engineering
