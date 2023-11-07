@@ -12,7 +12,7 @@ abstract:
 authors: ["soumik"]
 
 date: 2024-04-17T09:00:00-07:00
-date_end: 2023-04-19T17:00:00-07:00
+date_end: 2024-04-19T17:00:00-07:00
 all_day: true
 
 categories:
@@ -43,7 +43,7 @@ projects: ["pihot"]
  * Katy Craig (University of California, Santa Barbara, Department of
    Mathematics)
  * Yunan Yang (Cornell University, Department of Mathematics)
- * Li Wang
+ * Li Wang (University of Minnesota, Department of Mathematics)
  * Yanqin Fan (University of Washington, Department of Economics)
 
 ### Confirmed Speakers
