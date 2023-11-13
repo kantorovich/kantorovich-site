@@ -9,8 +9,7 @@ speaker:
   name: Giuseppe Savare
   institution: Bocconi University, Italy
   url: 'https://dec.unibocconi.eu/people/giuseppe-savare'
-abstract: |
-I will try to present an overview of some results of unbalanced optimal transport for positive measures with different total masses, showing the crucial role of the so-called cone representation and of the corresponding homogeneous marginals. The cone perspective naturally arises in the convex-relaxation approach to optimal transport; in the more specific case of the Hellinger-Kantorovich (aka Fisher-Rao) metric, it provides a natural tool for representing solutions of the dual dynamical formulation via Hamilton-Jacobi equations, and it is very useful for studying the geodesic convexity of entropy type functionals. (In collaboration with M. Liero, A. Mielke, G. Sodini)
+abstract: I will try to present an overview of some results of unbalanced optimal transport for positive measures with different total masses, showing the crucial role of the so-called cone representation and of the corresponding homogeneous marginals. The cone perspective naturally arises in the convex-relaxation approach to optimal transport; in the more specific case of the Hellinger-Kantorovich (aka Fisher-Rao) metric, it provides a natural tool for representing solutions of the dual dynamical formulation via Hamilton-Jacobi equations, and it is very useful for studying the geodesic convexity of entropy type functionals. (In collaboration with M. Liero, A. Mielke, G. Sodini)
 
 
 summary: ""
