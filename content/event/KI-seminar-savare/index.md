@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Unbalanced Optimal Transport: Convex Relaxation and Dynamic Perspectives."
+title: "Unbalanced Optimal Transport: Convex Relaxation and Dynamic Perspectives"
 event: KI Seminar
 location: "Online (zoom)"
 registration_info: |
