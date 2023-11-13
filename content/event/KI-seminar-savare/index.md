@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "TBA"
+title: "Unbalanced Optimal Transport: Convex Relaxation and Dynamic Perspectives."
 event: KI Seminar
 location: "Online (zoom)"
 registration_info: |
@@ -10,7 +10,8 @@ speaker:
   institution: Bocconi University, Italy
   url: 'https://dec.unibocconi.eu/people/giuseppe-savare'
 abstract: |
-  TBA
+I will try to present an overview of some results of unbalanced optimal transport for positive measures with different total masses, showing the crucial role of the so-called cone representation and of the corresponding homogeneous marginals. The cone perspective naturally arises in the convex-relaxation approach to optimal transport; in the more specific case of the Hellinger-Kantorovich (aka Fisher-Rao) metric, it provides a natural tool for representing solutions of the dual dynamical formulation via Hamilton-Jacobi equations, and it is very useful for studying the geodesic convexity of entropy type functionals. (In collaboration with M. Liero, A. Mielke, G. Sodini)
+
 
 summary: ""
 authors: 
