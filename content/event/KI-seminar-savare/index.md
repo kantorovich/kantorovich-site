@@ -36,6 +36,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-#url_video:
-#url_slides:
+url_video: https://mathtube.org/lecture/video/unbalanced-optimal-transport-convex-relaxation-and-dynamic-perspectives
+url_slides: GS-KI-2023.pdf
 ---
