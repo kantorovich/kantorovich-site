@@ -36,6 +36,7 @@ tags:
 categories:
   - event
 date: 2024-02-08T10:00:00-08:00
+publishDate: 2024-01-08T10:00:00-08:00
 featured: false
 draft: false
 # Featured image
