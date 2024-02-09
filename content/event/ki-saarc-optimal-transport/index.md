@@ -50,7 +50,7 @@ Website](https://sites.google.com/view/ki-saarc-optimal-transport/home).
 
 To apply to attend this event, please complete the [registration
 form](https://ubc.ca1.qualtrics.com/jfe/form/SV_4TJ7Fe2M0Sdc9TM). Applicants
-will be contacted about the status of their applications by <DATE>.
+will be contacted about the status of their applications by April 15th.
 
 ### Lecture Series
   * _Beatrice Acciaio (ETH Zurich)_
