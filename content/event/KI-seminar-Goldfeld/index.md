@@ -53,7 +53,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video: https://mathtube.org/lecture/video/gromov-wasserstein-alignment-statistical-and-computational-advancements-duality
-url_slides:
+url_slides: Talk_GW_short.pdf
 ---
 ### Speaker Biography
 Ziv Goldfeld is an Assistant Professor in the School of Electrical and Computer
