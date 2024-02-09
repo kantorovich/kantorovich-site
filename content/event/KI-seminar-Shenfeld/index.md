@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "KI Seminar: Yair Shelfeld"
+title: "KI Seminar: Yair Shenfeld"
 event: KI Seminar
 location: "Online (zoom)"
 registration_info: |
