@@ -52,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video:
+url_video: https://mathtube.org/lecture/video/gromov-wasserstein-alignment-statistical-and-computational-advancements-duality
 url_slides:
 ---
 ### Speaker Biography
