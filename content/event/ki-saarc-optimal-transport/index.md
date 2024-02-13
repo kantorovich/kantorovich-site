@@ -1,6 +1,6 @@
 ---
 title: "Summer School on Optimal Transport, Stochastic Analysis and Applications to Machine Learning"
-event:
+event: "KI-SAARC Summer School in Optimal Transport 2024"
 event_url: https://sites.google.com/view/ki-saarc-optimal-transport/
 location: Korea Advanced Institute of Science & Technology (KAIST)
 subtitle: ""
@@ -24,16 +24,13 @@ all_day: false
 
 categories:
   - event
+  - summer school
 tags:
   - event
+  - summer school
 
-featured: false
+featured: true
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -51,6 +48,14 @@ Website](https://sites.google.com/view/ki-saarc-optimal-transport/home).
 To apply to attend this event, please complete the [registration
 form](https://ubc.ca1.qualtrics.com/jfe/form/SV_4TJ7Fe2M0Sdc9TM). Applicants
 will be contacted about the status of their applications by April 15th.
+
+[{{<figure
+  src="./KI-SAARC-SummerSchool.png"
+  alt="2024 KI SAARC Summer School in Optimal Transport"
+  width="75%"
+  caption="Poster for 2024 KI SAARC Summer School in Optimal Transport"
+>}}](./KI-SAARC-SummerSchool.pdf)
+
 
 ### Lecture Series
   * _Beatrice Acciaio (ETH Zurich)_
