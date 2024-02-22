@@ -35,4 +35,4 @@ INRIA Saclay team [Particle methods using Monge-Ampère
 (PARMA)](https://www.inria.fr/en/parma).   Our joint
 activities will be co-sponsored by the KI and INRIA through the new Associate
 team KARMA (KAntorovich and paRMA).  Further details will be forthcoming.
-Contact [Brendan Pass](./authors/pass) for more details.
+Contact [Brendan Pass](/authors/pass) for more details.
