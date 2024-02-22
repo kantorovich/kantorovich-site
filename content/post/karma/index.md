@@ -28,8 +28,6 @@ image:
 projects: []
 ---
 
-### Kantorovich Initiative Inaugural Postdoc Position
-
 The Kantorovich Initiative is excited to announce a new partnership with the
 INRIA Saclay team [Particle methods using Monge-Ampère
 (PARMA)](https://www.inria.fr/en/parma).   Our joint
