@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "KI Seminar: Yair Shenfeld"
+title: "Density functional theory and multi-marginal optimal transport: Introduction"
 event: KI Seminar
 location: "Online (zoom)"
 registration_info: |
@@ -10,7 +10,16 @@ speaker:
   institution: Brown University
   url: 'https://www.yairshenfeld.com/'
 abstract: |
-  TBA
+  Density functional theory (DFT) is one of the workhorses of quantum chemistry
+  and material science. In principle, the joint probability of finding a
+  specific electron configuration in a material is governed by a Schrödinger
+  wave equation. But numerically computing this joint probability is
+  computationally infeasible, due to the complexity scaling exponentially in the
+  number of electrons. DFT aims to circumvent this difficulty by focusing on the
+  marginal probability of one electron. In the last decade, a connection was
+  found between DFT and a multi-marginal optimal transport problem with a
+  repulsive cost. I will give a brief introduction to this topic, including some
+  open problems, and recent progress.
 summary: ""
 authors: 
 tags:
