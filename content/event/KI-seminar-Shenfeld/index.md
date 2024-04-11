@@ -43,8 +43,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video:
-url_slides:
+url_video: https://www.mathtube.org/lecture/video/density-functional-theory-and-multi-marginal-optimal-transport-introduction
+url_slides: Shenfeld-slides.pdf
 ---
 ### Speaker Biography
 Yair Shenfeld is an Assistant Professor of Applied Mathematics at Brown
