@@ -61,19 +61,34 @@ projects: ["pihot"]
  * Yuan Gao (Purdue University, Department of Mathematics)
  * Siting Liu (University of California, Los Angeles, Department of Mathematics)
  * Jiao Jiao Fan (Georgia Institute of Technology, School of Mathematics)
+ * Maria Oprea (Cornell University, Mathematics)
+ * Yao Xie (Georgia Institute of Technology, Mathematics)
 
 ### Workshop Schedule
 
-#### Wednesday
+## Wednesday
 
- * 8:30-9:15: Breakfast
- * 9:15-9:30: Welcome
- * 9:30-10:30am: Spotlight -  Caroline Moosmuller
- * 10:30-11am: Coffee Break
- * 11:00-12:00: Spotlight
-   {{< abstract
-   title="Gradient flows and PDEs"
+ * <div class="section-subheading article-title">8:30-9:15: Breakfast</div>
+ * <div class="section-subheading article-title">9:15-9:30: Welcome</div>
+ * {{< abstract
+   title="9:30-10:30am: An introduction to Optimal Transport"
+   author="Caroline Moosmuller"
+   affiliation="University of North Carolina"
+   >}}
+   This talk provides an overview of optimal transport intended to establish a
+   foundation for the conference. Key topics discussed include Monge,
+   Kantorovich, and Benamou-Brenier formulations, Wasserstein distances, and
+   linearized optimal transport. We will also explore domains that have
+   significantly benefitted from optimal transport-related tools, including data
+   science, machine learning, and biology, while also pointing to current
+   research direction in these fields.
+   {{< /abstract >}}
+
+ * <div class="section-subheading article-title">10:30-11am: Coffee Break</div>
+ * {{< abstract
+   title="11:00-12:00: Gradient flows and PDEs"
    author="Olga Turanova"
+   affiliation="Michigan State University"
    >}}
    In the first half of the talk I will provide a very brief introduction to
    gradient flows on the space of probability measures, with an emphasis on the
@@ -82,20 +97,26 @@ projects: ["pihot"]
    Elamvazhuthi, and Haberland) on a deterministic particle approximation of the
    inhomogeneous porous medium equation.
    {{< /abstract >}}
- * 12:00-1:40: Lunch
- * 1:40-2:00: Group Photo
- * 2:00-3:00: Discussion: What should be the future goals for Women in OT?
- * 3:30-4:00: Coffee
- * 4:00-5:00: Spotlight - Xiaohong Chen
- * 6:00pm: Conference Dinner
+ * <div class="section-subheading article-title">12:00-1:40: Lunch</div>
+ * <div class="section-subheading article-title">1:40-2:00: Group Photo</div>
+ * <div class="section-subheading article-title">2:00-3:00: Discussion: What should be the future goals for Women in OT?</div>
+ * <div class="section-subheading article-title">3:30-4:00: Coffee</div>
+ * {{< abstract
+   title="4:00-5:00: TBD"
+   author="Xiaohong Chen"
+   affiliation="Yale University"
+   >}}
+   TBD
+   {{< /abstract >}}
+ * <div class="section-subheading article-title">6:00pm: Conference Dinner</div>
 
-#### Thursday
+## Thursday
 
- * 8:00-9am: Breakfast
- * 9:00-9:30: Short Lecture 1 (25+5)
-   {{< abstract 
-   title="Wasserstein gradient flows in an inhomogeneous media: convergence and the effective Wasserstein metric"
+ * <div class="section-subheading article-title">8:00-9am: Breakfast</div>
+ * {{< abstract 
+   title="9:00-9:30: Wasserstein gradient flows in an inhomogeneous media: convergence and the effective Wasserstein metric"
    author="Yuan Gao"
+   affiliation="Purdue University"
    >}}
    The Fokker-Planck equation with fast oscillated coefficients can be regarded
    as a gradient flow in a Wasserstein space with  inhomogeneous dissipation
@@ -106,10 +127,10 @@ projects: ["pihot"]
    and the direct Gromov-Hausdorff limiting Wasserstein distance will also be
    discussed.
    {{< /abstract >}}
- * 9:30-10:00: Three flash talks (5+2) - Xue Feng, Claire Murphy, Maria Oprea
-   {{< abstract
-   title="Probabilistic Taken’s Embedding through the Wasserstein Tangent Space"
+ * {{< abstract
+   title="9:30-10:00: Probabilistic Taken’s Embedding through the Wasserstein Tangent Space"
    author="Maria Oprea"
+   affiliation="Cornell University"
    >}}
    In this work, we generalize the Takens embedding theorem to the Eulerian
    framework by considering an embedding between Wasserstein spaces. We show
@@ -119,11 +140,12 @@ projects: ["pihot"]
    inherently stochastic. Moreover, the weaker condition we impose when learning
    the delay embedding map can help improve the algorithm’s stability.
    {{< /abstract >}}
- * 10:30-11:00am: Coffee Break
- * 11:00-12:00: Three 20 minute (15+5) lectures - Elisa Negrini, Siting Liu, Ruiyu Han
+ * <div class="section-subheading article-title">10:30-11:00am: Coffee Break</div>
+ * <div class="section-subheading article-title">11:00-12:00: Three 20 minute (15+5) lectures</div>
    {{< abstract
    title="HV geometry for signal processing"
    author="Ruiyu Han"
+   affiliation="Carnegie Mellon"
    >}}
    I first introduce a Riemann geometry on the space of signals which allows
    both horizontal and vertical deformations and then introduce a numerical
@@ -132,6 +154,7 @@ projects: ["pihot"]
    {{< abstract
    title="Score-Based Generative Models through the Lens of Wasserstein Proximal Operators"
    author="Siting Liu"
+   affiliation="University of California, Los Angeles"
    >}}
    In this presentation, I will explore how score-based generative models (SGMs)
    function as the Wasserstein proximal operator (WPO) of cross-entropy. This
@@ -147,6 +170,7 @@ projects: ["pihot"]
    {{< abstract
    title="Applications of no-collision transportation maps in manifold learning"
    author="Elisa Negrini"
+   affiliation="University of California, Los Angeles"
    >}}
    We investigate applications of no-collision transportation maps introduced by
    Nurbekyan et al. in 2020 in manifold learning for image data. Recently, there
@@ -167,82 +191,82 @@ projects: ["pihot"]
    manifold learning tasks compared to other OT and Euclidean-based methods at a
    fraction of the computational cost.
    {{< /abstract >}}
- * 12:00-1:00pm: Lunch
+ * <div class="section-subheading article-title">12:00-1:00pm: Lunch</div>
 
 
 
-#### Friday
+## Friday
 
- *  8:00-9am: Breakfast
- *  9:00-9:30: Short Lecture 1 (25+5) - Jingwei Hu
-    {{< abstract
-    title="Structure-Preserving Particle Method for the Vlasov-Maxwell-Landau Equation"
-    author="Jingwei Hu"
-    >}}
-    The Vlasov-Maxwell-Landau equation is often regarded as the first-principle
-    physics model for plasmas. In this talk, we introduce a novel particle
-    method for this equation that collectively models particle transport,
-    electromagnetic field effects, and Coulomb collisions. The method arises
-    from a regularization of the variational formulation of the Landau collision
-    operator, leading to a discretization of the operator that conserves mass,
-    momentum, and energy, as well as dissipates the entropy. The collisional
-    effects appear as a fully deterministic effective force, which can be
-    naturally coupled with the classical particle-in-cell (PIC) method. We
-    validate the method on several plasma benchmark tests, including collisional
-    Landau damping, two-stream instability, and Weibel instability.
-    {{< /abstract >}}
- *  9:30-10:00: Short Lecture 2 (25+5) - Silvana Pesenti 
-    {{< abstract
-    title="Optimal Transport Divergences induced by Scoring Functions"
-    author="Silvia Pesenti"
-    >}}
-    We employ scoring functions, used in statistics for eliciting risk
-    functionals, as cost functions in the Monge-Kantorovich (MK) optimal
-    transport problem. The novel MK divergences, which can be efficiently
-    calculated, open an array of applications in robust stochastic optimisation.
-    We derive sharp bounds on distortion risk measures under a
-    Bregman-Wasserstein divergence constraint, and solve for cost-efficient
-    portfolio strategies under benchmark constraints.This gives raise to a rich
-    variety of novel asymmetric MK divergences, which subsume the family of
-    Bregman-Wasserstein divergences. We show that for distributions on the real
-    line, the comonotonic coupling is optimal for the majority the new
-    divergences. Specifically, we derive the optimal coupling of the MK
-    divergences induced by functionals including the mean, generalised
-    quantiles, expectiles, and shortfall measures. Furthermore, we show that
-    while any elicitable law-invariant convex risk measure gives raise to
-    infinitely many MK divergences, the comonotonic coupling is
-    simultaneously optimal.
-    {{< /abstract }}
- *  10:30-11:00am: Coffee Break
- *  11:00-11:30: Short Lecture 3 (25+5) - Christina Frederick 
-    {{< abstract
-    title="Multi-robot motion planning with intermittent diffusion"
+ * <div class="section-subheading article-title">8:00-9am: Breakfast</div>
+ * {{< abstract
+   title="9:00-9:30: Structure-Preserving Particle Method for the Vlasov-Maxwell-Landau Equation"
+   author="Jingwei Hu"
+   affiliation="University of Washington"
+   >}}
+   The Vlasov-Maxwell-Landau equation is often regarded as the first-principle
+   physics model for plasmas. In this talk, we introduce a novel particle
+   method for this equation that collectively models particle transport,
+   electromagnetic field effects, and Coulomb collisions. The method arises
+   from a regularization of the variational formulation of the Landau collision
+   operator, leading to a discretization of the operator that conserves mass,
+   momentum, and energy, as well as dissipates the entropy. The collisional
+   effects appear as a fully deterministic effective force, which can be
+   naturally coupled with the classical particle-in-cell (PIC) method. We
+   validate the method on several plasma benchmark tests, including collisional
+   Landau damping, two-stream instability, and Weibel instability.
+   {{< /abstract >}}
+ * {{< abstract
+   title="9:30-10:00: Optimal Transport Divergences induced by Scoring Functions"
+   author="Silvia Pesenti"
+   affiliation="University of Toronto"
+   >}}
+   We employ scoring functions, used in statistics for eliciting risk
+   functionals, as cost functions in the Monge-Kantorovich (MK) optimal
+   transport problem. The novel MK divergences, which can be efficiently
+   calculated, open an array of applications in robust stochastic optimisation.
+   We derive sharp bounds on distortion risk measures under a
+   Bregman-Wasserstein divergence constraint, and solve for cost-efficient
+   portfolio strategies under benchmark constraints.This gives raise to a rich
+   variety of novel asymmetric MK divergences, which subsume the family of
+   Bregman-Wasserstein divergences. We show that for distributions on the real
+   line, the comonotonic coupling is optimal for the majority the new
+   divergences. Specifically, we derive the optimal coupling of the MK
+   divergences induced by functionals including the mean, generalised
+   quantiles, expectiles, and shortfall measures. Furthermore, we show that
+   while any elicitable law-invariant convex risk measure gives raise to
+   infinitely many MK divergences, the comonotonic coupling is
+   simultaneously optimal.
+   {{< /abstract >}}
+ * <div class="section-subheading article-title">10:30-11:00am: Coffee Break</div>
+ * {{< abstract
+   title="11:00-11:30: Multi-robot motion planning with intermittent diffusion"
     author="Christina Frederick"
-    >}}
-    This work applies ideas from optimal transport to problems in robotics in
-    which swarms of mobile sensors must achieve collective tasks, such as
-    path-planning. We develop an algorithm with guaranteed convergence due to
-    optimal transport and accelerate the method using intermittent diffusion.
-    Doing this prevents common problems such as deadlocks, local minima, and
-    less-than-ideal ending distributions.
-    {{< /abstract >}}
- *  11:30-12:00: Short Lecture 4 (25+5) - Yao Xie
-    {{< abstract
-    title="Computing high-dimensional optimal transport by flow neural networks"
-    author="Yao Xie"
-    >}}
-    Flow-based models are widely used in generative tasks, including normalizing
-    flow, where a neural network transports from a data distribution P to a
-    normal distribution. This work develops a flow-based model that transports
-    from P to an arbitrary Q where both distributions are only accessible via
-    finite samples. We propose to learn the dynamic optimal transport between P
-    and Q by training a flow neural network. The model is trained to optimally
-    find an invertible transport map between P and Q by minimizing the transport
-    cost. The trained optimal transport flow subsequently allows for performing
-    many downstream tasks, including infinitesimal density ratio estimation
-    (DRE) and distribution interpolation in the latent space for generative
-    models. The effectiveness of the proposed model on high-dimensional data is
-    demonstrated by strong empirical performance on high-dimensional DRE, OT
-    baselines, and image-to-image translation.
-    {{< /abstract >}}
- *  12:00-2:00: Lunch, discussion, and departure
+    affiliation="New Jersey Institute of Technology"
+   >}}
+   This work applies ideas from optimal transport to problems in robotics in
+   which swarms of mobile sensors must achieve collective tasks, such as
+   path-planning. We develop an algorithm with guaranteed convergence due to
+   optimal transport and accelerate the method using intermittent diffusion.
+   Doing this prevents common problems such as deadlocks, local minima, and
+   less-than-ideal ending distributions.
+   {{< /abstract >}}
+ * {{< abstract
+   title="11:30-12:00: Computing high-dimensional optimal transport by flow neural networks"
+   author="Yao Xie"
+   affiliation="Georgia Institute of Technology"
+   >}}
+   Flow-based models are widely used in generative tasks, including normalizing
+   flow, where a neural network transports from a data distribution P to a
+   normal distribution. This work develops a flow-based model that transports
+   from P to an arbitrary Q where both distributions are only accessible via
+   finite samples. We propose to learn the dynamic optimal transport between P
+   and Q by training a flow neural network. The model is trained to optimally
+   find an invertible transport map between P and Q by minimizing the transport
+   cost. The trained optimal transport flow subsequently allows for performing
+   many downstream tasks, including infinitesimal density ratio estimation
+   (DRE) and distribution interpolation in the latent space for generative
+   models. The effectiveness of the proposed model on high-dimensional data is
+   demonstrated by strong empirical performance on high-dimensional DRE, OT
+   baselines, and image-to-image translation.
+   {{< /abstract >}}
+ * <div class="section-subheading article-title">12:00-2:00: Lunch, discussion, and departure</div>
