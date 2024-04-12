@@ -63,6 +63,7 @@ projects: ["pihot"]
  * Jiao Jiao Fan (Georgia Institute of Technology, School of Mathematics)
  * Maria Oprea (Cornell University, Mathematics)
  * Yao Xie (Georgia Institute of Technology, Mathematics)
+ * Jiajin Li (Stanford University, Mathematics)
 
 ### Workshop Schedule
 
@@ -71,7 +72,7 @@ projects: ["pihot"]
  * <div class="section-subheading article-title">8:30-9:15: Breakfast</div>
  * <div class="section-subheading article-title">9:15-9:30: Welcome</div>
  * {{< abstract
-   title="9:30-10:30am: An introduction to Optimal Transport"
+   title="9:30-10:30: An introduction to Optimal Transport"
    author="Caroline Moosmuller"
    affiliation="University of North Carolina"
    >}}
@@ -84,7 +85,7 @@ projects: ["pihot"]
    research direction in these fields.
    {{< /abstract >}}
 
- * <div class="section-subheading article-title">10:30-11am: Coffee Break</div>
+ * <div class="section-subheading article-title">10:30-11:00: Coffee Break</div>
  * {{< abstract
    title="11:00-12:00: Gradient flows and PDEs"
    author="Olga Turanova"
@@ -100,6 +101,13 @@ projects: ["pihot"]
  * <div class="section-subheading article-title">12:00-1:40: Lunch</div>
  * <div class="section-subheading article-title">1:40-2:00: Group Photo</div>
  * <div class="section-subheading article-title">2:00-3:00: Discussion: What should be the future goals for Women in OT?</div>
+ * {{< abstract
+   title="3:00-3:30: TBD"
+   author="Jiajin Li"
+   affiliation="Stanford University"
+   >}}
+   TBD
+   {{< /abstract >}}
  * <div class="section-subheading article-title">3:30-4:00: Coffee</div>
  * {{< abstract
    title="4:00-5:00: TBD"
@@ -108,11 +116,11 @@ projects: ["pihot"]
    >}}
    TBD
    {{< /abstract >}}
- * <div class="section-subheading article-title">6:00pm: Conference Dinner</div>
+ * <div class="section-subheading article-title">6:00: Conference Dinner</div>
 
 ## Thursday
 
- * <div class="section-subheading article-title">8:00-9am: Breakfast</div>
+ * <div class="section-subheading article-title">8:30-9: Breakfast</div>
  * {{< abstract 
    title="9:00-9:30: Wasserstein gradient flows in an inhomogeneous media: convergence and the effective Wasserstein metric"
    author="Yuan Gao"
@@ -128,7 +136,28 @@ projects: ["pihot"]
    discussed.
    {{< /abstract >}}
  * {{< abstract
-   title="9:30-10:00: Probabilistic Taken’s Embedding through the Wasserstein Tangent Space"
+   title="9:30-10:00: TBD"
+   author="Xue Feng"
+   affiliation="University of California, Davis"
+   >}}
+   TBD
+   {{< /abstract >}}
+   {{< abstract
+   title="Sampling via Nonlinear Diffusion Equations"
+   author="Claire Murphy"
+   affiliation="University of California, Santa Barbara"
+   >}}
+   Given a target probability measure, a fundamental problem is to approximate
+   it with samples; that is, to create empirical measures that converge to the
+   target measure. Classically, the method of Langevin dynamics provides a
+   stochastic differential equation for evolving the particles in an empirical
+   measure to this target measure, at least when the target measure is
+   log-concave. In this talk, I will introduce a new approach, based on
+   nonlinear diffusion, that allows us to consider a broader class of target
+   probability measures via the generalized Fokker-Planck equation.
+   {{< /abstract >}}
+   {{< abstract
+   title="Probabilistic Taken’s Embedding through the Wasserstein Tangent Space"
    author="Maria Oprea"
    affiliation="Cornell University"
    >}}
@@ -140,35 +169,8 @@ projects: ["pihot"]
    inherently stochastic. Moreover, the weaker condition we impose when learning
    the delay embedding map can help improve the algorithm’s stability.
    {{< /abstract >}}
- * <div class="section-subheading article-title">10:30-11:00am: Coffee Break</div>
- * <div class="section-subheading article-title">11:00-12:00: Three 20 minute (15+5) lectures</div>
-   {{< abstract
-   title="HV geometry for signal processing"
-   author="Ruiyu Han"
-   affiliation="Carnegie Mellon"
-   >}}
-   I first introduce a Riemann geometry on the space of signals which allows
-   both horizontal and vertical deformations and then introduce a numerical
-   scheme to compute the induced geodesics.
-   {{< /abstract >}}
-   {{< abstract
-   title="Score-Based Generative Models through the Lens of Wasserstein Proximal Operators"
-   author="Siting Liu"
-   affiliation="University of California, Los Angeles"
-   >}}
-   In this presentation, I will explore how score-based generative models (SGMs)
-   function as the Wasserstein proximal operator (WPO) of cross-entropy. This
-   connection is clarified through the lens of mean-field games (MFG). Moreover,
-   by applying this mathematical structure, we present an interpretable
-   kernel-based model for interpreting score functions. This model significantly
-   improves the efficiency of SGMs by reducing the need for training samples and
-   shortening the training time. Additionally, the use of this kernel-based
-   approach, together with the terminal condition of the MFG, reveals new
-   explanations into the manifold learning and generalization properties of
-   SGMs, and provides a solution to their memorization effects.
-   {{< /abstract >}}
-   {{< abstract
-   title="Applications of no-collision transportation maps in manifold learning"
+ * {{< abstract
+   title="10:00-10:30: Applications of no-collision transportation maps in manifold learning"
    author="Elisa Negrini"
    affiliation="University of California, Los Angeles"
    >}}
@@ -191,15 +193,41 @@ projects: ["pihot"]
    manifold learning tasks compared to other OT and Euclidean-based methods at a
    fraction of the computational cost.
    {{< /abstract >}}
+ * <div class="section-subheading article-title">10:30-11:00: Coffee Break</div>
+ * {{< abstract
+   title="11:00-11:30: Score-Based Generative Models through the Lens of Wasserstein Proximal Operators"
+   author="Siting Liu"
+   affiliation="University of California, Los Angeles"
+   >}}
+   In this presentation, I will explore how score-based generative models (SGMs)
+   function as the Wasserstein proximal operator (WPO) of cross-entropy. This
+   connection is clarified through the lens of mean-field games (MFG). Moreover,
+   by applying this mathematical structure, we present an interpretable
+   kernel-based model for interpreting score functions. This model significantly
+   improves the efficiency of SGMs by reducing the need for training samples and
+   shortening the training time. Additionally, the use of this kernel-based
+   approach, together with the terminal condition of the MFG, reveals new
+   explanations into the manifold learning and generalization properties of
+   SGMs, and provides a solution to their memorization effects.
+   {{< /abstract >}}
+ * {{< abstract
+   title="11:30-12:00: HV geometry for signal processing"
+   author="Ruiyu Han"
+   affiliation="Carnegie Mellon"
+   >}}
+   I first introduce a Riemann geometry on the space of signals which allows
+   both horizontal and vertical deformations and then introduce a numerical
+   scheme to compute the induced geodesics.
+   {{< /abstract >}}
  * <div class="section-subheading article-title">12:00-1:00pm: Lunch</div>
 
 
 
 ## Friday
 
- * <div class="section-subheading article-title">8:00-9am: Breakfast</div>
+ * <div class="section-subheading article-title">8:30-9:30: Breakfast</div>
  * {{< abstract
-   title="9:00-9:30: Structure-Preserving Particle Method for the Vlasov-Maxwell-Landau Equation"
+   title="9:30-10:00: Structure-Preserving Particle Method for the Vlasov-Maxwell-Landau Equation"
    author="Jingwei Hu"
    affiliation="University of Washington"
    >}}
@@ -216,7 +244,7 @@ projects: ["pihot"]
    Landau damping, two-stream instability, and Weibel instability.
    {{< /abstract >}}
  * {{< abstract
-   title="9:30-10:00: Optimal Transport Divergences induced by Scoring Functions"
+   title="10:00-10:30: Optimal Transport Divergences induced by Scoring Functions"
    author="Silvia Pesenti"
    affiliation="University of Toronto"
    >}}
@@ -237,7 +265,7 @@ projects: ["pihot"]
    infinitely many MK divergences, the comonotonic coupling is
    simultaneously optimal.
    {{< /abstract >}}
- * <div class="section-subheading article-title">10:30-11:00am: Coffee Break</div>
+ * <div class="section-subheading article-title">10:30-11:00: Coffee Break</div>
  * {{< abstract
    title="11:00-11:30: Multi-robot motion planning with intermittent diffusion"
     author="Christina Frederick"
