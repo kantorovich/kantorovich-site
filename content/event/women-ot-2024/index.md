@@ -60,10 +60,12 @@ projects: ["pihot"]
  * Ruidi Chen (Microsoft)
  * Yuan Gao (Purdue University, Department of Mathematics)
  * Siting Liu (University of California, Los Angeles, Department of Mathematics)
- * Jiao Jiao Fan (Georgia Institute of Technology, School of Mathematics)
+ * Jiao Jiao Fan (Georgia Institute of Technology, Aerospace Engineering)
  * Maria Oprea (Cornell University, Mathematics)
- * Yao Xie (Georgia Institute of Technology, Mathematics)
- * Jiajin Li (Stanford University, Mathematics)
+ * Yao Xie (Georgia Institute of Technology,  H. Milton Stewart School of
+   Industrial and Systems Engineering (ISyE))
+ * Jiajin Li (Stanford University, Department of Management Science and
+   Engineering (MS&E)
 
 ### Workshop Schedule
 
