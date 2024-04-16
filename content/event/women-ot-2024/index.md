@@ -104,11 +104,22 @@ projects: ["pihot"]
  * <div class="section-subheading article-title">1:40-2:00: Group Photo</div>
  * <div class="section-subheading article-title">2:00-3:00: Discussion: What should be the future goals for Women in OT?</div>
  * {{< abstract
-   title="3:00-3:30: TBD"
+   title="3:00-3:30: Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation"
    author="Jiajin Li"
    affiliation="Stanford University"
    >}}
-   TBD
+   In this talk, we study the design and analysis of a class of efficient
+   algorithms for computing the Gromov-Wasserstein (GW) distance tailored to
+   large-scale graph learning tasks. Armed with the Luo-Tseng error bound
+   condition, two proposed algorithms, called Bregman Alternating Projected
+   Gradient (BAPG) and hybrid Bregman Proximal Gradient (hBPG) enjoy the
+   convergence guarantees. Upon task-specific properties, our analysis further
+   provides novel theoretical insights to guide how to select the best-fit
+   method. As a result, we are able to provide comprehensive experiments to
+   validate the effectiveness of our methods on a host of tasks, including graph
+   alignment, graph partition, and shape matching. In terms of both wall-clock
+   time and modeling performance, the proposed methods achieve state-of-the-art
+   results.
    {{< /abstract >}}
  * <div class="section-subheading article-title">3:30-4:00: Coffee</div>
  * {{< abstract
