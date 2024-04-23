@@ -26,7 +26,7 @@ featured: false
 draft: false
 
 image:
-  caption: ""
+  caption: "Women In Optimal Transport 2024 - UBC"
   focal_point: ""
   preview_only: false
 
@@ -311,3 +311,7 @@ projects: ["pihot"]
    baselines, and image-to-image translation.
    {{< /abstract >}}
  * <div class="section-subheading article-title">12:00-2:00: Lunch, discussion, and departure</div>
+
+## Photos
+{{< figure src="featured.jpg" title="Women in Optimal Transport - UBC" >}}
+{{< figure src="IMG_1380.jpeg" title="Women in Optimal Transport - UBC Ropes Course">}}
