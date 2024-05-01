@@ -76,6 +76,7 @@ projects: ["pihot"]
  * {{< abstract
    title="9:30-10:30: An introduction to Optimal Transport"
    author="Caroline Moosmuller"
+   slides="2024-04-17-Women-OT-moosmueller.pdf"
    affiliation="University of North Carolina"
    >}}
    This talk provides an overview of optimal transport intended to establish a
@@ -91,6 +92,7 @@ projects: ["pihot"]
  * {{< abstract
    title="11:00-12:00: Gradient flows and PDEs"
    author="Olga Turanova"
+   slides="OlgaTuranova.pdf"
    affiliation="Michigan State University"
    >}}
    In the first half of the talk I will provide a very brief introduction to
@@ -106,6 +108,7 @@ projects: ["pihot"]
  * {{< abstract
    title="3:00-3:30: Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation"
    author="Jiajin Li"
+   slides="JiajunLi.pdf"
    affiliation="Stanford University"
    >}}
    In this talk, we study the design and analysis of a class of efficient
@@ -137,6 +140,7 @@ projects: ["pihot"]
  * {{< abstract 
    title="9:00-9:30: Wasserstein gradient flows in an inhomogeneous media: convergence and the effective Wasserstein metric"
    author="Yuan Gao"
+   slides="YuanGao.pdf"
    affiliation="Purdue University"
    >}}
    The Fokker-Planck equation with fast oscillated coefficients can be regarded
@@ -151,6 +155,7 @@ projects: ["pihot"]
  * {{< abstract
    title="9:30-10:00: TBD"
    author="Xue Feng"
+   slides="Xue_Feng_presentation.pdf"
    affiliation="University of California, Davis"
    >}}
    TBD
@@ -158,6 +163,7 @@ projects: ["pihot"]
    {{< abstract
    title="Sampling via Nonlinear Diffusion Equations"
    author="Claire Murphy"
+   slides="Claire_Murphy.pdf"
    affiliation="University of California, Santa Barbara"
    >}}
    Given a target probability measure, a fundamental problem is to approximate
@@ -172,6 +178,7 @@ projects: ["pihot"]
    {{< abstract
    title="Probabilistic Taken’s Embedding through the Wasserstein Tangent Space"
    author="Maria Oprea"
+   slides="Maria_Oprea.pdf"
    affiliation="Cornell University"
    >}}
    In this work, we generalize the Takens embedding theorem to the Eulerian
@@ -185,6 +192,7 @@ projects: ["pihot"]
  * {{< abstract
    title="10:00-10:30: Applications of no-collision transportation maps in manifold learning"
    author="Elisa Negrini"
+   slides="Negrini.pdf"
    affiliation="University of California, Los Angeles"
    >}}
    We investigate applications of no-collision transportation maps introduced by
@@ -210,6 +218,7 @@ projects: ["pihot"]
  * {{< abstract
    title="11:00-11:30: Score-Based Generative Models through the Lens of Wasserstein Proximal Operators"
    author="Siting Liu"
+   slides="SitingLiu.pdf"
    affiliation="University of California, Los Angeles"
    >}}
    In this presentation, I will explore how score-based generative models (SGMs)
@@ -226,6 +235,7 @@ projects: ["pihot"]
  * {{< abstract
    title="11:30-12:00: HV geometry for signal processing"
    author="Ruiyu Han"
+   slides="Ruiyu_Han_HVgeometry.pdf"
    affiliation="Carnegie Mellon"
    >}}
    I first introduce a Riemann geometry on the space of signals which allows
@@ -259,6 +269,7 @@ projects: ["pihot"]
  * {{< abstract
    title="10:00-10:30: Optimal Transport Divergences induced by Scoring Functions"
    author="Silvia Pesenti"
+   slides="Pesenti.pdf"
    affiliation="University of Toronto"
    >}}
    We employ scoring functions, used in statistics for eliciting risk
@@ -294,6 +305,7 @@ projects: ["pihot"]
  * {{< abstract
    title="11:30-12:00: Computing high-dimensional optimal transport by flow neural networks"
    author="Yao Xie"
+   slides="Yao_Xie.pdf"
    affiliation="Georgia Institute of Technology"
    >}}
    Flow-based models are widely used in generative tasks, including normalizing
