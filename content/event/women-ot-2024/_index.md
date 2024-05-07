@@ -126,8 +126,9 @@ projects: ["pihot"]
    {{< /abstract >}}
  * <div class="section-subheading article-title">3:30-4:00: Coffee</div>
  * {{< abstract
-   title="4:00-5:00: TBD"
+   title="4:00-5:00: (Penalized) Sieve Estimation and Inference on Semi-nonparametric Models: a Brief Overview"
    author="Xiaohong Chen"
+   slides="Chen-UBC-April20-v2.pdf"
    affiliation="Yale University"
    >}}
    TBD
