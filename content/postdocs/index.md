@@ -15,22 +15,25 @@ header:
 ---
 ## Past and present postdocs associated with the Kantorovich Initiative
 
-### 2022
+
+* ### Hugo Lavenant
+  - **Location**: UBC, Vancouver
+  - **Website**: https://hugolav.github.io/
+  - **KI mentors**:  [Young-Heon Kim](/authors/yhkim), [Geoff Schiebinger](/authors/schiebinger)
+  - **Notes**: Currently assistant professor at Bocconi University, Italy. 
 
 * ### Nabarun Deb
   - **Location**: UBC, Vancouver
   - **Website**: https://nabarund.github.io/
   - **KI mentors**: [Young-Heon Kim](/authors/yhkim), [Soumik Pal](/authors/soumik), [Geoff Schiebinger](/authors/schiebinger)
-  - **Term**: 2022-2023
   - **Note**: Currently in a tenure-track position at the Chicago Booth School of Business.
  
-### 2023
+
 
 * ### Jakwang Kim
   - **Location**: UBC, Vancouver
   - **Website**: [https://sites.google.com/view/jakwangkim/home](https://sites.google.com/view/jakwangkim/home)
   - **KI mentors**: [Khanh Dao Duc](/authors/kdaoduc), [Young-Heon Kim](/authors/yhkim), [Soumik Pal](/authors/soumik), [Geoff Schiebinger](/authors/schiebinger)
-  - **Term**: 2023-2024
   - **Note**: 
 
  
