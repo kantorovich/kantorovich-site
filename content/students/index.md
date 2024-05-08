@@ -28,4 +28,12 @@ header:
   - **KI mentors**: [Brendan Pass](/authors/pass)
   - **Graduated**: 2022
   - **Note**: Joining U-Ottawa as a postdoctoral scholar.
+ 
+  ### 2024 Graduations
+  * ### Jorge Rivero
+    - **Department**: UW Economics
+    - **Website**: https://www.jarivero.com/
+    - **KI mentors**: Yanqin Fan
+    - **Graduated**: 2024
+    - **Note**: Joining Rensselaer Polytechnic Institute as an assistant professor.
 
