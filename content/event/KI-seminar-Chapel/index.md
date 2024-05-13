@@ -21,8 +21,8 @@ abstract: |
   Consequently, it is often considered to be more robust, to some extent,
   against these artifacts compared to its standard balanced counterpart. In this
   presentation, I will review several divergences for relaxing the marginals,
-  ranging from \emph{vertical} divergences like the Kullback-Leibler or the
-  L2-norm, which allow for the removal of some mass, to \emph{horizontal} ones,
+  ranging from _vertical_ divergences like the Kullback-Leibler or the
+  L2-norm, which allow for the removal of some mass, to _horizontal_ ones,
   enabling a more robust formulation by redistributing the mass between the
   source and target distributions. Additionally, I will discuss efficient
   algorithms that do not necessitate additional regularization on the OT plan.
