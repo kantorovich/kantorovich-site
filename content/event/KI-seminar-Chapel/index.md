@@ -51,8 +51,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video:
-url_slides:
+url_video: 'https://www.mathtube.org/lecture/video/introduction-unbalanced-optimal-transport-and-its-efficient-computational-solutions'
+url_slides: Chapel-slides.pdf
 ---
 ### Speaker Biography
 Laetitia Chapel is a full professor in computer science at Institut Agro
