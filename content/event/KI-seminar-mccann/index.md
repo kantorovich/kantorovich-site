@@ -55,7 +55,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video: 
+url_video: https://www.mathtube.org/lecture/video/trading-linearity-ellipticity-nonsmooth-approach-einsteins-theory-gravity-and
 url_slides:
 ---
 ### Speaker Biography
