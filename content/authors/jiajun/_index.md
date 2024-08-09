@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jaijin Li
+title: Jiajin Li
 
 # Username (this should match the folder name)
 authors:
-- jaijin
+- jiajin
 
 weight: 110
 
