@@ -12,7 +12,7 @@ weight: 120
 superuser: false
 
 # Role/position
-role: Instructor
+role: Instructor (postdoc)
 
 Organizations/Affiliations:
 organizations:
