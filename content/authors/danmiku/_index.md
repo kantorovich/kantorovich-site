@@ -12,11 +12,11 @@ weight: 120
 superuser: false
 
 # Role/position
-role: Instructor (postdoc)
+role: Assistant Professor of Mathematics
 
 Organizations/Affiliations:
 organizations:
-- name: MIT Mathematics
+- name: Department of Mathematics, University of Washington
   url: "https://math.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,7 +33,7 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: "https://math.mit.edu/~danmiku/"
+  link: "https://math.washington.edu/people/dan-mikulincer"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "danmiku@gmail.com"
@@ -42,6 +42,6 @@ email: "danmiku@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Affiliated Faculty
-- Massachusetts Institute of Technology
+- University of Washington
 
 ---
