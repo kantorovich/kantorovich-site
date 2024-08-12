@@ -23,12 +23,10 @@ organizations:
 bio:
 
 interests:
-  - High Dimensional Geometry
   - Probability
-  - Statistics
-  - Information Theory
-  - Data Science
-  - Learning Theory
+  - High Dimensional Geometry
+  - Optimal Transport
+  - Mathematics of Data Science
 
 social:
 - icon: globe
