@@ -17,7 +17,7 @@ role: Assistant Professor of Mathematics
 Organizations/Affiliations:
 organizations:
 - name: Department of Mathematics, University of Washington
-  url: "https://math.mit.edu/"
+  url: "https://math.mit.edu/~danmiku/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -34,7 +34,7 @@ social:
   link: "https://math.washington.edu/people/dan-mikulincer"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "danmiku@gmail.com"
+email: "danmiku@uw.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
