@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Gradient flows in the geometry of Sinkhorn divergences"
 event: KI Seminar
-location: "Online (zoom)"
+location: "ESB4133 and Online (zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
