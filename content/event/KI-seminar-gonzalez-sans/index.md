@@ -10,8 +10,15 @@ speaker:
   institution: Columbia University
   url: 'https://scholar.google.com/citations?user=8r-z0wIAAAAJ&hl=es'
 abstract: |
-  TBA
-
+  The quadratically regularized optimal transport problem (QOT) has emerged in
+  the literature as a sparse alternative to entropic regularization (EOT).
+  Unlike EOT, whose solutions always have full support—even for small
+  regularization parameters—QOT solutions, or QOT plans, tend to approximate the
+  support of the unregularized transport problem. This raises natural questions:
+  Do the supports decrease monotonically? At what rate does this support
+  reduction occur? How quickly does the QOT cost converge to the optimal
+  transport cost? In this talk, we will review recent theoretical results
+  addressing these questions. 
 summary: ""
 authors: 
 tags:
