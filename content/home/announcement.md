@@ -1,7 +1,7 @@
 ---
 widget: announcement
 headless: true  # This file represents a page section.
-active: true  # Activate this widget? true/false
+active: false  # Activate this widget? true/false
 weight: 1  # Order that this section will appear.
 
 title: "_New KI Event_: The Kantorovich Initiative will be co-sponsoring a [Summer School on
