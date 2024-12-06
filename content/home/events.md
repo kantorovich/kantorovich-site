@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-active: true
+active: false
 weight: 40
 title: Upcoming Events
 subtitle: ''
