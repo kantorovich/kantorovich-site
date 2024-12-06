@@ -44,5 +44,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_video:
-url_slides:
+url_slides: l-slides.pdf
 ---
