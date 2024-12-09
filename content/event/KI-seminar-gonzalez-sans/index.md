@@ -25,8 +25,8 @@ tags:
   - seminar
 categories:
   - event
-date: 2024-11-21T10:00:00-07:00
-publishDate: 2024-10-15T10:00:00-07:00
+date: 2024-11-21T10:00:00-08:00
+publishDate: 2024-10-15T10:00:00-08:00
 featured: false
 draft: false
 # Featured image

@@ -17,8 +17,8 @@ tags:
   - seminar
 categories:
   - event
-date: 2024-12-09T14:45:00-07:00
-publishDate: 2024-12-01T10:00:00-07:00
+date: 2024-12-09T14:45:00-08:00
+publishDate: 2024-12-01T10:00:00-08:00
 featured: false
 draft: false
 # Featured image
