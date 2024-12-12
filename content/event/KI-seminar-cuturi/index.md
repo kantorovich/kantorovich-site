@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "TBA"
+title: On Parameterizing Optimal Transport with Elastic Costs
 event: KI Seminar
 location: "Online (zoom)"
 registration_info: |
@@ -10,7 +10,13 @@ speaker:
   institution: Apple ML Research, Paris
   url: 'https://marcocuturi.net/'
 abstract: |
-  TBA
+  I will introduce our recent work on parameterising OT problems with
+  elastic costs, i.e. ground costs that mix the classic squared
+  Euclidean distance with a regularizer (e.g. L1 norm). After
+  highlighting the properties of OT maps that follow such costs, I
+  will present a method to compute ground truth OT maps with elastic
+  costs and also a method to learn the parameters, adaptively, of such
+  a regularizer. 
 summary: ""
 authors: 
 tags:
