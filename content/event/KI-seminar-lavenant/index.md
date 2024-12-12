@@ -43,6 +43,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video:
+url_video: https://www.mathtube.org/lecture/video/gradient-flows-geometry-sinkhorn-divergences
 url_slides: l-slides.pdf
 ---
