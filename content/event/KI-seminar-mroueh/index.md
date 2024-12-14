@@ -58,8 +58,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video:
-url_slides:
+url_video: https://mathtube.org/lecture/video/distributional-preference-alignment-large-language-models-optimal-transport
+url_slides: UBC_talk_1.pdf
 ---
 ### Speaker Biogrpahy
 Youssef Mroueh is a Principal Research Scientist in IBM Research with the
