@@ -34,8 +34,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video:
-url_slides:
+url_video: https://mathtube.org/lecture/video/kernel-approximation-wasserstein-and-fisher-rao-gradient-flows
+url_slides: zhu-slides.pdf
 ---
 ### Speaker Bio:
 [Jia-Jie Zhu](https://jj-zhu.github.io/) is a machine learner, applied mathematician, and research group leader at the Weierstrass Institute, Berlin. Previously, he worked as a postdoctoral researcher in machine learning at the Max-Planck-Institute for Intelligent Systems, Tübingen, and received his Ph.D. training in optimization, at the University of Florida, USA. He is interested in the intersection of machine learning, analysis, and optimization, on topics such as gradient flows of probability measures, optimal transport, and robustness of learning and optimization algorithms.
