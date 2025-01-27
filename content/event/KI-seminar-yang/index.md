@@ -54,6 +54,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video:
-url_slides:
+url_video: https://www.mathtube.org/lecture/video/transport-and-measure-theoretic-approaches-modeling-identifying-and-forecasting
+url_slides: yang-2025-01-25.pdf
 ---
