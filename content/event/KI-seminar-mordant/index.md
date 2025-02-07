@@ -26,7 +26,7 @@ tags:
 categories:
   - event
 date: 2025-02-20T10:00:00-08:00
-publishDate: 2025-02-20T10:00:00-08:00
+publishDate: 2025-02-01T10:00:00-08:00
 featured: false
 draft: false
 # Featured image
