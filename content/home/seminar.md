@@ -2,7 +2,7 @@
 widget: pages
 headless: true
 active: true
-weight: 48
+weight: 38
 title: KI Seminars (online)
 subtitle: ''
 content:

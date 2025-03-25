@@ -5,7 +5,7 @@
 # same background color
 widget: "blank"
 headless: true
-active: true
+active: false
 weight: 30
 title: ''
 subtitle: ''
