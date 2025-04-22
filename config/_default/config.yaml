@@ -35,8 +35,8 @@ outputs:
     - RSS
     - JSON
     - WebAppManifest
-    - headers
-    - redirects
+#    - headers
+#    - redirects
   section:
     - HTML
     - RSS
