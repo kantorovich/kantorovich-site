@@ -35,6 +35,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-url_video:
+url_video: https://www.mathtube.org/lecture/video/diffusion-models-schr%C3%B6dinger-bridges-when-generative-modeling-meets-optimal-transport
 #url_slides: GillesMordant-2025-02-20.pdf
 ---
