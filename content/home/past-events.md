@@ -2,8 +2,8 @@
 widget: pages
 headless: true
 active: true
-weight: 45
-title: Past Events
+weight: 37
+title: Other Events
 subtitle: ''
 content:
   page_type: event
