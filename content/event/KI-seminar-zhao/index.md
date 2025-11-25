@@ -5,7 +5,7 @@ Dynamics"
 event: KI Seminar
 location: "UBC - ESB4127 (PIMS) & Online (Zoom)"
 registration_info: |
-  Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
+  Sign up for the [mailing list](https://mailchi.mp/b0bac0af0ff3/ki-mailing-list) to receive the connection details
 speaker:
   name: Wenjun Zhao
   institution: Wake Forest University
