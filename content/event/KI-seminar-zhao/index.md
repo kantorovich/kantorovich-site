@@ -3,7 +3,7 @@
 title: "Invariant and Equivariant Data-driven Methods for Modeling Cellular
 Dynamics"
 event: KI Seminar
-location: "UBC - ESB4127 (PIMS)"
+location: "UBC - ESB4127 (PIMS) & Online (Zoom)"
 registration_info: |
   Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
