@@ -2,7 +2,7 @@
 widget: pages
 headless: true
 active: true
-weight: 37
+weight: 39
 title: Other Events
 subtitle: ''
 content:
