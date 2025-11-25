@@ -3,20 +3,15 @@
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 85  # Order that this section will appear.
-
 title = "Mailing List"
 subtitle = ""
-
 [design]
 columns = "2"
-
 +++
-
 We run the following [mailing
 list](https://mailchi.mp/b0bac0af0ff3/ki-mailing-list) to advertise group
 activities and related events. Please consider signing up to keep up to date
 with the latest developments.
-
 <div id="mc_embed_signup">
 <form action="https://kantorovich.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&amp;id=845fe9abdc&amp;f_id=006c7de1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
 <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
@@ -69,9 +64,7 @@ function getDefaultCountryProgram(defaultCountryCode, smsProgramData) {
 if (!smsProgramData || smsProgramData.length === 0) {
 return null;
 }
-
 const browserLanguage = getBrowserLanguage();
-
 if (browserLanguage) {
 const foundProgram = smsProgramData.find(
 (program) => program?.countryCode === browserLanguage,
@@ -80,7 +73,6 @@ if (foundProgram) {
 return foundProgram;
 }
 }
-
 if (defaultCountryCode) {
 const foundProgram = smsProgramData.find(
 (program) => program?.countryCode === defaultCountryCode,
@@ -89,48 +81,39 @@ if (foundProgram) {
 return foundProgram;
 }
 }
-
 return smsProgramData[0];
 }
 function updateSmsLegalText(countryCode, fieldName) {
 if (!countryCode || !fieldName) {
 return;
 }
-
 const programs = window?.MC?.smsPhoneData?.programs;
 if (!programs || !Array.isArray(programs)) {
 return;
 }
-
 const program = programs.find(program => program?.countryCode === countryCode);
 if (!program || !program.requiredTemplate) {
 return;
 }
-
 const legalTextElement = document.querySelector('#legal-text-' + fieldName);
 if (!legalTextElement) {
 return;
 }
-
 // Remove HTML tags and clean up the text
 const divRegex = new RegExp('</?[div][^>]*>', 'gi');
 const fullAnchorRegex = new RegExp('<a.*?</a>', 'g');
 const anchorRegex = new RegExp('<a href="(.*?)" target="(.*?)">(.*?)</a>');
-
 const requiredLegalText = program.requiredTemplate
 .replace(divRegex, '')
 .replace(fullAnchorRegex, '')
 .slice(0, -1);
-
 const anchorMatches = program.requiredTemplate.match(anchorRegex);
-
 if (anchorMatches && anchorMatches.length >= 4) {
 // Create link element safely using DOM methods instead of innerHTML
 const linkElement = document.createElement('a');
 linkElement.href = sanitizeUrl(anchorMatches[1]);
 linkElement.target = sanitizeHtml(anchorMatches[2]);
 linkElement.textContent = sanitizeHtml(anchorMatches[3]);
-
 legalTextElement.textContent = requiredLegalText + ' ';
 legalTextElement.appendChild(linkElement);
 legalTextElement.appendChild(document.createTextNode('.'));
@@ -142,7 +125,6 @@ function generateDropdownOptions(smsProgramData) {
 if (!smsProgramData || smsProgramData.length === 0) {
 return '';
 }
-
 return smsProgramData.map(program => {
 const flag = getCountryUnicodeFlag(program.countryCode);
 const countryName = getCountryName(program.countryCode);
@@ -168,7 +150,6 @@ function getDefaultPlaceholder(countryCode) {
 if (!countryCode || typeof countryCode !== 'string') {
 return '+1 000 000 0000'; // Default US placeholder
 }
-
 const mockPlaceholders = [
 {
 countryCode: 'US',
