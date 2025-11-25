@@ -37,8 +37,8 @@ tags:
   - seminar
 categories:
   - event
-date: 2025-11-27T15:30:00-07:00
-publishDate: 2025-11-20T15:30:00-07:00
+date: 2025-11-27T15:30:00-08:00
+publishDate: 2025-11-20T15:30:00-08:00
 featured: false
 draft: false
 # Featured image
