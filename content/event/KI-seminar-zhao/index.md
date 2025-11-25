@@ -4,9 +4,8 @@ title: "Invariant and Equivariant Data-driven Methods for Modeling Cellular
 Dynamics"
 event: KI Seminar
 location: "UBC - ESB4127 (PIMS)"
-registration_info:
-#registration_info: |
-#  Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
+registration_info: |
+  Sign up for the [mailing list](https://math.us8.list-manage.com/subscribe/post?u=c9cc3beec9fa57d7299ac161c&id=845fe9abdc) to receive the connection details
 speaker:
   name: Wenjun Zhao
   institution: Wake Forest University
